@@ -2,5 +2,5 @@
 layout: default
 ---
 
-Some stuff that's on the home page!
+Some stuff other that's on the home page!
 ![example image](assets/example.gif)

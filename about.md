@@ -5,3 +5,5 @@ permalink: /about/
 ---
 
 About pop gym!
+
+It's a gym!

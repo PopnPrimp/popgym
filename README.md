@@ -20,6 +20,6 @@ Don't change the stuff in between the `-----` 😱
 
 ## Images
 
-[Add images here](assets) by click "Upload files"
+[Add images here](assets) by clicking "Upload files"
 
 Then add `![this is a desciption of the image](assets/example.gif)` to one of the content files above.

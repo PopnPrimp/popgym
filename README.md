@@ -16,6 +16,8 @@ Edit these files to add content to the site:
 Look for the pencil in the upper right of the file to edit it.
 Whenever you save a file the new content will be automatically published!
 
+Don't change the stuff in between the `-----` 😱
+
 ## Images
 
 [Go here to add images](upload/master/assets)

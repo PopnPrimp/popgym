@@ -23,9 +23,68 @@ body {
        -o-font-feature-settings: "kern" 1;
           font-feature-settings: "kern" 1;
   font-kerning: normal;
+  overflow: hidden;
 }
 
+.dots {
+    width: 600px;
+    height: 360px;
+    position: absolute;
+    z-index: -1;
+}
 
+.dots-blue {
+    background:
+        -moz-radial-gradient(rgba(91, 206, 250, 0.5) 25%, transparent 26%),
+        -moz-radial-gradient(rgba(91, 206, 250, 0.5) 25%, transparent 26%),
+        transparent;
+    background:
+        -webkit-radial-gradient(rgba(91, 206, 250, 0.5) 25%, transparent 26%),
+        -webkit-radial-gradient(rgba(91, 206, 250, 0.5) 25%, transparent 26%),
+        transparent;
+    background-position: 0 0;
+    -webkit-background-size: 60px  60px;
+    -moz-background-size: 60px  60px;
+    background-size: 60px  60px;
+
+    bottom: -108px;
+    left: -190px;
+    transform: rotate(36deg);
+    z-index: -3;
+}
+
+.dots-pink {
+    background:
+        -moz-radial-gradient(rgba(245, 169, 184, 0.6) 25%, transparent 26%),
+        -moz-radial-gradient(rgba(245, 169, 184, 0.6) 25%, transparent 26%),
+        transparent;
+    background:
+        -webkit-radial-gradient(rgba(245, 169, 184, 0.6) 25%, transparent 26%),
+        -webkit-radial-gradient(rgba(245, 169, 184, 0.6) 25%, transparent 26%),
+        transparent;
+    background-position: 0 0;
+    -webkit-background-size: 60px  60px;
+    -moz-background-size: 60px  60px;
+    background-size: 60px  60px;
+
+    bottom: -110px;
+    left: -193px;
+    transform: rotate(40deg);
+}
+
+.triangels {
+    z-index: -2;
+    background-image: url(triagle.png);
+    background-position: 0 0;
+    background-size: 100px 90px;
+    background-repeat: repeat;
+    top: -40px;
+    right: -42px;
+    transform: rotate(5deg);
+    width: 30vw;
+    height: 110vh;
+    position: absolute;
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm

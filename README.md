@@ -23,3 +23,10 @@ Don't change the stuff in between the `-----` 😱
 [Add images here](assets) by clicking "Upload files"
 
 Then add `![this is a desciption of the image](assets/example.gif)` to one of the content files above.
+
+## Runing locally
+
+`jekyll serve`
+
+This is a [Jekyl](https://jekyllrb.com/) site.
+

@@ -6,5 +6,3 @@ categories: update
 ---
 
 TEst stuff so that I figure out how to do this yay!!
-
-![this is a desciption of the image](assets/example.gif)

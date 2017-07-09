@@ -81,8 +81,8 @@ body {
     right: -42px;
     transform: rotate(5deg);
     width: 30vw;
-    height: 80vh;
-    position: absolute;
+    height: (90px * 6);
+    position: fixed;
 }
 
 /**
@@ -227,6 +227,7 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
+  background: rgba(255, 255, 255, 0.5);
   @extend %clearfix;
 
   @include media-query($on-laptop) {

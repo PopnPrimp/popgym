@@ -103,7 +103,13 @@
   }
 }
 
-
+.fb-embed {
+  width: 50%;
+  float: right;
+  @include media-query($on-laptop) {
+    display: none;
+  }
+}
 
 /**
  * Site footer

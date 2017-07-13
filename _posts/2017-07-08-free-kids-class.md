@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Free Kids Class This Monday!"
-date:   2017-07-08
+date:   2017-07-10
 categories: update
 ---
 

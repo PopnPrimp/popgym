@@ -7,6 +7,6 @@ permalink: /mission/
 
 <i><center>Strength in ourselves, strength in our communities. Free classes for fitness, self-defense, and self care.
 
-Pop Gym believes that everyone should access to skills that are necessary for their survival. Our mission is to open up a space in which folks who do not have access to these skills can attend classes on fitness, self-defense, and a variety of other skill sets. While that dream is a long-way away, we are actively taking steps to reach this goal!
+<center>Pop Gym believes that everyone should access to skills that are necessary for their survival. Our mission is to open up a space in which folks who do not have access to these skills can attend classes on fitness, self-defense, and a variety of other skill sets. While that dream is a long-way away, we are actively taking steps to reach this goal!
 
-Until then, we are hosting a bunch of great free self-defense workshops around NYC (and surrounding areas). Check our schedule for a workshop near you, or email us to set one up for your group/organization!
+<center>Until then, we are hosting a bunch of great free self-defense workshops around NYC (and surrounding areas). Check our schedule for a workshop near you, or email us to set one up for your group/organization!

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Schedule
-permalink: /schedule/
+permalink: "/schedule/"
+layout: page
 ---
 
 ## More info coming soon!

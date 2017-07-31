@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Contact
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
 
 Want more info on the project? Would you like to set up a free self-defense workshop for your organization?

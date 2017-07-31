@@ -1,8 +1,9 @@
 ---
+title: Free Kids Class This Monday!
+date: 2017-07-10 00:00:00 Z
+categories:
+- update
 layout: post
-title:  "Free Kids Class This Monday!"
-date:   2017-07-10
-categories: update
 ---
 
 Join us at The Living Gallery for a Free Kids/Adults Self-Defense Workshop! 

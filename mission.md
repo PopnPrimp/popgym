@@ -1,6 +1,6 @@
 ---
-title: Mission
-permalink: "/mission/"
+title: 
+permalink: 
 layout: page
 ---
 

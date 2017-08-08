@@ -1,5 +1,4 @@
 ---
-layout: page
 ---
 
 <iframe src="https://giphy.com/embed/EXZMebpgAtrmE" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/EXZMebpgAtrmE">via GIPHY</a></p>

@@ -20,7 +20,7 @@ Don't change the stuff in between the `-----` 😱
 
 ## Not seeing your updates?
 
-If you make changes and they aren't showing up, [check out this page](https://github.com/imightbeamy/popgym/commits/master) and look for a red "x" or a gree "✔" next to your change. If it's an "x" that means the build failed. Hover over the "x" and you should see "Failure: <error message>" telling you why. You can try to fix it or contact Amy and she'll take a look.
+If you make changes and they aren't showing up, [check out this page](https://github.com/imightbeamy/popgym/commits/master) and look for a red "x" or a green "✔" next to your change. If it's an "x" that means the build failed. Hover over the "x" and you should see "Failure: <error message>" telling you why. You can try to fix it or contact Amy and she'll take a look.
 
 ## Images
 

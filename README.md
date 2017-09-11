@@ -12,6 +12,7 @@ Edit these files to add content to the site:
 * [Schedule](schedule.md)
 * [Contact](contact.md)
 * [Fundraising](fundraising.md)
+* [Store](store.md)
 
 Look for the pencil in the upper right of the file to edit it.
 Whenever you save a file the new content will be automatically published!

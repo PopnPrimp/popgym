@@ -4,8 +4,6 @@ permalink: "/about/"
 layout: page
 ---
 
-
-
 ## Mission
 
 Pop Gym is an open gym where folks can come to jump, run, punch, roll, sweat, and dance together; a place where people can meet to learn from and build strong bonds with one another; a place where our neighbors can come and learn skills that we hope can help them to feel empowered and to navigate the world with confidence and security. We seek to add to and expand upon the rich tapestry of New York community spaces, through a rearticulation of the recreational facility; we wish to develop a communal skill space. 

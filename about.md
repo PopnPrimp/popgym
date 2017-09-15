@@ -22,15 +22,10 @@ We strive to make Pop Gym a safe and secure environment, where we can work both 
  
 Toward athleticism without commodification or patriarchy—to strengthen ourselves and our communities.
 
-# Values
+## Values
 
-## Membership
-
-## Saf(er) Spaces
-
-## Accountability
-
-## Transparancy
-By laws and funds and such
-
-## Glossary/Further Readings
+Membership
+Saf(er) Spaces
+Accountability
+Transparancy By laws and funds and such
+Glossary/Further Readings

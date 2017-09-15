@@ -24,8 +24,11 @@ Toward athleticism without commodification or patriarchy—to strengthen ourselv
 
 ## Values
 
-Membership
-Saf(er) Spaces
-Accountability
+* [Saf(er) Spaces](safespace.md)
+* [Membership](membership.md)
+* [Accountability](accountability.md)
+* [Transparency](transparency.md)
+* [Glossary/Further Reading](gloss.md)
+
+
 Transparancy By laws and funds and such
-Glossary/Further Readings

@@ -3,6 +3,7 @@ title: About
 permalink: "/about/"
 layout: page
 ---
+
 <i><center>Strength in ourselves, strength in our communities. Free classes for fitness, self-defense, and self care.
 
 <iframe src="https://giphy.com/embed/EXZMebpgAtrmE" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/EXZMebpgAtrmE">via GIPHY</a></p>

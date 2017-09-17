@@ -21,12 +21,13 @@ exclude:
 - Gemfile.lock
 paginate: 8
 paginate_path: updates/page:num
-gems: [jekyll-paginate]
+gems:
+- jekyll-paginate
 header_pages:
-  - about.md
-  - mission.md
-  - schedule.md
-  - contact.md
-  - fundraising.md
-  - store.md
-  - updates/index.html
+- about.md
+- mission.md
+- schedule.md
+- contact.md
+- fundraising.md
+- store.md
+- updates/index.html

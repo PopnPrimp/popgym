@@ -106,6 +106,7 @@
 .fb-embed {
   width: 50%;
   float: right;
+  padding-left: 30px;
   @include media-query($on-laptop) {
     display: none;
   }

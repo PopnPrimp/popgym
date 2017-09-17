@@ -9,7 +9,7 @@ layout: default
       js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=1620725258225221";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-    
+
 <div class="home">
 
   {{ content }}
@@ -18,19 +18,9 @@ layout: default
     <div class="fb-page" data-href="https://www.facebook.com/popgymbk/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/popgymbk/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/popgymbk/">POP Gym</a></blockquote></div>
   </div>
 
-  <h1 class="page-heading">Posts</h1>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+  <h1 class="page-heading">Latest Updates</h1>
+  {% assign home_page_posts = site.posts | slice:0,4 %}
+  {% include posts.html posts=home_page_posts %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        <p>{{ post.content }}</p>
-      </li>
-    {% endfor %}
-  </ul>
-
+  <a href="/updates">See all Updates</a>
 </div>

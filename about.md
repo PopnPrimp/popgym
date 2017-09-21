@@ -20,5 +20,5 @@ As we continue planning, we invite you to come by any of our free self-defense w
 * [Accountability](accountability.md)
 * [Transparency](transparency.md)
 * [Glossary/Further Reading](gloss.md)
-* Transparancy By laws and funds and such
+* Transparancy By laws and funds 
  

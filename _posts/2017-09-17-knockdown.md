@@ -4,7 +4,8 @@ date: 2017-09-17 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Pop Gym Pop Up Workshop at Defend + Restore fest, this Sunday at 3 and 5 PM!
+subtitle: Pop Gym Pop Up Workshop at Defend + Restore fest, this Sunday at 3 and 5
+  PM!
 ---
 
 ![Pop Gym at Defend + Restore](/assets/Knockdown.jpg)

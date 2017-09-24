@@ -4,7 +4,7 @@ permalink: "/contact/"
 layout: page
 ---
 
-Want more info on the project? Would you like to set up a free self-defense workshop for your organization?
+Want more info on the project? Would you like to set up a free #PopUp self-defense workshop for your organization?
 Email us at: [info@popgym.org](mailto:info@popgym.org)
 
 You can also find us on any of the Facebook, Twitter, Instagram, and Meetup! Check the buttons below!

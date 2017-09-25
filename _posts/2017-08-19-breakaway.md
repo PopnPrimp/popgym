@@ -4,7 +4,8 @@ date: 2017-08-19 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Our first Chicago stop on the Attack the Cat tour, catch us on 8/19 at Breakaway Social Center for a Pop Up workshop!
+subtitle: Our first Chicago stop on the Attack the Cat tour, catch us on 8/19 at Breakaway
+  Social Center for a Pop Up workshop!
 ---
 
 ![Pop Gym at Breakaway](/assets/breakaway.jpg)

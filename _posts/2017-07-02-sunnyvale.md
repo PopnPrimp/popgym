@@ -4,7 +4,8 @@ date: 2017-07-02 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Come on by our Pop Up Women/Trans/GNC/NB Self Defense Workshop at Sunnyvale on 07/02!
+subtitle: Come on by our Pop Up Women/Trans/GNC/NB Self Defense Workshop at Sunnyvale
+  on 07/02!
 ---
 
 ![Pop Gym at Sunnyvale](/assets/sunnyvale.jpg)

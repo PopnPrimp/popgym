@@ -18,7 +18,7 @@ Wear clothing you don't mind sweating in. Recommended for folks to bring their o
 
 #kickbutt
 
-RSVP on our Facebook or Meetup: [Pop Gym MMA on Facebook](https://www.facebook.com/events/1164310347017507/) | [Pop Gym MMA on Meetup]()
+RSVP on our Facebook or Meetup: [Pop Gym MMA on Facebook](https://www.facebook.com/events/1164310347017507/) | [Pop Gym MMA on Meetup](https://www.meetup.com/popgymbk/events/244123538/)
 
 
 *please check back weekly to confirm class times, as some weeks may vary

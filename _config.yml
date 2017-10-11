@@ -26,6 +26,7 @@ gems:
 header_pages:
 - about.md
 - schedule.md
+- mma.md
 - contact.md
 - fundraising.md
 - store.md

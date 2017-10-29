@@ -4,7 +4,8 @@ date: 2017-11-11 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Come on by for a Pop Up Self Defense Workshop at the Superchief Gallery on 11/11!
+subtitle: Come on by for a Pop Up Self Defense Workshop at the Superchief Gallery
+  on 11/11!
 ---
 
 ![Pop Gym at Bluestockings](/assets/bstoxoctober.jpg)

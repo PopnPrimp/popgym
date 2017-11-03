@@ -22,3 +22,6 @@ RSVP on our Facebook or Meetup: [Pop Gym MMA on Facebook](https://www.facebook.c
 
 
 *please check back weekly to confirm class times, as some weeks may vary
+
+
+![Pop Gym MMA](/assets/wolves.mov)

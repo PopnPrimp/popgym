@@ -6,6 +6,10 @@ layout: page
 
 <iframe src="https://giphy.com/embed/3o7aD6NpYS7w2VINwc" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pop-mma-popgym-3o7aD6NpYS7w2VINwc">via GIPHY</a></p>
 
+NOTE: THIS WEEK'S CLASS HAPPENING ON WEDNESDAY 11/8 AND NOT ON THURSDAY!!!!
+
+![Pop Gym MMA](/assets/wedmma.jpg)
+
 Pop Gym MMA! A weekly series for folks who want to learn a little bit more than basic self-defense, in a safe, holistic, and body-positive environment. 
 
 Come by these free introductory workshops that combine elements of Boxing, Muay Thai, BJJ, and other fighting arts with a pad-smacking-fun workout and an all around good time!

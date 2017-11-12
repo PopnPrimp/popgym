@@ -4,9 +4,7 @@ permalink: "/mma/"
 layout: page
 ---
 
-NOTE: THIS WEEK'S CLASS HAPPENING ON WEDNESDAY 11/8 AND NOT ON THURSDAY!!!!
-
-![Pop Gym MMA](/assets/wedmma.jpg)
+<iframe src="https://giphy.com/embed/3o6fJfjS0V3v97GbeM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mma-popgym-3o6fJfjS0V3v97GbeM">via GIPHY</a></p>
 
 Pop Gym MMA! A weekly series for folks who want to learn a little bit more than basic self-defense, in a safe, holistic, and body-positive environment. 
 

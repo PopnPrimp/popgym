@@ -21,7 +21,7 @@ A list some people and placs we think are super great!
 ## In-Person
 
 ### Physical Self-Defense
-* [Traditional Okinawan Karate School](http://www.tokarate.com/) Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
+* [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
 * [Rev Fitness](http://www.revolutionaryfitness.org/)- Affordable and rad fitness in East Harlem
 * [Masterskya](http://masterskya.com/)- Low cost BJJ in Bushwick
 * [Physical Culture Collective](http://www.physicalculturecollective.com/)- Muay Thai, BJJ, and Fitness classes in Bushwick

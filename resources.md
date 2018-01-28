@@ -7,7 +7,7 @@ layout: page
 # Self-Defense Resources
 ## Online
 
-Zine turned Website with a bunch a great videos, from the folks at WISE: [Self-Defense Starter Kit](selfdefensestarterkit.com)
+Zine turned Website with a bunch a great videos, from the folks at WISE: [Self-Defense Starter Kit](https://www.selfdefensestarterkit.com)
         
             Pop Gym MMA
                 Every Thursday at The Dreamhouse (1022 Wyckoff Ave, Ridgewood, Queens)! Classes for Women, Trans, GNC, NB Folk and General Classes start at 7:00! General classes start at 8:30

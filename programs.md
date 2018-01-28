@@ -1,6 +1,6 @@
 ---
-title: Pop Gym MMA
-permalink: "/mma/"
+title: Programming
+permalink: "/programs/"
 layout: page
 ---
 

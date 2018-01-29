@@ -38,7 +38,7 @@ A list some people and placs we think are super great!
 ### Mental Health Resources
 * [Respite Centers](https://www1.nyc.gov/site/doh/health/health-topics/crisis-emergency-services-respite-centers.page)- Lists of a few respite centers in NYC
 * [National Institute for Psychotherapies](https://nipinst.org/)- Psychotherapy, psychoanalysis and EMDR services. Sliding scale cost, minimum $35 per sesssion in Midtown
-* [Fountain House](https://www.fountainhouse.org/content/membership)
+* [Fountain House](https://www.fountainhouse.org/content/membership)- Mental health services, "providing opportunities for our members to live, work, and learn, while contributing their talents through a community of mutual support." 
 * [Brooklyn Center for Psychotherapy](http://www.newdirectionsbrooklyn.com/)- Sliding-scale mental health services in Brooklyn
 * [Training Institute for Mental Health](https://www.timh.org/)- Psychodynamic, sliding scale mental health services with locations in Manhatten
 

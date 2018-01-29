@@ -31,6 +31,23 @@ A list some people and placs we think are super great!
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment
 
+### Physical Health
+* [Callen-Lorde](http://callen-lorde.org/our-services/) LGBTQ Health Services (Mental Health as well)
+* [Third Root](https://thirdroot.org/) Acupuncture, herbal medicine, massage, yoga at a sliding scale cost in Brooklyn
+
+### Mental Health Resources
+* [Respite Centers](https://www1.nyc.gov/site/doh/health/health-topics/crisis-emergency-services-respite-centers.page)- Lists of a few respite centers in NYC
+* [National Institute for Psychotherapies](https://nipinst.org/)- Psychotherapy, psychoanalysis and EMDR services. Sliding scale cost, minimum $35 per sesssion in Midtown
+* [Fountain House](https://www.fountainhouse.org/content/membership)
+* [Brooklyn Center for Psychotherapy](http://www.newdirectionsbrooklyn.com/)- Sliding-scale mental health services in Brooklyn
+* [Training Institute for Mental Health](https://www.timh.org/)- Psychodynamic, sliding scale mental health services with locations in Manhatten
+
+### Food Resources
+* [Neighborhood Guide to Food and Assistance](http://hungerfreenyc.org/sites/default/files/atoms/files/Citywide%20English_1.pdf)- Lists of places to apply for support or get a meal
+
+### Sanctuary Support
+* [New Sanctuary Coalition](http://www.newsanctuarynyc.org/get-support/)- List of resources for sanctuary support
+
 ## Online
 
 ### Physical Self-Defense
@@ -38,6 +55,7 @@ A list some people and placs we think are super great!
 
 ### CyberSecurity
 * [Holistic Security](https://holistic-security.tacticaltech.org/)- A guide to Threat Modeling by the Tactical Tech Collective
+* [Cutealism](http://cutealism.com/fight/)- Cute intro guide to cybersecurity!
 * [Data Detox](https://datadetox.myshadow.org/detox)- Day-by-day guide to get your cybersecurity on!
 * [SSD by EFF](https://ssd.eff.org/en)- A bunch of great 101 cybersecurity guides by the Electronic Frontier Foundation
 * [HackBlossom](https://hackblossom.org/)- Feminist cybersecurity guides/resources
@@ -49,6 +67,7 @@ A list some people and placs we think are super great!
 
 ### Know Your Rights
 * [NLG Know your Rights](https://www.nlg.org/know-your-rights/)
+
 
 
             

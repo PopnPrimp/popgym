@@ -9,12 +9,11 @@ collections:
     title: Uploads
     output: true
 email: info@popgym.org
-description: Pop Gym, it's Coming Soon!
+description: 573-POP-0143 (573-767-0143)
 baseurl: ''
 url: ''
 twitter_username: popgymbk
 facebook_username: popgymbk
-description: 573-POP-0143 (573-767-0143)
 instagram_username: popgymbk
 markdown: kramdown
 exclude:

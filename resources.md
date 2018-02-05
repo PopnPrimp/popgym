@@ -21,6 +21,7 @@ A list some people and placs we think are super great!
 * [Wickwood Aikikai](https://www.facebook.com/aikidoofwickwood/)- Aikido classes in Ridgewood Queens
 * [Physical Culture Collective](http://www.physicalculturecollective.com/)- Muay Thai, BJJ, and Fitness classes in Bushwick
 * [Chok Sabai](http://choksabaigym.com/)- Midtown Muay Thai/BJJ gym with Queer friendly environment
+* [Overthrow](https://overthrownyc.com/membership/)- Boxing gym with locations in Brooklyn and the LES, somewhat affordable options available
 * [Woodbine](https://www.facebook.com/events/1615153968570828/)- "Movement and Meditation" classes
 
 ### CyberSecurity
@@ -52,6 +53,7 @@ A list some people and placs we think are super great!
 
 ### Physical Self-Defense
 * [Self-Defense Starter Kit](https://www.selfdefensestarterkit.com)- Zine turned Website with a bunch a great videos
+* [Safe to Train](http://www.safetotrain.com/)- List of schools round the country the promote safe spaces
 
 ### CyberSecurity
 * [Holistic Security](https://holistic-security.tacticaltech.org/)- A guide to Threat Modeling by the Tactical Tech Collective

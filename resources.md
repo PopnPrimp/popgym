@@ -13,6 +13,7 @@ A list some people and placs we think are super great!
 ## In-Person
 
 ### Physical Self-Defense
+* [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk
 * [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
 * [Rev Fitness](http://www.revolutionaryfitness.org/)- Affordable and rad fitness in East Harlem
 * [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes for Femme, Queer and/or Trans folk

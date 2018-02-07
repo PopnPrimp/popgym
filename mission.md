@@ -13,3 +13,5 @@ Pop Gym has a variety of programming that acknowledges our always transforming b
 We strive to make Pop Gym a safe and secure environment, where we can work both from an understanding of the conditions that divide us and toward an intercommunal solidarity. We wish to engage in the process of community building while simultaneously understanding the need for practices that allow marginalized communities to discuss and develop in privacy. We try to meet people where they’re at.
  
 Toward athleticism without commodification or patriarchy—to strengthen ourselves and our communities.
+
+Next Up: [Saf(er) Spaces](safespace.md)

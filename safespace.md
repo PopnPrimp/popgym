@@ -4,7 +4,7 @@ permalink: "/safespace/"
 layout: page
 ---
 
-Pop Gym works to create Saf(er) spaces through out workshops and classes. Though we do not have a permanenent space at the moment, we acknowledge how various forms of oppression (based upon idendities including but not
+Pop Gym works to create Saf(er) Spaces through out workshops and classes. Though we do not have a permanenent space at the moment, we acknowledge how various forms of oppression (based upon idendities including but not
 limited to ability, activist experience, age, cultural background, education, 
 ethnicity, gender, immigration status, language, nationality, physical 
 appearance, race, religion, self-expression, sexual orientation, 

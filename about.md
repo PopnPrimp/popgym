@@ -16,7 +16,6 @@ As we continue planning, we invite you to come by any of our free self-defense a
 
 * [Mission](mission.md)
 * [Saf(er) Spaces](safespace.md)
-(membership.md)
 * [Accountability](accountability.md)
 * [Transparency](transparency.md)
 * [Glossary/Further Reading](gloss.md)

@@ -4,7 +4,7 @@ permalink: "/safespace/"
 layout: page
 ---
 
-<iframe src="https://giphy.com/embed/gxxlowyvtfS0M" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/puppy-dog-run-gxxlowyvtfS0M">via GIPHY</a></p>
+![Pop Gym at Bstox](/assets/1200px-Straightally.svg.png)
 
 Pop Gym works to create Saf(er) Spaces through out workshops and classes. Though we do not have a permanenent space at the moment, we acknowledge how various forms of oppression (based upon idendities including but not
 limited to ability, activist experience, age, cultural background, education, 

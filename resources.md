@@ -24,6 +24,7 @@ A list some people and placs we think are super great!
 * [Chok Sabai](http://choksabaigym.com/)- Midtown Muay Thai/BJJ gym with Queer friendly environment
 * [Overthrow](https://overthrownyc.com/membership/)- Boxing gym with locations in Brooklyn and the LES, somewhat affordable options available
 * [Woodbine](https://www.facebook.com/events/1615153968570828/)- "Movement and Meditation" classes
+* [Bronx Social Center](http://www.bronxsocialcenter.org/martial-arts/)- Offering karate classes twice a week in the South Bronx
 
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!

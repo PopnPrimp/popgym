@@ -8,7 +8,9 @@ At Pop Gym, it is very important for us to create [Saf(er) Spaces](safespace.md)
 
 More concretely, here are some of the things we will do in our workshops if an attendee does not respect the space, boundries and/or limits of others:
 
-* At our workshops, we do not tolerate the following:
-** any the use of language that purposefully demeans folks based on ability, activist experience, age, cultural background, education, ethnicity, gender, immigration status, language, nationality, physical appearance, race, religion, self-expression, sexual orientation, species, status as a parent and all the ways they intersect. 
-** any physical/emotional violence against other workshop participants.   
-* If a participant acts in any of the above ways, they will be asked to leave
+At our workshops, we do not tolerate the following:
+
+* any the use of language that purposefully demeans folks based on ability, activist experience, age, cultural background, education, ethnicity, gender, immigration status, language, nationality, physical appearance, race, religion, self-expression, sexual orientation, species, status as a parent and all the ways they intersect. 
+* any physical/emotional violence against other workshop participants.   
+
+If a participant acts in any of the above ways, they will be asked to leave

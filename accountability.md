@@ -17,3 +17,5 @@ At our workshops, we do not tolerate the following:
 If a participant acts in any of the above ways, they will be asked to leave. This decision is made on the workshop facilitator's behest, and is done so if they feel that a participant's presense is negatively effecting the experience of others. The facilitator may also speak with the transgressor to guage if they can be mindful of how they are effecting the space, and can determine if they can stay.
 
 If a participant has been previously asked to leave workshop, they may return only at our behest, depending on the severity of the act they have occured. We are always open to discuss a participant's return after a transgression, but we will first and foremost prioritize the needs of the folks affected by the transgression. If no redress can be made on behalf of the affected person(s), and/or if the transgressor is not willing to apologize for/understand how they have erred, they will be asked not to return to future Pop Gym events.
+
+Next: [Transparency](transparency.md)

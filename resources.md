@@ -57,6 +57,8 @@ A list some people and placs we think are super great!
 * [Self-Defense Starter Kit](https://www.selfdefensestarterkit.com)- Zine turned Website with a bunch a great videos
 * [Safe to Train](http://www.safetotrain.com/)- List of schools round the country the promote safe spaces
 * [Home Alive](http://www.teachhomealive.org)- Great resources and tps on self-defense
+* [Got A Girl Crush Catcalling Citation](http://www.gotagirlcrush.com/ccc)- Cards to confront street harassers with!
+* [Cards Against Harassment](http://www.cardsagainstharassment.com/)- Some more cards with messages to quiet street harassers
 
 ### CyberSecurity
 * [Holistic Security](https://holistic-security.tacticaltech.org/)- A guide to Threat Modeling by the Tactical Tech Collective

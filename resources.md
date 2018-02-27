@@ -44,6 +44,7 @@ A list some people and placs we think are super great!
 * [Fountain House](https://www.fountainhouse.org/content/membership)- Mental health services, "providing opportunities for our members to live, work, and learn, while contributing their talents through a community of mutual support." 
 * [Brooklyn Center for Psychotherapy](http://www.newdirectionsbrooklyn.com/)- Sliding-scale mental health services in Brooklyn
 * [Training Institute for Mental Health](https://www.timh.org/)- Psychodynamic, sliding scale mental health services with locations in Manhatten
+* [Ali Forney Center](https://www.aliforneycenter.org/about-us/) Providing housing and support for LGBTQ youth
 
 ### Food Resources
 * [Neighborhood Guide to Food and Assistance](http://hungerfreenyc.org/sites/default/files/atoms/files/Citywide%20English_1.pdf)- Lists of places to apply for support or get a meal

@@ -12,7 +12,7 @@ Edit these files to add content to the site:
 * [Schedule](schedule.md)
 * [Contact](contact.md)
 * [Fundraising](fundraising.md)
-* [Zine](zine.md)
+* [Zines](zines.md)
 * [Resources](resources.md)
 * [Store](store.md)
 

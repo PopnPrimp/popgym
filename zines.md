@@ -1,6 +1,6 @@
 ---
-title: Media
-permalink: "/media/"
+title: Zines
+permalink: "/zines/"
 layout: page
 ---
 

@@ -12,7 +12,7 @@ Check out some of the things we published!
 
 Some other kewls zines we like:
 
-![Self Defense The Zine](/assets/WSDzine.png)
+![Self Defense The Zine](/assets/wsdzine.png)
 
-[Self Defense The Zine](../assets/WSDzine.pdf "Self Defense The Zine")
+[Self Defense The Zine](../assets/WSDZine.pdf "Self Defense The Zine")
 

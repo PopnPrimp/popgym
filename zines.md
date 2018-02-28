@@ -4,7 +4,7 @@ permalink: "/zines/"
 layout: page
 ---
 
-Check out some of the things we published!
+Check out some of the things we published (Right click and choose "Save Link As" to download)!
 
 ![Pop Gym Zine 1](/assets/zine.png)
 

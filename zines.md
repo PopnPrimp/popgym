@@ -16,5 +16,7 @@ Some other kewls zines we like:
 
 ![Self Defense The Zine](/assets/wsdzine.png)
 
-[Self Defense The Zine](../assets/WSDZine.pdf "Self Defense The Zine")
+[Self Defense The Zine](../assets/WSDZineSm.pdf "Self Defense Zine")
+
+[Self Defense The Zine Print Version](../assets/WSDZine.pdf "Self Defense Zine for Print")
 

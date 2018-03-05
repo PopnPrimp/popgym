@@ -1,11 +1,4 @@
----
-title: Pop Gym Pop Up at Trans Pecos
-date: 2018-03-25 00:00:00 Z
-categories:
-- update
-layout: post
-subtitle: Join us for a Pop Up Self Defense at Trans Pecos on March 25th!
----
+
 
 ![Pop Gym at Trans Pecos](/assets/transpecos3.jpg)
 

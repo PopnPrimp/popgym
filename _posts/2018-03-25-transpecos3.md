@@ -1,3 +1,8 @@
+---
+title: Transpecos3
+date: 2018-03-25 00:00:00 Z
+---
+
 
 
 ![Pop Gym at Trans Pecos](/assets/transpecos3.jpg)

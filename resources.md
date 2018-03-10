@@ -25,6 +25,8 @@ A list some people and placs we think are super great!
 * [Overthrow](https://overthrownyc.com/membership/)- Boxing gym with locations in Brooklyn and the LES, somewhat affordable options available
 * [Woodbine](https://www.facebook.com/events/1615153968570828/)- "Movement and Meditation" classes
 * [Bronx Social Center](http://www.bronxsocialcenter.org/martial-arts/)- Offering karate classes twice a week in the South Bronx
+* [Female Awareness](http://femaleawareness.com/)- Constant self-defense classes in Midtown
+* [Feminist Self-Defense](http://www.feministselfdefense.com/)- Self-Defense Workshops, with finance options for those who need 
 
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!

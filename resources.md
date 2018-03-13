@@ -40,6 +40,7 @@ A list some people and placs we think are super great!
 * [Callen-Lorde](http://callen-lorde.org/our-services/) LGBTQ Health Services (Mental Health as well)
 * [Third Root](https://thirdroot.org/) Acupuncture, herbal medicine, massage, yoga at a sliding scale cost in Brooklyn
 * [Cookie's Joint](https://cookiesjoint.wordpress.com/) Providing basic needs for "sex workers, trans women, undocumented folks, folks who have aged out of the NYC youth-only LGBT shelter system, disabled folks, etc"
+* [NYC Condoms](https://a816-healthpsi.nyc.gov/NYCHealthMap/home/ByServices?services=15)- Where to get free condoms in NYC
 
 ### Mental Health Resources
 * [Respite Centers](https://www1.nyc.gov/site/doh/health/health-topics/crisis-emergency-services-respite-centers.page)- Lists of a few respite centers in NYC
@@ -77,7 +78,7 @@ A list some people and placs we think are super great!
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment
 
 ### Know Your Rights
-* [NLG Know your Rights](https://www.nlg.org/know-your-rights/)
+* [NLG Know your Rights in English, Spanish, Arabic, Bengali, and Urdu](https://www.nlg.org/know-your-rights/)
 
 
 

@@ -19,4 +19,6 @@ As we continue planning, we invite you to come by any of our free self-defense a
 * [Accountability](accountability.md)
 * [Transparency](transparency.md)
 * [Glossary/Further Reading](gloss.md)
+
+[ ](http://gph.is/2HSDILA)
  

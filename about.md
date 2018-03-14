@@ -20,5 +20,5 @@ As we continue planning, we invite you to come by any of our free self-defense a
 * [Transparency](transparency.md)
 * [Glossary/Further Reading](gloss.md)
 
-[___](http://gph.is/2HSDILA)
+[.](http://gph.is/2HSDILA)
  

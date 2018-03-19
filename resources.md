@@ -27,7 +27,7 @@ A list some people and placs we think are super great!
 * [Bronx Social Center](http://www.bronxsocialcenter.org/martial-arts/)- Offering karate classes twice a week in the South Bronx
 * [Female Awareness](http://femaleawareness.com/)- Constant self-defense classes in Midtown
 * [Feminist Self-Defense](http://www.feministselfdefense.com/)- Self-Defense Workshops, with finance options for those who need
-* [Westside TKD](westsidetkd.com)- Tae-Kwon-Do training in Harlem
+* [Westside TKD](http://westsidetkd.com/)- Tae-Kwon-Do training in Harlem
 
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!

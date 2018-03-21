@@ -1,10 +1,5 @@
 ---
-title: CANCELLEDPop Gym Pop Up at Bluestockings
-date: 2018-03-21 00:00:00 Z
-categories:
-- update
-layout: post
-subtitle: CANCELLED DUE TO SNOW: Join us for a Pop Up Self Defense Workshop at Bluestockings on March 21st
+title: 2018 03 21 Bstox5
 ---
 
 ![Pop Gym at Bluestockings](/assets/bstox5.jpg)

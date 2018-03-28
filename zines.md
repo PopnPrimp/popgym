@@ -20,6 +20,6 @@ Some other kewls zines we like:
 
 [Self Defense The Zine Print Version](../assets/WSDZine.pdf "Self Defense Zine for Print")
 
-![Mas Vale Vivas Y Combativas](/assets/fanzineaf.jpg)
+![Mas Vale Vivas Y Combativas](/assets/fanzineaf.JPG)
 
 [Mas Vale Vivas Y Combativas Print Version](../assets/FanzineAF.pdf "Mas Vale Vivas Y Combativas Print Version")

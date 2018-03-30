@@ -28,6 +28,8 @@ A list some people and placs we think are super great!
 * [Female Awareness](http://femaleawareness.com/)- Constant self-defense classes in Midtown
 * [Feminist Self-Defense](http://www.feministselfdefense.com/)- Self-Defense Workshops, with finance options for those who need
 * [Westside TKD](http://westsidetkd.com/)- Tae-Kwon-Do training in Harlem
+* [Brooklyn Goju](https://brooklyngoju.com/)- "Martial Arts for Peace Strength and Justice" in Park Slope. "Trans & cis women, non-binary folks, gender-nonconforming people, and/or trans men are encouraged to train in our safe and inclusive space."
+* [Ruckus Safety Awareness](http://www.makearuckus.org/)- Self-Defense workshops, ranging from beginner to intermediate
 
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!
@@ -74,6 +76,7 @@ A list some people and placs we think are super great!
 * [HackBlossom](https://hackblossom.org/)- Feminist cybersecurity guides/resources
 * [Privacy Tools](https://www.privacytools.io/)- A list of Free Open Source Apps to use
 * [NYC Mesh](https://nycmesh.net/)- Folks building an Internet alternative!
+* [30 Day Security Challenge](http://www.makearuckus.org/)- Great day-by-day guides for folks just getting into cybersecurity
 
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment

@@ -76,7 +76,7 @@ A list some people and placs we think are super great!
 * [HackBlossom](https://hackblossom.org/)- Feminist cybersecurity guides/resources
 * [Privacy Tools](https://www.privacytools.io/)- A list of Free Open Source Apps to use
 * [NYC Mesh](https://nycmesh.net/)- Folks building an Internet alternative!
-* [30 Day Security Challenge](http://www.makearuckus.org/)- Great day-by-day guides for folks just getting into cybersecurity
+* [30 Day Security Challenge](https://snubsie.com/blog/2017/11/2/the-30-day-security-challenge)- Great day-by-day guides for folks just getting into cybersecurity
 
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment

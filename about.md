@@ -6,6 +6,7 @@ layout: page
 
 <i><center>Strength in ourselves, strength in our communities. Free classes for fitness, self-defense, and self care.
 
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3nqfaBqRc4ynLaYlSu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/martial-arts-feminist-self-defense-3nqfaBqRc4ynLaYlSu">via GIPHY</a></p>
 
 POP Gym is a new project, working towards opening a physical space in Brooklyn that offers free self-defense, fitness, and skill share classes 7 days a week. We believe that everyone should access to skills that are necessary for their survival. Our mission is to open up a space in which folks can attend classes on fitness, self-defense, and a variety of other skill sets. While that dream is a long-way away, we are actively taking steps to reach this goal!
 

@@ -17,20 +17,20 @@ Check out some of the things we published (Right click and choose Save Link As t
 </div> 
 <div class="wrapper">
     <div class="left">
-	    <img src="/assets/wsdzine.png" 
-alt="Self Defense, The Zine">![Self Defense The Zine](/assets/wsdzine.png)
-       [Self Defense The Zine](https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw "Self Defense Zine")
+	    <img src="/assets/wsdzine.png" alt="Self Defense, The Zine">
+       
+<a href="https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw">Self Defense Zine</a>
+ 
+
+
+(https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw "Self Defense Zine")
 	[Self Defense The Zine Print Version](../assets/WSDZine.pdf "Self Defense Zine for Print")
     </div>
     <div class="right">
-        right
+        ![Mas Vale Vivas Y Combativas](/assets/fanzineaf.JPG)
     </div>  	       
 </div>
-<div class="footer">
-	footer
-</div>
 
-![Self Defense The Zine](/assets/wsdzine.png) ![Mas Vale Vivas Y Combativas](/assets/fanzineaf.JPG)
 
 [Self Defense The Zine](https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw "Self Defense Zine") 
 [Mas Vale Vivas Y Combativas Print Version](../assets/FanzineAF.pdf "Mas Vale Vivas Y Combativas For Print")

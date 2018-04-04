@@ -24,6 +24,7 @@ Check out some of the things we published (Right click and choose Save Link As t
     </div>
     <div class="right">
         ![Mas Vale Vivas Y Combativas](/assets/fanzineaf.JPG)
+	
 	<a href="../assets/FanzineAF.pdf">Mas Vale Vivas Y Combativas For Print</a><br>
     </div>  	       
 </div>

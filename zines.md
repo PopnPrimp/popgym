@@ -13,7 +13,7 @@ Check out some of the things we published (Right click and choose Save Link As t
 [Pop Gym Zine #1 Print Version](../assets/zineprint.pdf "Pop Gym Zine #1 for Print")
 
 <table>
-   <tr>
+   <tr> Some other Kewl Zines We Like:
       <td>
              <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
        

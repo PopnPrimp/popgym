@@ -19,8 +19,8 @@ Check out some of the things we published (Right click and choose Save Link As t
     <div class="left">
 	    <img src="/assets/wsdzine.png" alt="Self Defense, The Zine">
        
-<a href="https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw">Self Defense Zine</a>
-<a href="../assets/WSDZine.pdf">Self Defense Zine for Print</a> 
+<a href="https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw">Self Defense Zine</a><br>
+<a href="../assets/blob/WSDZine.pdf">Self Defense Zine for Print</a> 
     </div>
     <div class="right">
         ![Mas Vale Vivas Y Combativas](/assets/fanzineaf.JPG)

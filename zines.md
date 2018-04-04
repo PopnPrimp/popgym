@@ -14,7 +14,8 @@ Check out some of the things we published (Right click and choose Save Link As t
 
 Some other kewls zines we like:
 
-<div class="header">
+<div class="
+Some other kewls zines we like:">
     header
 </div> 
 <div class="wrapper">

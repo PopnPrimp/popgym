@@ -12,14 +12,13 @@ Check out some of the things we published (Right click and choose Save Link As t
 
 [Pop Gym Zine #1 Print Version](../assets/zineprint.pdf "Pop Gym Zine #1 for Print")
 
-Some other kewls zines we like:
-
 <div class="header">
     Some other kewls zines we like:
 </div> 
 <div class="wrapper">
     <div class="left">
-        left
+       [Self Defense The Zine](https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw "Self Defense Zine")
+	[Self Defense The Zine Print Version](../assets/WSDZine.pdf "Self Defense Zine for Print")
     </div>
     <div class="right">
         right

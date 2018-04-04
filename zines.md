@@ -23,7 +23,7 @@ Check out some of the things we published (Right click and choose Save Link As t
 <a href="/assets/WSDZine.pdf">Self Defense Zine for Print</a> 
     </div>
     <div class="right">
-	 <img src="/assets/fanzineaf.JPG)" alt="Mas Vale Vivas Y Combativas">
+	 <img src="/assets/fanzineaf.JPG" alt="Mas Vale Vivas Y Combativas">
 	<a href="/assets/FanzineAF.pdf">Mas Vale Vivas Y Combativas For Print</a><br>
     </div>  	       
 </div>

@@ -21,25 +21,9 @@ Check out some of the things we published (Right click and choose Save Link As t
 <a href="/assets/WSDZine.pdf">Self Defense Zine for Print</a> 
       </td>
       <td>
-         Content of the second column.
+         <img src="/assets/fanzineaf.JPG" alt="Mas Vale Vivas Y Combativas"><br>
+        <a href="/assets/FanzineAF.pdf">Mas Vale Vivas Y Combativas For Print</a>
+    </div>             
       </td>
    </tr>
 </table>
-
-<div class="header">
-    Some other kewls zines we like:
-</div> 
-<div class="wrapper">
-    <div class="left">
-	    <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
-       
-<a href="https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw">Self Defense Zine</a><br>
-<a href="/assets/WSDZine.pdf">Self Defense Zine for Print</a> 
-</div>
-    <div class="right">
-	 <img src="/assets/fanzineaf.JPG" alt="Mas Vale Vivas Y Combativas"><br>
-	<a href="/assets/FanzineAF.pdf">Mas Vale Vivas Y Combativas For Print</a>
-    </div>  	       
-</div>
-
-

@@ -68,6 +68,9 @@ A list some people and placs we think are super great!
 * [Got A Girl Crush Catcalling Citation](http://www.gotagirlcrush.com/ccc)- Cards to confront street harassers with!
 * [Cards Against Harassment](http://www.cardsagainstharassment.com/)- Some more cards with messages to quiet street harassers
 
+### Mental Health
+* [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources
+
 ### CyberSecurity
 * [Holistic Security](https://holistic-security.tacticaltech.org/)- A guide to Threat Modeling by the Tactical Tech Collective
 * [Cutealism](http://cutealism.com/fight/)- Cute intro guide to cybersecurity!

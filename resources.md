@@ -81,6 +81,8 @@ A list some people and placs we think are super great!
 * [Privacy Tools](https://www.privacytools.io/)- A list of Free Open Source Apps to use
 * [NYC Mesh](https://nycmesh.net/)- Folks building an Internet alternative!
 * [30 Day Security Challenge](https://snubsie.com/blog/2017/11/2/the-30-day-security-challenge)- Great day-by-day guides for folks just getting into cybersecurity
+* [Data and Activism](https://ourdataourselves.tacticaltech.org/posts/20_intro_activism/)- A guide for navigating the digital world as an activist by Tactical Tech
+* [Defend Our Movements](https://defendourmovements.org/)- Cool 101 cybersecurity guides and HelpDesk from the folks at "Center for Media Justice, May First / People Link, and diverse movement technologists and activists"
 
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment

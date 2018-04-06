@@ -44,6 +44,7 @@ A list some people and placs we think are super great!
 * [Third Root](https://thirdroot.org/) Acupuncture, herbal medicine, massage, yoga at a sliding scale cost in Brooklyn
 * [Cookie's Joint](https://cookiesjoint.wordpress.com/) Providing basic needs for "sex workers, trans women, undocumented folks, folks who have aged out of the NYC youth-only LGBT shelter system, disabled folks, etc"
 * [NYC Condoms](https://a816-healthpsi.nyc.gov/NYCHealthMap/home/ByServices?services=15)- Where to get free condoms in NYC
+* [Cindy Samantha LMT](cindysamanthalmt.wordpress.com)- Integrative Body Work and Massage Therapist in South Brooklyn
 
 ### Mental Health Resources
 * [Respite Centers](https://www1.nyc.gov/site/doh/health/health-topics/crisis-emergency-services-respite-centers.page)- Lists of a few respite centers in NYC
@@ -52,6 +53,7 @@ A list some people and placs we think are super great!
 * [Brooklyn Center for Psychotherapy](http://www.newdirectionsbrooklyn.com/)- Sliding-scale mental health services in Brooklyn
 * [Training Institute for Mental Health](https://www.timh.org/)- Psychodynamic, sliding scale mental health services with locations in Manhatten
 * [Ali Forney Center](https://www.aliforneycenter.org/about-us/) Providing housing and support for LGBTQ youth
+* [Harriet's Apothecary](http://www.harrietsapothecary.com/)- Mental Health meetups for QTPOC folk
 
 ### Food Resources
 * [Neighborhood Guide to Food and Assistance](http://hungerfreenyc.org/sites/default/files/atoms/files/Citywide%20English_1.pdf)- Lists of places to apply for support or get a meal

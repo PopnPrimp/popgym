@@ -31,10 +31,12 @@ Check out some of the things we published (Right click and choose Save Link As t
 <table>
    <tr> Some fun printables to share:
       <td>
-             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
+             <img src="/assets/CardA.png" alt="Cards Against Street Harassment"><br>
        
-<a href="https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw">Self Defense Zine</a><br>
-<a href="/assets/WSDZine.pdf">Self Defense Zine for Print</a> 
+<a href="/assets/Mix.pdf">Mixed Cards Pack</a> 
+<a href="/assets/Mix2.pdf">Mixed Cards Pack 2</a> 
+<a href="/assets/slutwalk.pdf">Slutwalk Pack</a> 
+<a href="/assets/spanish.pdf">Spanish Pacl</a> 
       </td>
       <td>
          <img src="/assets/fanzineaf.JPG" alt="Mas Vale Vivas Y Combativas"><br>

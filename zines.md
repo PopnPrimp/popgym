@@ -40,8 +40,7 @@ Check out some of the things we published (Right click and choose Save Link As t
       </td>
       <td>
          <img src="/assets/CCC.png" alt="Catcall Citation Cards"><br>
-        <a href="/assets/CCC.pdf">Catcall Citation Cards</a>
-    </div>             
+        <a href="/assets/CCC.pdf">Catcall Citation Cards</a>           
       </td>
    </tr>
 </table>

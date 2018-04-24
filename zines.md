@@ -33,10 +33,10 @@ Check out some of the things we published (Right click and choose Save Link As t
       <td>
              <img src="/assets/CardA.png" alt="Cards Against Street Harassment"><br>
        
-<a href="/assets/Mix.pdf">Mixed Cards Pack</a> 
-<a href="/assets/Mix2.pdf">Mixed Cards Pack 2</a> 
-<a href="/assets/slutwalk.pdf">Slutwalk Pack</a> 
-<a href="/assets/spanish.pdf">Spanish Pacl</a> 
+<a href="/assets/Mix.pdf">Mixed Cards Pack</a> <br>
+<a href="/assets/Mix2.pdf">Mixed Cards Pack 2</a> <br>
+<a href="/assets/slutwalk.pdf">Slutwalk Pack</a> <br>
+<a href="/assets/spanish.pdf">Spanish Pack</a> 
       </td>
       <td>
          <img src="/assets/fanzineaf.JPG" alt="Mas Vale Vivas Y Combativas"><br>

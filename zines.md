@@ -39,8 +39,8 @@ Check out some of the things we published (Right click and choose Save Link As t
 <a href="/assets/spanish.pdf">Spanish Pack</a> 
       </td>
       <td>
-         <img src="/assets/fanzineaf.JPG" alt="Mas Vale Vivas Y Combativas"><br>
-        <a href="/assets/FanzineAF.pdf">Mas Vale Vivas Y Combativas For Print</a>
+         <img src="/assets/CCC.png" alt="Catcall Citation Cards"><br>
+        <a href="/assets/CCC.pdf">Catcall Citation Cards</a>
     </div>             
       </td>
    </tr>

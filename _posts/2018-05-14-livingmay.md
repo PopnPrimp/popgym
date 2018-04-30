@@ -8,7 +8,7 @@ subtitle: Join us for a Pop Up Self Defense Workshop for Kids/Adults at The Livi
   Gallery on 05/14
 ---
 
-![Pop Gym at The Living Gallery](/assets/livingmay.jpeg)
+![Pop Gym at The Living Gallery](/assets/livinggallerymay.jpeg)
 
 Palm Heels for the people! Don't get that joke? No worries! Come by this FREE Pop Gym Pop Up workshop for Kids/Adults at The Living Gallery (5:00 PM for Kids, 6:00 PM for Adults) to learn some introductory skills that will keep you feeling safe. We'll be covering the basics: stretching, conditioning, technique, and theory, with the hope that participants will leave with some super useful foundations that will aid them in the day-to-day. Mix that in with some sweat and some movement, and you'll have an accessible and confidence-boosting good time for all. Whether you are a beginner, or someone with experience, come work it out with us!
 

@@ -60,7 +60,7 @@ A list some people and placs we think are super great!
 
 ### Sanctuary Support
 * [New Sanctuary Coalition](http://www.newsanctuarynyc.org/get-support/)- List of resources for sanctuary support
-* [Brooklyn Defense Committee]- Do you have an emergency plan if ICE comes to your community. Building a network of sanctuary space, give em a call at 347-762-4499 (Email: Sanctuaryprogram@gmail.com)
+* Brooklyn Defense Committee- Do you have an emergency plan if ICE comes to your community. Building a network of sanctuary space, give em a call at 347-762-4499 (Email: Sanctuaryprogram@gmail.com)
 
 ## Online
 

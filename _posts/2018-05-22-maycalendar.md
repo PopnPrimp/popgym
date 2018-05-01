@@ -7,4 +7,4 @@ layout: post
 subtitle: Check out our events all throughout May!
 ---
 
-![Pop Gym april](/assets/calendarmay.jpg)
+![Pop Gym May](/assets/calendarmay.jpg)

@@ -8,7 +8,7 @@ subtitle: Join us for a Pop Up Self Defense Workshop ath the New School Occupati
   (63 5th Ave, NY, NY) on May 11th!
 ---
 
-![Pop Gym at TNS](/assets/newschool.jpg)
+![Pop Gym at TNS](/assets/newschool.jpeg)
 
 NOTE: ID Required to enter building, we'll be in the cafeteria!
 

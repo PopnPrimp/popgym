@@ -1,10 +1,11 @@
 ---
-title: Pop Gym Pop Up at #OccupyTNS
+title: Pop Gym Pop Up at
 date: 2018-05-11 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Join us for a Pop Up Self Defense Workshop ath the New School Occupation (63 5th Ave, NY, NY) on May 11th!
+subtitle: Join us for a Pop Up Self Defense Workshop ath the New School Occupation
+  (63 5th Ave, NY, NY) on May 11th!
 ---
 
 ![Pop Gym at TNS](/assets/newschool.jpg)

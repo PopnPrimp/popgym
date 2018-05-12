@@ -8,7 +8,7 @@ layout: page
 
 As we become more organized, Pop Gym will make an effort to be transparent about its finances, big decisions, guidelines, and processes to our community.
 
-[ByLaws (Preliminary and DEF subject to change)] (../assets/PopGymByLaws.pdf)
+[Pop Gym ByLaws- Preliminary and DEF subject to change)] (../assets/PopGymByLaws.pdf)
                                        
 
 For more on why we do the things we do see our [Glossary/Further Reading](gloss.md) section!

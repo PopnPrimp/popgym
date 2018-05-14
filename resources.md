@@ -23,7 +23,6 @@ A list some people and placs we think are super great!
 * [Physical Culture Collective](http://www.physicalculturecollective.com/)- Muay Thai, BJJ, and Fitness classes in Bushwick
 * [Chok Sabai](http://choksabaigym.com/)- Midtown Muay Thai/BJJ gym with Queer friendly environment
 * [Overthrow](https://overthrownyc.com/membership/)- Boxing gym with locations in Brooklyn and the LES, somewhat affordable options available
-* [Woodbine](https://www.facebook.com/events/1615153968570828/)- "Movement and Meditation" classes
 * [Bronx Social Center](http://www.bronxsocialcenter.org/martial-arts/)- Offering karate classes twice a week in the South Bronx
 * [Female Awareness](http://femaleawareness.com/)- Constant self-defense classes in Midtown
 * [Feminist Self-Defense](http://www.feministselfdefense.com/)- Self-Defense Workshops, with finance options for those who need
@@ -36,8 +35,8 @@ A list some people and placs we think are super great!
 * [NYC CryptoParty](https://www.meetup.com/New-York-Cryptoparty-Network/?_cookie-check=qWDtBFUHlownGc-E)- Folks organizing cybersecurity events around NYC!
 * [CryptoParty](https://www.cryptoparty.in/)- Global listing of cybersecurity workshops and events
 
-### De-Escalation
-* [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment
+### Bystander Intervention
+* [Arab American Association of NY](http://www.arabamericanny.org/)- With a mission to support and empower the Arab Immigrant and Arab American community, including bystander intervention trainings, and the Accompany Project
 
 ### Physical Health
 * [Callen-Lorde](http://callen-lorde.org/our-services/) LGBTQ Health Services (Mental Health as well)
@@ -89,6 +88,11 @@ A list some people and placs we think are super great!
 
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment
+
+### Safe Spacaes
+* [The Dandelion Initiative](https://dandelioninitiative.blog/)- A non-profit supporting community-led action to end sexual violence, by survivors for survivors
+* [Good Night Out](http://www.goodnightoutcampaign.org/)- An independent, international initiative dedicated to helping the nighttime economy deal with, tackle and prevent harassment
+* [SASS](https://sasscalgary.com/)- Promoting Safer Spaces and best practices for venues in Calgary
 
 ### Know Your Rights
 * [NLG Know your Rights in English, Spanish, Arabic, Bengali, and Urdu](https://www.nlg.org/know-your-rights/)

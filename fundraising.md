@@ -8,7 +8,8 @@ layout: page
 
 Excited to give us some funds? We are too! If you got a little extra chingle in your pocket, and feel like our workshops have given you something worthwile, or you just like the work that we do, please send those $$$ along to either of the following:
 
-Venmo: @popgym <br>
+Venmo: @popgym 
+
 PayPal: Pop Gym (email: info@popgym.org)
 
 :)

@@ -73,6 +73,7 @@ A list some people and placs we think are super great!
 ### Mental Health
 * [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources
 * [National Queer Trans Therapists of Color Network](https://www.nqttcn.com/)- Online directory of Q/T therapists of color
+* [Autism Resources](https://docs.google.com/document/d/1x7mVW_ut7kOwRSWIvffUJUuhWwwQNEA7yZJM9Dzpvpo/edit)- Google Doc of resources and articles on Autism
 
 ### CyberSecurity
 * [Holistic Security](https://holistic-security.tacticaltech.org/)- A guide to Threat Modeling by the Tactical Tech Collective

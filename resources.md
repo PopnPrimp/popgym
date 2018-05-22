@@ -69,6 +69,7 @@ A list some people and placs we think are super great!
 * [Home Alive](http://www.teachhomealive.org)- Great resources and tps on self-defense
 * [Got A Girl Crush Catcalling Citation](http://www.gotagirlcrush.com/ccc)- Cards to confront street harassers with!
 * [Cards Against Harassment](http://www.cardsagainstharassment.com/)- Some more cards with messages to quiet street harassers
+* [Stop Street Harassment](http://www.stopstreetharassment.org/our-work/nationalshhotline/)- Organization providing support and resources to those who face street harassment, including a national hotline to talk to somebody if you need to.
 
 ### Mental Health
 * [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources

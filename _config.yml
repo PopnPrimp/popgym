@@ -8,10 +8,30 @@ collections:
   uploads:
     title: Uploads
     output: true
-"@context": http://schema.org
-"@type": LocalBusiness
-name: Pop Gym
-image: http://popgym.org/assets/logo.png
-telephone: 573-POP-0143 (573-767-0143)
 email: info@popgym.org
-url: http://popgym.org/
+description: Pop Gym: Strenght in Ourselves, Strength in our Communities. Free classes
+  for fitness, defense, and self care, (including classes for Women, Trans, GNC, NB
+  and/or Queer folk), all over New York City!
+phone number: 573-POP-0143 (573-767-0143)
+baseurl: ''
+url: ''
+twitter_username: popgymbk
+facebook_username: popgymbk
+instagram_username: popgymbk
+markdown: kramdown
+exclude:
+- Gemfile
+- Gemfile.lock
+paginate: 8
+paginate_path: updates/page:num
+gems:
+- jekyll-paginate
+header_pages:
+- about.md
+- schedule.md
+- programs.md
+- contact.md
+- fundraising.md
+- zines.md
+- resources.md
+- store.md

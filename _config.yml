@@ -26,6 +26,7 @@ paginate: 8
 paginate_path: updates/page:num
 gems:
 - jekyll-paginate
+
 header_pages:
 - about.md
 - schedule.md

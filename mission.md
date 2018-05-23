@@ -1,5 +1,5 @@
 ---
-title: Mission
+title: Pop Gym Mission Statement
 permalink: "/mission/"
 layout: page
 ---

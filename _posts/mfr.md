@@ -1,9 +1,5 @@
 ---
-title: Pop Gym Pop Up at Mayday Festival of Resistance
-date: 2018-04-28 00:00:00 Z
-layout: post
-subtitle: Join us for a Pop Up Self Defense Workshop with the GDC at the Mayday Festival of Resistance on April 28th!
-<meta name='description' content='Join us for a Pop Up Self Defense Workshop with the GDC at the Mayday Festival of Resistance on April 28th!'>
+title: 2018 04 28 Mfr
 ---
 
 ![Pop Gym at MFR](/assets/gdc.jpg)

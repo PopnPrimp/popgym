@@ -4,7 +4,7 @@ permalink: "/safespace/"
 layout: page
 ---
 
-![Pop Gym at Bstox](/assets/safespace.jpg)
+![Pop Gym & Safe Space](/assets/safespace.jpg)
 
 Pop Gym works to create Saf(er) Spaces through out workshops and classes. Though we do not have a permanenent space at the moment, we acknowledge how various forms of oppression (based upon idendities including but not
 limited to ability, activist experience, age, cultural background, education, 

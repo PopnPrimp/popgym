@@ -14,7 +14,7 @@ As we continue planning, we invite you to come by any of our free self-defense a
 ## Values
 
 * [Mission](mission.md)
-* [Saf(er) Spaces](safespace.md)
+* [Saf(er) Spaces](safes-pace.md)
 * [Accountability](accountability.md)
 * [Transparency](transparency.md)
-* [Glossary/Further Reading](gloss.md)
+* [Glossary/Further Reading](glossary.md)

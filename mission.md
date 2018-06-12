@@ -14,6 +14,6 @@ We strive to make Pop Gym a safe and secure environment, where we can work both 
  
 Toward athleticism without commodification or patriarchy—to strengthen ourselves and our communities.
 
-Next Up: [Saf(er) Spaces](safespace.md)
+Next Up: [Saf(er) Spaces](safe-space.md)
 
 [Go Back](/about.md)

@@ -6,6 +6,7 @@ categories:
 layout: post
 subtitle: Check out our events all throughout the month of June!
 ---
+
 <head>
   <meta name="description" content="Check out our events all throughout the month of June!">
 </head>

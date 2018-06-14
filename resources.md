@@ -44,6 +44,7 @@ A list some people and placs we think are super great!
 * [Cookie's Joint](https://cookiesjoint.wordpress.com/) Providing basic needs for "sex workers, trans women, undocumented folks, folks who have aged out of the NYC youth-only LGBT shelter system, disabled folks, etc"
 * [NYC Condoms](https://a816-healthpsi.nyc.gov/NYCHealthMap/home/ByServices?services=15)- Where to get free condoms in NYC
 * [Cindy Samantha LMT](https://cindysamanthalmt.wordpress.com)- Integrative Body Work and Massage Therapist in South Brooklyn
+* [Dance Safe](https://dancesafe.org/)- Providing harm reduction resources, and creating Safe Spaces at parties.
 
 ### Mental Health Resources
 * [Respite Centers](https://www1.nyc.gov/site/doh/health/health-topics/crisis-emergency-services-respite-centers.page)- Lists of a few respite centers in NYC

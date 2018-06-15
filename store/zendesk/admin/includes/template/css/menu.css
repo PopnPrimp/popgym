@@ -1,0 +1,15 @@
+.upperMenu{
+    display: none;
+}
+
+@media (min-width: 979px) {
+    ul.nav li.dropdown:hover > ul.dropdown-menu {
+        display: block;
+    }
+    .upperMenu{
+        display: block;
+    }
+    .upperMenuItems{
+        display: none !important;
+    }
+}

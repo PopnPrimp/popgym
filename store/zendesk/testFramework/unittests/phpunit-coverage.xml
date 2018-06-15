@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+        colors="true"
+        verbose="true"
+        processIsolation="true"
+        bootstrap="../config/bootstrap.php"
+        >
+    <testsuites>
+
+        <testsuite name="Listing Box">
+            <directory suffix="Test.php">testsListingBox</directory>
+        </testsuite>
+        <testsuite name="Paginator">
+            <directory suffix="Test.php">testsPaginator</directory>
+        </testsuite>
+        <testsuite name="Sundry Tests">
+            <directory suffix="Test.php">testsSundry</directory>
+        </testsuite>
+        <testsuite name="Password Tests">
+            <directory suffix="Test.php">testsPasswordHash</directory>
+        </testsuite>
+        <testsuite name="Request Tests">
+            <directory suffix="Test.php">testsRequest</directory>
+        </testsuite>
+        <testsuite name="QueryBuilder Tests">
+            <directory suffix="Test.php">testsQueryBuilder</directory>
+        </testsuite>
+        <testsuite name="URL Tests">
+            <directory suffix="Test.php">testsHtmlOutput</directory>
+        </testsuite>
+
+    </testsuites>
+
+    <php>
+        <const name="PHPUNIT_TESTSUITE" value="true"/>
+    </php>
+
+    <logging>
+            <log type="coverage-text" target="php://stdout" showUncoveredFiles="false"
+              lowUpperBound="50" highLowerBound="80" />
+            <log type="coverage-clover" target="build/logs/clover.xml" />
+          </logging>
+
+      <filter>
+        <blacklist>
+          <directory suffix=".php">vendor</directory>
+          <directory suffix=".php">admin/includes/local</directory>
+          <directory suffix=".php">includes/local</directory>
+          <directory suffix=".php">testFramework</directory>
+          <directory suffix=".php">build</directory>
+          <directory suffix=".php">zc_install</directory>
+        </blacklist>
+        <whitelist processUncoveredFilesFromWhitelist="false">
+          <directory suffix=".php">admin/includes</directory>
+          <directory suffix=".php">includes</directory>
+        </whitelist>
+      </filter>
+</phpunit>

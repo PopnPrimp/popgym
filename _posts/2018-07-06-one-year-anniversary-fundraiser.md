@@ -7,7 +7,7 @@ layout: post
 subtitle: Come on by Pine Box Rock Shop for a night of punk rock and fundraising!
 ---
 
-![Pop Gym Fundraiser with Punk Rock Kareoke](/assets/prkpopgym.jpeg)
+![Pop Gym Fundraiser with Punk Rock Kareoke](/assets/PopGymFundFlyer.jpeg)
 
 A WHOLE YEAR OF POP GYM FUN! Come celebrate with us and Punk Rock Kareoke at Pine Box Rock Shop (12 Gratton St, a block away from the Morgan L Train)
 

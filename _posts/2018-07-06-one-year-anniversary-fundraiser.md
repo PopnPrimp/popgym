@@ -1,5 +1,5 @@
 ---
-title: Pop Gym 1 Year Anniversary Fundraiser with Punk Rock Kareoke
+title: Pop Gym 1 Year Anniversary Fundraiser with Punk Rock Karaoke
 date: 2018-07-06 00:00:00 Z
 categories:
 - update
@@ -7,9 +7,9 @@ layout: post
 subtitle: Come on by Pine Box Rock Shop for a night of punk rock and fundraising!
 ---
 
-![Pop Gym Fundraiser with Punk Rock Kareoke](/assets/PopGymFundFlyer.jpeg)
+![Pop Gym Fundraiser with Punk Rock Karaoke](/assets/PopGymFundFlyer.jpeg)
 
-A WHOLE YEAR OF POP GYM FUN! Come celebrate with us and Punk Rock Kareoke at Pine Box Rock Shop (12 Gratton St, a block away from the Morgan L Train)
+A WHOLE YEAR OF POP GYM FUN! Come celebrate with us and Punk Rock Karaoke at Pine Box Rock Shop (12 Gratton St, a block away from the Morgan L Train)
 
 $10 suggested donation | 21+ | Proceeds go to POP Gym
 

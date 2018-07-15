@@ -4,7 +4,8 @@ date: 2018-07-28 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: So excited to announce the first in a series of Intro to BJJ workshops, presented by the folks at Spectrum Wrestling!
+subtitle: So excited to announce the first in a series of Intro to BJJ workshops,
+  presented by the folks at Spectrum Wrestling!
 ---
 
 ![Queer Wrestling](/assets/queerwrestle.jpeg)

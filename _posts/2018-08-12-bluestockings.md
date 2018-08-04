@@ -13,8 +13,10 @@ Palm Heels for the people! Don't get that joke? No worries! Come by this FREE Po
 
 Open to all ages! We'll be moving around, so participants should wear clothing in which they are comfortable stretching and sweating.
 
-POP Gym is a new project, working towards opening a physical space in Brooklyn that offers free self-defense, fitness, and skill share classes 7 days a week. As we continue planning, we invite you to come by any of our events this summer! Our workshops have been described as, "fun", "holistic" and "empowering", and for any questions, comments, or inquiries for future workshops for you or your organizations, email us at info@popgym.org•
+POP Gym is a new project, working towards providing free self-defense, fitness, and skill share classes all around NYC. As we continue planning, we invite you to come by any of our events this summer! Our workshops have been described as, "fun", "holistic" and "empowering", and for any questions, comments, or inquiries for future workshops for you or your organizations, email us at info@popgym.org
 
 For more info, check out the event page: [Pop Gym at Bluestockings](https://www.facebook.com/events/672566453102493/)
+
+Bluestockings is a first-floor location. While the bathroom is not ADA accessible, there are cafes nearby (Starbucks) with wheelchair accesible bathrooms. The store is a few blocks away from the Essex J/M or the 2nd Ave F Train
 
 

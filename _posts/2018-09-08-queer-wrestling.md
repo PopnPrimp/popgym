@@ -8,7 +8,7 @@ subtitle: So excited to announce another Intro to BJJ workshop presented by the 
   at Spectrum Wrestling!
 ---
 
-![Queer Wrestling](/assets/queerwrestaug.jpeg)
+![Queer Wrestling](/assets/queerwrestaug.jpg)
 
 Big, intro wrestling workshop, open to all LGBTQ community and allies. Getting started in wrestling & meeting new people on the mats.
 

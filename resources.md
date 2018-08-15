@@ -30,6 +30,7 @@ A list some people and placs we think are super great!
 * [Westside TKD](http://westsidetkd.com/)- Tae-Kwon-Do training in Harlem
 * [Brooklyn Goju](https://brooklyngoju.com/)- "Martial Arts for Peace Strength and Justice" in Park Slope. "Trans & cis women, non-binary folks, gender-nonconforming people, and/or trans men are encouraged to train in our safe and inclusive space."
 * [Ruckus Safety Awareness](http://www.makearuckus.org/)- Self-Defense workshops, ranging from beginner to intermediate
+* [Shime Waza Defense Services](https://www.instagram.com/shime_waza_defense_services/)- Offering private martial arts lessons on a sliding scale, contact through Instagram.
 
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!
@@ -77,6 +78,7 @@ A list some people and placs we think are super great!
 * [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources
 * [National Queer Trans Therapists of Color Network](https://www.nqttcn.com/)- Online directory of Q/T therapists of color
 * [Autism Resources](https://docs.google.com/document/d/1x7mVW_ut7kOwRSWIvffUJUuhWwwQNEA7yZJM9Dzpvpo/edit)- Google Doc of resources and articles on Autism
+* [Jane Adams Collective}(https://janeaddamscollective.wordpress.com/our-projects/)- Info and Resources on Mutual Aid Self-Therapy
 
 ### CyberSecurity
 * [Holistic Security](https://holistic-security.tacticaltech.org/)- A guide to Threat Modeling by the Tactical Tech Collective
@@ -89,6 +91,7 @@ A list some people and placs we think are super great!
 * [30 Day Security Challenge](https://snubsie.com/blog/2017/11/2/the-30-day-security-challenge)- Great day-by-day guides for folks just getting into cybersecurity
 * [Data and Activism](https://ourdataourselves.tacticaltech.org/posts/20_intro_activism/)- A guide for navigating the digital world as an activist by Tactical Tech
 * [Defend Our Movements](https://defendourmovements.org/)- Cool 101 cybersecurity guides and HelpDesk from the folks at "Center for Media Justice, May First / People Link, and diverse movement technologists and activists"
+* [The Empowering Internet Safety Guide for Women](https://www.vpnmentor.com/blog/the-empowering-internet-safety-guide-for-women/) A guide with some great tips on how to up your cybersecurity. 
 
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment

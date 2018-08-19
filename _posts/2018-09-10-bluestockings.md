@@ -1,5 +1,5 @@
 ---
-title: Pop Gym Pop Up at Bluestockings Bookstore on September 10th!
+title: Pop Gym Pop Up at Bluestockings Bookstore!
 date: 2018-09-10 00:00:00 Z
 categories:
 - update

@@ -67,6 +67,7 @@ A list some people and placs we think are super great!
 
 ### Physical Self-Defense
 * [Self-Defense Starter Kit](https://www.selfdefensestarterkit.com)- Zine turned Website with a bunch a great videos
+* [21 Effective Self-Defense Techniques](https://www.jenreviews.com/self-defense-techniques/)- Some intro to BJJ with many techniques that we teach at our own workshops.
 * [Safe to Train](http://www.safetotrain.com/)- List of schools round the country the promote safe spaces
 * [Home Alive](http://www.teachhomealive.org)- Great resources and tps on self-defense
 * [Got A Girl Crush Catcalling Citation](http://www.gotagirlcrush.com/ccc)- Cards to confront street harassers with!

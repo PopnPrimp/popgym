@@ -73,12 +73,13 @@ A list some people and placs we think are super great!
 * [Got A Girl Crush Catcalling Citation](http://www.gotagirlcrush.com/ccc)- Cards to confront street harassers with!
 * [Cards Against Harassment](http://www.cardsagainstharassment.com/)- Some more cards with messages to quiet street harassers
 * [Stop Street Harassment](http://www.stopstreetharassment.org/our-work/nationalshhotline/)- Organization providing support and resources to those who face street harassment, including a national hotline to talk to somebody if you need to.
+* [Anti-Violence Project](https://avp.org/)- Hotline and resources to those experiencing hate crimes and other forms of violence
 
 ### Mental Health
 * [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources
 * [National Queer Trans Therapists of Color Network](https://www.nqttcn.com/)- Online directory of Q/T therapists of color
 * [Autism Resources](https://docs.google.com/document/d/1x7mVW_ut7kOwRSWIvffUJUuhWwwQNEA7yZJM9Dzpvpo/edit)- Google Doc of resources and articles on Autism
-* [Jane Adams Collective}(https://janeaddamscollective.wordpress.com/our-projects/)- Info and Resources on Mutual Aid Self-Therapy
+* [Jane Adams Collective](https://janeaddamscollective.wordpress.com/our-projects/)- Info and Resources on Mutual Aid Self-Therapy
 
 ### CyberSecurity
 * [Holistic Security](https://holistic-security.tacticaltech.org/)- A guide to Threat Modeling by the Tactical Tech Collective
@@ -96,10 +97,16 @@ A list some people and placs we think are super great!
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment
 
-### Safe Spacaes
+### Safe Spaces
 * [The Dandelion Initiative](https://dandelioninitiative.blog/)- A non-profit supporting community-led action to end sexual violence, by survivors for survivors
 * [Good Night Out](http://www.goodnightoutcampaign.org/)- An independent, international initiative dedicated to helping the nighttime economy deal with, tackle and prevent harassment
 * [SASS](https://sasscalgary.com/)- Promoting Safer Spaces and best practices for venues in Calgary
+
+### Accountability
+* [INCITE Community Accountability Resources] (https://incite-national.org/community-accountability/)
+* [Creative Interventions Toolkit] (http://www.creative-interventions.org/tools/toolkit/)- "Creative Interventions Toolkit: A Practical Guide to Stop Interpersonal Violence"
+* [The Revolution Starts at Home (zine)] (http://criticalresistance.org/wp-content/uploads/2014/05/Revolution-starts-at-home-zine.pdf)
+* [Support NYC Links and Resources] (https://supportny.org/links/)- a ton of great links going to orgs doing various forms of accountability work.
 
 ### Know Your Rights
 * [NLG Know your Rights in English, Spanish, Arabic, Bengali, and Urdu](https://www.nlg.org/know-your-rights/)

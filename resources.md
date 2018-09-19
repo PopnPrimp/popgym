@@ -103,10 +103,10 @@ A list some people and placs we think are super great!
 * [SASS](https://sasscalgary.com/)- Promoting Safer Spaces and best practices for venues in Calgary
 
 ### Accountability
-* [INCITE Community Accountability Resources] (https://incite-national.org/community-accountability/)
-* [Creative Interventions Toolkit] (http://www.creative-interventions.org/tools/toolkit/)- "Creative Interventions Toolkit: A Practical Guide to Stop Interpersonal Violence"
-* [The Revolution Starts at Home (zine)] (http://criticalresistance.org/wp-content/uploads/2014/05/Revolution-starts-at-home-zine.pdf)
-* [Support NYC Links and Resources] (https://supportny.org/links/)- a ton of great links going to orgs doing various forms of accountability work.
+* [INCITE Community Accountability Resources](https://incite-national.org/community-accountability/)
+* [Creative Interventions Toolkit](http://www.creative-interventions.org/tools/toolkit/)- "Creative Interventions Toolkit: A Practical Guide to Stop Interpersonal Violence"
+* [The Revolution Starts at Home (zine)](http://criticalresistance.org/wp-content/uploads/2014/05/Revolution-starts-at-home-zine.pdf)
+* [Support NYC Links and Resources](https://supportny.org/links/)- a ton of great links going to orgs doing various forms of accountability work.
 
 ### Know Your Rights
 * [NLG Know your Rights in English, Spanish, Arabic, Bengali, and Urdu](https://www.nlg.org/know-your-rights/)

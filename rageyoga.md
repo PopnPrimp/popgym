@@ -4,6 +4,8 @@ permalink: "/rage-yoga/"
 layout: page
 ---
 
+![Rage Yoga at Dreamhouse](/assets/rageyoga.png)
+
 Yoga to embrace the chaos of the mind and to fuel the battles of today. Come stretch, move and rage while listening to power-focused music; punk, hiphop, metal, hardcore, industrial.
 
 This yoga practice aims to embrace as many bodies as possible, while seeking to reduce the appropriation associated with yoga. We will aim to build love and trust in the body; learning to recognize the difference between joyful challenge and possible injury. The class will look like 45 minutes of movement, 15 minutes of winding down. 

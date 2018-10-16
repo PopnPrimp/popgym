@@ -11,3 +11,4 @@ We offer a variety of programming at little to no cost, both for the public and 
 * [Self-Defense Workshops](self-defense.md)
 * [Pop Gym MMA](mma.md)
 * [De-Escalation Workshops](de-escalation.md)
+* [Rage Yoga](rage-yoga.md)

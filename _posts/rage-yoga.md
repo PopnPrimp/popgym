@@ -1,10 +1,5 @@
 ---
-title: Rage Yoga at the Dreamhouse
-date: 2018-10-27 00:00:00 Z
-categories: 
--update
-layout:post
-subtitle: Join us at Bluestockings Bookstore on September 10th for a Pop Up Workshop!
+title: 2018 10 27 Rage Yoga
 ---
 
 ![Rage Yoga](/assets/rageyoga.png)

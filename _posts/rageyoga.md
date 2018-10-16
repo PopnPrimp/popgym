@@ -1,10 +1,4 @@
 ---
-title: Rage Yoga at the Dreamhouse!
-date: 2018-10-27 00:00:00 Z
-categories:
-- update
-layout: post
-subtitle: New Weekly Class Alert: Rage Yoga with Kirsten at the Dreamhouse!
 ---
 
 ![Rage Yoga](/assets/rageyoga.png)

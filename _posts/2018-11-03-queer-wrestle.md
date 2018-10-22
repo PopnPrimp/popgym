@@ -40,7 +40,7 @@ Recommended Attire -- comfortable athletic clothing, such as T-shirt and shorts,
 
 ** By Donation. Suggested $1 - $10. Donate what you can, no one turned away for lack of funds.
 
-For more info, check out the event page: [Queer Wrestling](https://www.facebook.com/events/1509817082457908/)
+For more info, check out the event page: [Queer Wrestling](https://www.facebook.com/events/2166125277038040/)
 
 
 

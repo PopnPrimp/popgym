@@ -8,7 +8,7 @@ subtitle: Join Fem Foundry and Pop Gym for an all afternoon art show and worksho
   from 1-3 PM
 ---
 
-![Pop Gym and Fem Foundry](/assets/PopGym_Self-Defense_Workshop.jpg)
+![Pop Gym and Fem Foundry](/assets/PopGymSelfDefenseWorkshop.jpg)
 
 Two events in one! This collab between Fem Foundry and POP Gym will bring an afternoon of skills, as these two groups collaborate for an art show and self-defense workshop!
 

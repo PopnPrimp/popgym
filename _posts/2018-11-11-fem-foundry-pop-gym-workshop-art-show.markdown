@@ -4,7 +4,8 @@ date: 2018-11-11 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Join Fem Foundry and Pop Gym for an all afternoon art show and workshop from 1-3 PM
+subtitle: Join Fem Foundry and Pop Gym for an all afternoon art show and workshop
+  from 1-3 PM
 ---
 
 ![Pop Gym and Fem Foundry](/assets/PopGym_Self-Defense_Workshop.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Store
-permalink: "https://squareup.com/store/popgym"
+permalink: https://squareup.com/store/popgym
 layout: page
 ---
 

@@ -7,7 +7,7 @@ layout: post
 subtitle: Two part intro to wrestling workshop with Spectrum Wrestling on 11/17 and 12/1!
 ---
 
-![Queer Wrestling](/assets/queerdec.jpg)
+![Queer Wrestling](/assets/queerwrestledec.jpg)
 
 The Beginner's Tool Kit for Submission Wrestling
 ( 2 non-consecutive workshops, you do not need to have attended one to check out the other)

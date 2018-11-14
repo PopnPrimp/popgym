@@ -8,8 +8,8 @@ CALL FOR SUBMISSIONS!
 
 ![Pop Gym Zine Submission](/assets/popgymzinesubmission.jpeg)
 
-<p align="center">
-*Pop Gym, a Brooklyn-based self-defense non-profit, is making a zine series and we are inviting you to participate! Our publication is a space through which we can explore issues concerning and experiences of martial arts, self defense, athletics, and politics. We have already come out with an issue, but are looking for more hot takes on how these topics intersect with identity, the body, ability, and you! We believe that in lingering at the intersection between sports and society we can begin to uncover something special—whether that be essay, personal narrative, art, instruction manual, or any other thing you are excited about sharing with the world.
+<p align="center"> <i>
+Pop Gym, a Brooklyn-based self-defense non-profit, is making a zine series and we are inviting you to participate! Our publication is a space through which we can explore issues concerning and experiences of martial arts, self defense, athletics, and politics. We have already come out with an issue, but are looking for more hot takes on how these topics intersect with identity, the body, ability, and you! We believe that in lingering at the intersection between sports and society we can begin to uncover something special—whether that be essay, personal narrative, art, instruction manual, or any other thing you are excited about sharing with the world.
 What is your experience, what is your critique? We would love to know. Submit your essays/art to us, and it could be featured in one of our upcoming releases*
 
 <p align="center">
@@ -24,6 +24,8 @@ Essays should be no longer than 1200 words!
 Check out some of the things we published (Right click and choose Save Link As to download):
 
 ![Pop Gym Zine 1](/assets/zine.png)
+
+<img src="/assets/zine.png" alt="Italian Trulli">
 
 [Pop Gym Zine #1](/assets/zinesit.pdf "Pop Gym Zine #1")
 

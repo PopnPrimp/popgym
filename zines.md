@@ -25,9 +25,14 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <img src="/assets/zine.png" alt="Italian Trulli">
 
+<br>
+
 <a href="/assets/zinesit.pdf">Pop Gym Zine #1</a>
 
-[Pop Gym Zine #1 Print Version](/assets/zineprint.pdf "Pop Gym Zine #1 for Print")
+<br>
+
+<a href="/assets/zineprint.pdf">Pop Gym Zine #1 for Print</a>
+
 
 <table>
    <tr> Some other Kewl Zines We Like:

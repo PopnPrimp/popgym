@@ -21,11 +21,11 @@ Essays should be no longer than 1200 words!
 </p>
 
 
-Check out some of the things we published (Right click and choose Save Link As to download):
-
-![Pop Gym Zine 1](/assets/zine.png)
+Check out some of the things we published. Right click and choose Save Link As to download:
 
 <img src="/assets/zine.png" alt="Italian Trulli">
+
+<a href="/assets/zinesit.pdf">Pop Gym Zine #1</a>
 
 [Pop Gym Zine #1](/assets/zinesit.pdf "Pop Gym Zine #1")
 

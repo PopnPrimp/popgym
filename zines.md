@@ -27,8 +27,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <a href="/assets/zinesit.pdf">Pop Gym Zine #1</a>
 
-[Pop Gym Zine #1](/assets/zinesit.pdf "Pop Gym Zine #1")
-
 [Pop Gym Zine #1 Print Version](/assets/zineprint.pdf "Pop Gym Zine #1 for Print")
 
 <table>

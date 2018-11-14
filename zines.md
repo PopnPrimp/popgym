@@ -34,6 +34,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="/assets/zineprint.pdf">Pop Gym Zine #1 for Print</a>
 
 <br>
+<br>
 
 <table>
    <tr> Some other Kewl Zines We Like:

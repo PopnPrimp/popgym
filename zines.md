@@ -16,10 +16,10 @@ What is your experience, what is your critique? We would love to know. Submit yo
 Essays should be no longer than 1200 words!
    
 <p align="center">
-Send in your submissions or questions to info@popgym.org
+*Send in your submissions or questions to info@popgym.org*
 
 </p>
-</i>
+
 
 Check out some of the things we published (Right click and choose Save Link As to download):
 

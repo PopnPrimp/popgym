@@ -23,7 +23,7 @@ Send in your submissions or questions to info@popgym.org
 
 Check out some of the things we published (Right click and choose Save Link As to download):
 
-![Pop Gym Zine 1](/assets/zine.png)
+[Pop Gym Zine 1](/assets/zine.png)
 
 [Pop Gym Zine #1](../assets/zinesit.pdf "Pop Gym Zine #1")
 

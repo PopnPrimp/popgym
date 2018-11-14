@@ -18,7 +18,7 @@ Essays should be no longer than 1200 words!
 <p align="center">
 Send in your submissions or questions to info@popgym.org
 
-</p></i>
+</p><i>
 
 Check out some of the things we published (Right click and choose Save Link As to download)!
 

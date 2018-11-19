@@ -6,7 +6,9 @@ layout: page
 
 ![Rage Yoga](/assets/rageyoga.png)
 
-Rage Yoga at the Dreamhouse
+### Rage Yoga at the Dreamhouse
+
+Every Tuesday, 8-9 PM, $5 suggested donation to support the Dreamhouse
 
 Yoga to embrace the chaos of the mind and to fuel the battles of today. Come stretch, move and rage while listening to power-focused music; punk, hiphop, metal, hardcore, industrial.
 
@@ -14,10 +16,7 @@ This yoga practice aims to embrace as many bodies as possible, while seeking to 
 
 Take what you need, beginners are welcome.
 
-
 Kirsten is a queer from Queens who loves movement but manages chronic pain. She/they hope to help folks access calming techniques and to develop intuitive love and trust in the body while letting go of some of the bullshit in the mind.
-
-Every Saturday 4pm to 5:15pm, $5 suggested donation to support the Dreamhouse
 
 1022 Wyckoff Ave, Ridgewood
 

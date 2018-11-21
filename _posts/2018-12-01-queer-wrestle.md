@@ -50,6 +50,6 @@ Recommended Attire -- comfortable athletic clothing, such as T-shirt and shorts,
 Presenter(s):
 Damien is a founding member of The Spectrum Wrestling Club, an LGBTQ-centered grappling group. He has a great interest in making submission wrestling accessible to people who may not feel comfortable in a conventional gym environment but who would otherwise enjoy the sport. And he is invested in helping to make "rough play" adventures as safe as possible.
 
-More Presenters to come...
+Tasia presented twice earlier this year at previous Beginner Intro Workshops. She's friendly, patient, and loves working with newcomers. Tasia says: "As the denizen of a fat body, I am particularly committed to making wrestling fun for all bodies!"
 
 

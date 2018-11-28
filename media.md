@@ -7,6 +7,9 @@ layout: page
 <iframe src="https://giphy.com/embed/SAMnPt3h8rjAQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jem-and-the-holograms-SAMnPt3h8rjAQ">via GIPHY</a></p>
 Check out some kewl stuff we've been featured in!
 
+#### Fighting Notions of Toxic Masculinity in a Trans-Inclusive Mixed Martial Arts Class
+[Them, November 28th, 2018](https://www.them.us/story/mma-class-trans-inclusive)
+
 #### Barrier Free Living NYC
 [Blog, November 16th, 2018](https://www.bflnyc.org/popgym-self-defense-workshop-at-barrier-free-livings-freedom-house-domestic-violence-shelter/)
 

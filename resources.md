@@ -74,6 +74,7 @@ A list some people and placs we think are super great!
 * [Cards Against Harassment](http://www.cardsagainstharassment.com/)- Some more cards with messages to quiet street harassers
 * [Stop Street Harassment](http://www.stopstreetharassment.org/our-work/nationalshhotline/)- Organization providing support and resources to those who face street harassment, including a national hotline to talk to somebody if you need to.
 * [Anti-Violence Project](https://avp.org/)- Hotline and resources to those experiencing hate crimes and other forms of violence
+* [Queer Fighters](https://www.patreon.com/queerfighters)- Videos and resources on Self-Defense and BJJ from the folks at [Four Elements](https://fourelementsfitness.com/) in Oakland
 
 ### Mental Health
 * [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources
@@ -107,6 +108,7 @@ A list some people and placs we think are super great!
 * [Creative Interventions Toolkit](http://www.creative-interventions.org/tools/toolkit/)- "Creative Interventions Toolkit: A Practical Guide to Stop Interpersonal Violence"
 * [The Revolution Starts at Home (zine)](http://criticalresistance.org/wp-content/uploads/2014/05/Revolution-starts-at-home-zine.pdf)
 * [Support NYC Links and Resources](https://supportny.org/links/)- a ton of great links going to orgs doing various forms of accountability work.
+* [How to Support A Survivor of Sexual Violence](https://bushwickdaily.com/bushwick/categories/mind-and-body/5726-ask-niki-support-sexual-violence-survivor)- Some tips on support
 
 ### Know Your Rights
 * [NLG Know your Rights in English, Spanish, Arabic, Bengali, and Urdu](https://www.nlg.org/know-your-rights/)

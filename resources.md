@@ -75,6 +75,7 @@ A list some people and placs we think are super great!
 * [Stop Street Harassment](http://www.stopstreetharassment.org/our-work/nationalshhotline/)- Organization providing support and resources to those who face street harassment, including a national hotline to talk to somebody if you need to.
 * [Anti-Violence Project](https://avp.org/)- Hotline and resources to those experiencing hate crimes and other forms of violence
 * [Queer Fighters](https://www.patreon.com/queerfighters)- Videos and resources on Self-Defense and BJJ from the folks at [Four Elements](https://fourelementsfitness.com/) in Oakland
+* [Outwod](https://www.outwod.com/)- "OUTWOD is the largest international initiative for bringing together LGBT+ athletes and their allies to raise funds for local charitable organizations and sweat together in a safe, inclusive group fitness environment."
 
 ### Mental Health
 * [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources

@@ -7,6 +7,10 @@ layout: page
 <iframe src="https://giphy.com/embed/SAMnPt3h8rjAQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jem-and-the-holograms-SAMnPt3h8rjAQ">via GIPHY</a></p>
 Check out some kewl stuff we've been featured in!
 
+#### Pop Gym, A Nomadic Fitness Group, Is Bringing an Inclusive Workout Class to Bushwick This Weekend 
+(note: this class was postponed, but the article is still nice!)
+[Bushwick Daily, December 5th, 2018](https://bushwickdaily.com/bushwick/categories/community/5743-bushwick-pop-gym-a-nomadic-fitness-group-inclusive-workout-class?fbclid=IwAR1XNln8XUHA6dU7a9iYdd7NrqRoRzkQF5CorglWICUTo8AaqVHnyGNBcu4)
+
 #### Fighting Notions of Toxic Masculinity in a Trans-Inclusive Mixed Martial Arts Class
 [Them, November 28th, 2018](https://www.them.us/story/mma-class-trans-inclusive)
 

@@ -7,7 +7,7 @@ layout: post
 subtitle: Come check out some of the last few Rage Yoga classes before the break to stretch in the Winter Solstice
 ---
 
-![Rage Yoga](/assets/rageyoga.png)
+![Rage Yoga](/assets/Winter-Tree-Mystical-Nightmare-Foggy-Dream-Spooky-382082.jpg)
 Rage Yoga will be in honor of the Winter Solstice these next two classes.
 This will mean candles, darkness, herbal teas and more metal than usual.
 

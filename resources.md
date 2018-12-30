@@ -95,6 +95,8 @@ A list some people and placs we think are super great!
 * [Data and Activism](https://ourdataourselves.tacticaltech.org/posts/20_intro_activism/)- A guide for navigating the digital world as an activist by Tactical Tech
 * [Defend Our Movements](https://defendourmovements.org/)- Cool 101 cybersecurity guides and HelpDesk from the folks at "Center for Media Justice, May First / People Link, and diverse movement technologists and activists"
 * [The Empowering Internet Safety Guide for Women](https://www.vpnmentor.com/blog/the-empowering-internet-safety-guide-for-women/) A guide with some great tips on how to up your cybersecurity. 
+* [Squadbox](https://squadbox.org/)- A great way to set up email filtering for a friend who is being harassed online.
+* [Designing For Users With Various Abilities](https://www.facebook.com/vellumandvinyl/posts/2092090034217730) Some cool info graphics on how you can design web pages that are accessible!
 
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment

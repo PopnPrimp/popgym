@@ -1,5 +1,5 @@
 ---
-title: Pop Gym MMA: The Final Episodes
+title: Pop Gym MMA, The Final Episodes
 date: 2019-01-08 00:00:00 Z
 categories:
 - update

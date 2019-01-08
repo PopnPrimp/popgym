@@ -7,7 +7,7 @@ layout: post
 subtitle: Pop Gym MMA two more classes until the end!
 ---
 
-![Pop Gym MMA](/assets/mma.jpg)
+![Pop Gym MMA](/assets/MMA.jpg)
 
 Pop Gym MMA coming to and end at the Dreamhouse! We have just two classes left (01/10 and 01/17) and we would LOVE to see y'all there. We also wanna thank everyone who supported us while we were here, especially folks at the Dreamhouse who gave us this space on a weekly basis. While we're looking for a new spot, punch some pads with us this Thursday!
 

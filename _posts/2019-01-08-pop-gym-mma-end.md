@@ -1,4 +1,13 @@
 ---
+title: Pop Gym MMA Cancelled This Week!
+date: 2019-01-03 00:00:00 Z
+categories:
+- update
+layout: post
+subtitle: Pop Gym MMA Cancelled This week!
+---
+
+---
 title: Pop Gym MMA: The Final Episodes
 date: 2019-01-08 00:00:00 Z
 categories:

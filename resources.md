@@ -30,6 +30,7 @@ A list some people and placs we think are super great!
 * [Brooklyn Goju](https://brooklyngoju.com/)- "Martial Arts for Peace Strength and Justice" in Park Slope. "Trans & cis women, non-binary folks, gender-nonconforming people, and/or trans men are encouraged to train in our safe and inclusive space."
 * [Ruckus Safety Awareness](http://www.makearuckus.org/)- Self-Defense workshops, ranging from beginner to intermediate
 * [Shime Waza Defense Services](https://www.instagram.com/shime_waza_defense_services/)- Offering private martial arts lessons on a sliding scale, contact through Instagram.
+* [Elements Athletics](http://www.elementsbrooklyn.com)- Women, Trans, GNC Muay Thai every Saturday at 9:30 AM, free for members, $25 cash or venmo
 
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!

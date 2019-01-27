@@ -23,19 +23,6 @@ Essays should be no longer than 1200 words!
 
 Check out some of the things we published. Right click and choose Save Link As to download:
 
-<img src="/assets/zine.png" alt="Italian Trulli">
-
-<br>
-
-<a href="/assets/zinesit.pdf">Pop Gym Zine #1</a>
-
-<br>
-
-<a href="/assets/zineprint.pdf">Pop Gym Zine #1 for Print</a>
-
-<br>
-<br>
-
 <table>
    <tr> Some other Kewl Zines We Like:
       <td>

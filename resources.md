@@ -31,6 +31,7 @@ A list some people and placs we think are super great!
 * [Ruckus Safety Awareness](http://www.makearuckus.org/)- Self-Defense workshops, ranging from beginner to intermediate
 * [Shime Waza Defense Services](https://www.instagram.com/shime_waza_defense_services/)- Offering private martial arts lessons on a sliding scale, contact through Instagram.
 * [Elements Athletics](http://www.elementsbrooklyn.com)- Women, Trans, GNC Muay Thai every Saturday at 9:30 AM, free for members, $25 cash or venmo
+* Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Friday at Montgomery Gardens (104 Montgomery Street, BK) at 1 PM
 
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!

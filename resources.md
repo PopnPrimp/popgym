@@ -33,6 +33,11 @@ A list some people and placs we think are super great!
 * [Elements Athletics](http://www.elementsbrooklyn.com)- Women, Trans, GNC Muay Thai every Saturday at 9:30 AM, free for members, $25 cash or venmo
 * Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Friday at Montgomery Gardens (104 Montgomery Street, BK) at 1 PM
 
+### Strength Training
+* [Murder of Crows Barbell](http://www.murderofcrowsbarbell.com/)
+* [S&S Barbell](http://snsbarbell.com/)
+* [South Brooklyn Weightlifting Club](https://southbrooklynwc.com/)
+
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!
 * [NYC CryptoParty](https://www.meetup.com/New-York-Cryptoparty-Network/?_cookie-check=qWDtBFUHlownGc-E)- Folks organizing cybersecurity events around NYC!

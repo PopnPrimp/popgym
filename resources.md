@@ -32,6 +32,7 @@ A list some people and placs we think are super great!
 * [Shime Waza Defense Services](https://www.instagram.com/shime_waza_defense_services/)- Offering private martial arts lessons on a sliding scale, contact through Instagram.
 * [Elements Athletics](http://www.elementsbrooklyn.com)- Women, Trans, GNC Muay Thai every Saturday at 9:30 AM, free for members, $25 cash or venmo
 * Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Friday at Montgomery Gardens (104 Montgomery Street, BK) at 1 PM
+* [Chop and Chops Mixed Martial Arts](https://www.chopandchopsmma.com/)- Free Women, Trans, GNC, NB self-defense every Sunday in March from 2-3!
 
 ### Strength Training
 * [Murder of Crows Barbell](http://www.murderofcrowsbarbell.com/)

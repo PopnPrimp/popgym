@@ -7,7 +7,7 @@ layout: post
 subtitle: Queer Wrestling Workshop is back this March!
 ---
 
-![Queer Wrestling](/assets/queerwrestledmarch.jpg)
+![Queer Wrestling](/assets/queerwrestlemarch.jpg)
 
 The Beginner's Tool Kit for Submission Wrestling
 ( 2 non-consecutive workshops, you do not need to have attended one to check out the other)

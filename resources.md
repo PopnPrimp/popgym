@@ -85,6 +85,7 @@ A list some people and placs we think are super great!
 * [Queer Fighters](https://www.patreon.com/queerfighters)- Videos and resources on Self-Defense and BJJ from the folks at [Four Elements](https://fourelementsfitness.com/) in Oakland
 * [Outwod](https://www.outwod.com/)- "OUTWOD is the largest international initiative for bringing together LGBT+ athletes and their allies to raise funds for local charitable organizations and sweat together in a safe, inclusive group fitness environment."
 * [Sisters of Powerlifting](https://www.sistersofpowerlifting.com/)- Resource for WOC getting into powerlifting!
+* [Happy Life Martial Arts Self-Defense Course](http://www.senseiando.com/self-defense-course/)- Free two hour intro course, teaching some of the same concepts we share at our workshops!
 
 ### Mental Health
 * [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources

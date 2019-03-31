@@ -18,6 +18,7 @@ Check out some of the things we published. Right click and choose Save Link As t
       </td>
    </tr>
     <tr>
+   <td>
    <img src="/assets/zine2.png" alt="Zine Volume 2">
 
 <br>
@@ -26,7 +27,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <a href="/assets/zineprint2.pdf">Pop Gym Zine #2 for Print</a>
    </tr>
-
+</td>
 <table>
    <tr> Some other Kewl Zines We Like:
       <td>

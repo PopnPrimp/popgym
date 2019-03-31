@@ -19,7 +19,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <br>
 
-<a href="/assets/zinesite2.pdf">Pop Gym Zine #2</a>
+<a href="/assets/zinesitevol2.pdf">Pop Gym Zine #2</a>
    </td>
 </tr>
 </table>

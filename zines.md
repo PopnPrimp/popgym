@@ -16,16 +16,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="/assets/zineprint.pdf">Pop Gym Zine #1 for Print</a>
       </td>
    </tr>
-
-<table>
-   <tr> Some other Kewl Zines We Like:
       <td>
-             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
-       
-<a href="https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw">Self Defense Zine</a><br>
-<a href="/assets/WSDZine.pdf">Self Defense Zine for Print</a> 
-      </td>
-   <td>
    <img src="/assets/zine.png" alt="Italian Trulli">
 
 <br>
@@ -35,8 +26,15 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="/assets/zineprint.pdf">Pop Gym Zine #1 for Print</a>
       </td>
    </tr>
-</table>
-<br>
+
+<table>
+   <tr> Some other Kewl Zines We Like:
+      <td>
+             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
+       
+<a href="https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw">Self Defense Zine</a><br>
+<a href="/assets/WSDZine.pdf">Self Defense Zine for Print</a> 
+      </td>
 <table>
    <tr> Some fun printables to share:
       <td>

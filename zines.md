@@ -6,6 +6,7 @@ layout: page
 Check out some of the things we published. Right click and choose Save Link As to download:
 
 <table>
+   <tr>
    <td>
    <img src="/assets/zine.png" alt="Italian Trulli">
 

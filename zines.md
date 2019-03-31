@@ -8,7 +8,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <table>
    <tr>
    <td>
-   <img src="/assets/zine.png" alt="Italian Trulli">
+   <img src="/assets/zine.png" alt="Zine Volume 1i">
 
 <br>
 
@@ -18,15 +18,13 @@ Check out some of the things we published. Right click and choose Save Link As t
       </td>
    </tr>
     <tr>
-    <td>
-   <img src="/assets/zine.png" alt="Italian Trulli">
+   <img src="/assets/zine2.png" alt="Zine Volume 2">
 
 <br>
 
 <a href="/assets/zinesite2.pdf">Pop Gym Zine #2</a>
 
 <a href="/assets/zineprint2.pdf">Pop Gym Zine #2 for Print</a>
-      </td>
    </tr>
 
 <table>

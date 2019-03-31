@@ -31,10 +31,15 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw">Self Defense Zine</a><br>
 <a href="/assets/WSDZine.pdf">Self Defense Zine for Print</a> 
       </td>
-      <td>
-         <img src="/assets/fanzineaf.JPG" alt="Mas Vale Vivas Y Combativas"><br>
-        <a href="/assets/FanzineAF.pdf">Mas Vale Vivas Y Combativas For Print</a>
-             
+    <img src="/assets/zine.png" alt="Italian Trulli">
+
+<br>
+
+<a href="/assets/zinesit.pdf">Pop Gym Zine #1</a>
+
+<br>
+
+<a href="/assets/zineprint.pdf">Pop Gym Zine #1 for Print</a>
       </td>
    </tr>
 </table>

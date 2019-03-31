@@ -54,7 +54,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 CALL FOR SUBMISSIONS!
 
-![Pop Gym Zine Submission](/assets/popgymzinesubmission.jpeg)
+![Pop Gym Zine Submission](/assets/popgymzinesubmission2.jpeg)
 
 <p align="center"> <i>
 Pop Gym, a Brooklyn-based self-defense non-profit, is making a zine series and we are inviting you to participate! Our publication is a space through which we can explore issues concerning and experiences of martial arts, self defense, athletics, and politics. We have already come out with an issue, but are looking for more hot takes on how these topics intersect with identity, the body, ability, and you! We believe that in lingering at the intersection between sports and society we can begin to uncover something special—whether that be essay, personal narrative, art, instruction manual, or any other thing you are excited about sharing with the world.

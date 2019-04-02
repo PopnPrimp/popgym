@@ -9,7 +9,7 @@ subtitle: We launched our second zine!
 ![Pop Gym Issue #2](/assets/zinecover2.png)
 
 If you haven't already heard....THE SECOND ISSUE OF OUR ZINE CAME OUT! Featuring new essays, interviews and a ton of art, check out the
-[Zines](www.popgym.org/zines) section of our website to get your free copy! Or check us out in person at any future tabeling to buy your copy!
+[Zines](popgym.org/zines) section of our website to get your free copy! Or check us out in person at any future tabeling to buy your copy!
 
 As always, we are looking for more submissions for future issues, so if you have anything you'ld like to submit/donate, drop us a line at info@popgym.org!
 

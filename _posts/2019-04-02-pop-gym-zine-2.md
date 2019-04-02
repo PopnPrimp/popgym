@@ -6,7 +6,7 @@ categories:
 layout: post
 subtitle: We launched our second zine!
 ---
-![Pop Gym Issue #2](/assets/zinecover2.jpg)
+![Pop Gym Issue #2](/assets/zinecover2.png)
 
 If you haven't already heard....THE SECOND ISSUE OF OUR ZINE CAME OUT! Featuring new essays, interviews and a ton of art, check out the
 "Zines" section of our website to get your free copy! Or check us out in person at any future tabeling to buy your copy!

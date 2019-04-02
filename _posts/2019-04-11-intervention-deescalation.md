@@ -7,7 +7,7 @@ layout: post
 subtitle: Come by our next De-Escalation and Intervention Workshop at Bluestockings Bookstore on April 11th!
 ---
 
-![De-Escalation](/assets/deescalateapril.jpg)
+![De-Escalation](/assets/descalateapril.jpg)
 
 DE-ESCALATION! 
 Whether for you, for someone in your life, or someone whose being messed on the street, de-escalation is an important skillset in your self-defense toolbelt. Come by this workshop from Pop Gym, who will present an introduction to the topic, overviewing tactics and strategies to get your de-escalation game on point. Come for the presentation, stay for the roleplay scenarios.

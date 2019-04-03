@@ -47,7 +47,6 @@ Check out some of the things we published. Right click and choose Save Link As t
       </td>
    </tr>
 </table>
-<p align="center">
 CALL FOR SUBMISSIONS!
 
 ![Pop Gym Zine Submission](/assets/popgymzinesubmission2.jpeg)

@@ -43,6 +43,7 @@ A list some people and placs we think are super great!
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!
 * [NYC CryptoParty](https://www.meetup.com/New-York-Cryptoparty-Network/?_cookie-check=qWDtBFUHlownGc-E)- Folks organizing cybersecurity events around NYC!
 * [CryptoParty](https://www.cryptoparty.in/)- Global listing of cybersecurity workshops and events
+* [I/O](https://shiftctrl.space/)- Offering weekly classes in Ridgewood
 
 ### Bystander Intervention
 * [Arab American Association of NY](http://www.arabamericanny.org/)- With a mission to support and empower the Arab Immigrant and Arab American community, including bystander intervention trainings, and the Accompany Project

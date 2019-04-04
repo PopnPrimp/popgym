@@ -1,13 +1,13 @@
 ---
-title: Queer Wrestling Workshop w/ Spectrum Wrestling and Pop Gym!
+title: Submission Wrestling Beginner Workshop!
 date: 2019-04-20 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Queer Wrestling Workshop is back this April!
+subtitle: The Queer Wrestling Workshop is back this April!
 ---
 
-![Queer Wrestling](/assets/queerrestleapril.jpg)
+![Queer Wrestling](/assets/queerrestleapril1.jpg)
 
 ** NOTE VENUE **  Montgomery Gardens. *** 104 Montgomery Street.  Near the Brooklyn Botanic Gardens.  Door Buzzer #6  ***
 ...........................................................................

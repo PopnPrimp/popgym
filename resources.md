@@ -108,6 +108,7 @@ A list some people and placs we think are super great!
 * [The Empowering Internet Safety Guide for Women](https://www.vpnmentor.com/blog/the-empowering-internet-safety-guide-for-women/) A guide with some great tips on how to up your cybersecurity. 
 * [Squadbox](https://squadbox.org/)- A great way to set up email filtering for a friend who is being harassed online.
 * [Designing For Users With Various Abilities](https://www.facebook.com/vellumandvinyl/posts/2092090034217730) Some cool info graphics on how you can design web pages that are accessible!
+* [Ultimate Privacy Guide](https://www.bestvpn.com/guides/the-ultimate-privacy-guide/)- Pretty comprehensive cybersecurity guide to get you started on some concepts
 
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment

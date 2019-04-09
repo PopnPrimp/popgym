@@ -17,6 +17,7 @@ url: ''
 twitter_username: popgymbk
 facebook_username: popgymbk
 instagram_username: popgymbk
+dimstadon_username: test
 markdown: kramdown
 exclude:
 - Gemfile

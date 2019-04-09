@@ -39,12 +39,19 @@
           {% endif %}
           {% if site.instagram_username %}
             <li>
-                <i class="fa fa-venmo"></i> {{ site.instagram_username }}
+               <a href="https://www.instagram.com/{{ site.instagram_username }}">
+                <i class="fa fa-instagram"></i> {{ site.instagram_username }}
+              </a>
+            </li>
+          {% endif %}
+           {% if site.venmo_username %}
+            <li>
+                <i class="fa fa-venmo"></i> {{ site.venmo_username }}
               </a>
             </li>
           {% endif %}
          
-          
+        
           
         </ul>
       </div>

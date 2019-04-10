@@ -10,6 +10,8 @@ layout: page
 
 A list some people and placs we think are super great!
 
+Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
+
 ## In-Person
 
 ### Physical Self-Defense

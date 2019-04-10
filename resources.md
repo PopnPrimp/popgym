@@ -41,6 +41,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Murder of Crows Barbell](http://www.murderofcrowsbarbell.com/)
 * [S&S Barbell](http://snsbarbell.com/)
 * [South Brooklyn Weightlifting Club](https://southbrooklynwc.com/)
+* [Body Positive Fitness Finder](https://superfithero.com/pages/body-positive-fitness-finder?utm_source=Bopo+Trainers&utm_campaign=0e473540ce-EMAIL_CAMPAIGN_2019_04_04_10_49&utm_medium=email&utm_term=0_e75c751fc6-0e473540ce-173912825&mc_cid=0e473540ce&mc_eid=56e2782185) Check out us and a number of other cool body+ orgs with this nationwide finder from SuperFit Hero
 
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!

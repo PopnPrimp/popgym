@@ -29,7 +29,7 @@ Check out some of the things we published. Right click and choose Save Link As t
              <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
        
 <a href="https://ln.sync.com/dl/608a08ff0/wj8zdimj-byf3dk7v-m7umfuk8-kt458kiw">Self Defense Zine</a><br>
-<a href="/assets/WSDZine.pdf">Self Defense Zine for Print</a> 
+<a href="/assets/WSDZineFinal.pdf">Self Defense Zine for Print</a> 
       </td>
 <table>
    <tr> Some fun printables to share:

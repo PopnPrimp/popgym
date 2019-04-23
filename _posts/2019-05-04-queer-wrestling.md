@@ -17,6 +17,8 @@ If you’ve ever wanted to learn about the sport of SUBMISSION WRESTLING, now’
 Interested but not sure if you can participate? Join us anyway and observe from the sidelines! Ask questions, meet attendees, and have fun.
 
 This workshop is facilitated by special guest presenters from The Spectrum Wrestling Club
+
+Doors at 1 PM, workshop starts at 1:30 PM!
 ………….
 
 SUBMISSION WRESTLING

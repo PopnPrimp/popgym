@@ -7,7 +7,7 @@ layout: post
 subtitle: The Queer Wrestling Workshop is back this May!
 ---
 
-![Queer Wrestling](/assets/queerrestleapril1.jpg)
+![Queer Wrestling](/assets/submissionwrestle.jpg)
 
 ** NOTE VENUE **  Montgomery Gardens. *** 104 Montgomery Street.  Near the Brooklyn Botanic Gardens.  Door Buzzer #6  ***
 ...........................................................................

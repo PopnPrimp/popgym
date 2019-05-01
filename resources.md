@@ -36,6 +36,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Friday at Montgomery Gardens (104 Montgomery Street, BK) at 1 PM
 * [Chop and Chops Mixed Martial Arts](https://www.chopandchopsmma.com/)- Free Women, Trans, GNC, NB self-defense every Sunday in March from 2-3!
 * [Peace Place Brooklyn](https://www.peaceplacebrooklyn.com/schedule-rates?fbclid=IwAR0DHmnyblJmmukSTJETPf32VbOinRzkY5-8M678W7vymFIMd-LU8dt9080)- Offering Yoga classes to a variety of bodies
+* [Brooklyn Community Pride Center](http://lgbtbrooklyn.org/)- Offering a host of self-defense and health events every month
+* NightCAP (Cycling Against Patriarchy)- Offering free group rides for Femme/NB folk every Tuesday at 7 PM at Maria Hernandez park. For more info, check out their insta @nightcap_brooklyn
 
 ### Strength Training
 * [Murder of Crows Barbell](http://www.murderofcrowsbarbell.com/)
@@ -59,6 +61,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [NYC Condoms](https://a816-healthpsi.nyc.gov/NYCHealthMap/home/ByServices?services=15)- Where to get free condoms in NYC
 * [Cindy Samantha LMT](https://cindysamanthalmt.wordpress.com)- Integrative Body Work and Massage Therapist in South Brooklyn
 * [Dance Safe](https://dancesafe.org/)- Providing harm reduction resources, and creating Safe Spaces at parties.
+* Feed the People- Serving food to folks in Harlem and the Bronx, check the @nyc_shutitdown insta for more info
+* Club A Kitchen- Serving food and handing out resources/clothes every Saturday from 1-4 PM at 7 Belvidere Street! Plus, community movie nights on Wednesdays (@club_a_nyc)
 
 ### Mental Health Resources
 * [Respite Centers](https://www1.nyc.gov/site/doh/health/health-topics/crisis-emergency-services-respite-centers.page)- Lists of a few respite centers in NYC

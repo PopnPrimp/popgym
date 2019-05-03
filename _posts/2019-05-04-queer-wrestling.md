@@ -1,5 +1,5 @@
 ---
-title: CANCELLED: Submission Wrestling Beginner Workshop!
+title: CANCELLED Submission Wrestling Beginner Workshop!
 date: 2019-05-04 00:00:00 Z
 categories:
 - update

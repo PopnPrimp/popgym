@@ -8,6 +8,8 @@ subtitle: Get to know Naomi Cookson
 
 ![Naomi Cookson](/assets/resourceofthemonthnaomi.jpg)
 
+_We our so excited for our FIRST Resource of the Month! Check out this interview with local trainer Naomi Cookson and see why we thinks she's so cool_
+
 **Pop Gym: Hey! thanks for taking the time, just a few quick questions to start. First what's your martial art?**
  
 Naomi Cookson: I did Karate for a long time as a kid and then in my mid-twenties started training Muay Thai. 

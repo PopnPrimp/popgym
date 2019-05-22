@@ -12,6 +12,11 @@ A list some people and placs we think are super great!
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
+## Resource of the Month
+
+Get to know some folks on this list a bit better with these short, sweet interviews!
+ * [Naomi Cookson]()
+
 ## In-Person
 
 ### Physical Self-Defense
@@ -19,6 +24,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * Queer Fight School- Follow them on Insta for updates on upcoming classes!
 * [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
 * [Rev Fitness](http://www.revolutionaryfitness.org/)- Affordable and rad fitness in East Harlem
+* [Naomi Cookson](https://www.naomicookson.com/)- Muay Thai classes available in Red Hook at 356 Van Brunt Street. Classes are open to all levels; beginners are welcome. 18 years and up. Tuesday 10am // Thursday 10am & 7pm // Saturday 11:30am 10 Class Package $ 200 // 5 Class Package $ 125 // Drop-in $30. Please wear comfortable clothing and bring a water bottle. Email naomicooksontraining@gmail.com for more information or just show up! 
 * [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes for Femme, Queer and/or Trans folk
 * [IMWISE](https://imwise.org/events/)- Self-Defense classes against Hate Crimes, for Muslim Women, and for the General Public
 * [Masterskya](http://masterskya.com/)- Low cost BJJ in Bushwick
@@ -32,9 +38,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Brooklyn Goju](https://brooklyngoju.com/)- "Martial Arts for Peace Strength and Justice" in Park Slope. "Trans & cis women, non-binary folks, gender-nonconforming people, and/or trans men are encouraged to train in our safe and inclusive space."
 * [Ruckus Safety Awareness](http://www.makearuckus.org/)- Self-Defense workshops, ranging from beginner to intermediate
 * [Shime Waza Defense Services](https://www.instagram.com/shime_waza_defense_services/)- Offering private martial arts lessons on a sliding scale, contact through Instagram.
-* [Elements Athletics](http://www.elementsbrooklyn.com)- Women, Trans, GNC Muay Thai every Saturday at 9:30 AM, free for members, $25 cash or venmo
 * Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Friday at Montgomery Gardens (104 Montgomery Street, BK) at 1 PM
-* [Chop and Chops Mixed Martial Arts](https://www.chopandchopsmma.com/)- Free Women, Trans, GNC, NB self-defense every Sunday in March from 2-3!
 * [Peace Place Brooklyn](https://www.peaceplacebrooklyn.com/schedule-rates?fbclid=IwAR0DHmnyblJmmukSTJETPf32VbOinRzkY5-8M678W7vymFIMd-LU8dt9080)- Offering Yoga classes to a variety of bodies
 * [Brooklyn Community Pride Center](http://lgbtbrooklyn.org/)- Offering a host of self-defense and health events every month
 * NightCAP (Cycling Against Patriarchy)- Offering free group rides for Femme/NB folk every Tuesday at 7 PM at Maria Hernandez park. For more info, check out their insta @nightcap_brooklyn

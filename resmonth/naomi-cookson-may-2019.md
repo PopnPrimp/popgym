@@ -24,7 +24,7 @@ NC: I’ve trained in a bunch of different places! I started training in Thailan
 
 NC: I’m about to start teaching Muay Thai at a small martial arts studio in Red Hook, Brooklyn! We haven’t started yet but looking to start the classes in mid-May. 
 
-**PG: What made you wanna open your own place? **
+**PG: What made you wanna open your own place?**
 
 NC: I want to open my own place because I think there is a need to increase accessibility to martial arts and strength training. Most places don't actively discriminate but they are not necessarily intentionally welcoming to all people. Access to training shouldn't be difficult. But it is still rare to find a truly welcoming place that centers around high quality training, community and inclusivity. 
 

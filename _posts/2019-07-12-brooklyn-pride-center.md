@@ -10,8 +10,11 @@ subtitle: Join us at the Brooklyn Community Pride Center this summer for 3 self-
 ![Pop Gym at Bluestockings](/assets/lgbtqcenterflyer.jpg)
 
 Date: 2nd Wednesday of the month (May 8, June 12, July 10)
+
 Time: 6pm - 8pm
+
 Location: Brooklyn Community Pride Center, 1360 Fulton St, Brooklyn, NY 11216 (entrance on New York Avenue, between Fulton and Herkimer Streets)
+
 Room: David Kooy Room
 
 ** Please note - At the June 12 session, members of the media may film portions of the class. Any participant may opt-out of being filmed. 

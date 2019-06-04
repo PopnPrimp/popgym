@@ -14,5 +14,6 @@ Time: 6pm - 8pm
 Location: Brooklyn Community Pride Center, 1360 Fulton St, Brooklyn, NY 11216 (entrance on New York Avenue, between Fulton and Herkimer Streets)
 Room: David Kooy Room
 
+** Please note - At the June 12 session, members of the media may film portions of the class. Any participant may opt-out of being filmed. 
 
 POP Gym,  a new project, providing free fitness and skill share classes all around NYC, will be facilitating a self-defense class every second Wednesday of the month at Brooklyn Community Pride Center. POP Gym classes are described as fun, holistic, and empowering and we welcome you to join the class free of charge. For more information and to sign up, contact Grey at info@popgym.org.

@@ -37,8 +37,7 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 * [Westside TKD](http://westsidetkd.com/)- Tae-Kwon-Do training in Harlem
 * [Brooklyn Goju](https://brooklyngoju.com/)- "Martial Arts for Peace Strength and Justice" in Park Slope. "Trans & cis women, non-binary folks, gender-nonconforming people, and/or trans men are encouraged to train in our safe and inclusive space."
 * [Ruckus Safety Awareness](http://www.makearuckus.org/)- Self-Defense workshops, ranging from beginner to intermediate
-* [Shime Waza Defense Services](https://www.instagram.com/shime_waza_defense_services/)- Offering private martial arts lessons on a sliding scale, contact through Instagram.
-* Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Friday at Montgomery Gardens (104 Montgomery Street, BK) at 1 PM
+* Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Monday (message for deets!)
 * [Peace Place Brooklyn](https://www.peaceplacebrooklyn.com/schedule-rates?fbclid=IwAR0DHmnyblJmmukSTJETPf32VbOinRzkY5-8M678W7vymFIMd-LU8dt9080)- Offering Yoga classes to a variety of bodies
 * [Brooklyn Community Pride Center](http://lgbtbrooklyn.org/)- Offering a host of self-defense and health events every month
 * NightCAP (Cycling Against Patriarchy)- Offering free group rides for Femme/NB folk every Tuesday at 7 PM at Maria Hernandez park. For more info, check out their insta @nightcap_brooklyn

@@ -1,10 +1,10 @@
 ---
-title: Pop Gym May Events!
-date: 2019-05-30 00:00:00 Z
+title: Pop Gym June Events!
+date: 2019-06-30 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Check out our events all throughout May!
+subtitle: Check out our events all throughout June!
 ---
 
 ![Pop Gym May](/assets/PopGymJuneevent.jpg)

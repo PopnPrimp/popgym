@@ -7,6 +7,9 @@ layout: page
 <iframe src="https://giphy.com/embed/SAMnPt3h8rjAQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jem-and-the-holograms-SAMnPt3h8rjAQ">via GIPHY</a></p>
 Check out some kewl stuff we've been featured in!
 
+#### Pop Gym Feature
+[News12 Brooklyn, June 20th, 2019](https://ln.sync.com/dl/bb4c1fed0/d8enb6cc-vmc3ydv4-mpajrrck-hvfh5gfi)
+
 #### Fighting Notions of Toxic Masculinity in a Trans-Inclusive Mixed Martial Arts Class
 [Them, November 28th, 2018](https://www.them.us/story/mma-class-trans-inclusive)
 

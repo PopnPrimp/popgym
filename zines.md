@@ -28,8 +28,7 @@ Check out some of the things we published. Right click and choose Save Link As t
       <td>
              <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
        
-<a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk">Self Defense Zine</a><br>
-<a href="/assets/WSDZineFinal.pdf">Self Defense Zine for Print</a> 
+<a href="https://qpocma.itch.io/the-body">The Body by QPOCMA</a><br>
       </td>
       <td>
              <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>

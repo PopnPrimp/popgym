@@ -26,7 +26,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <table>
    <tr> Some other Kewl Zines We Like:
       <td>
-             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
+             <img src="/assets/thebody.png" alt="Self Defense, The Zine"><br>
        
 <a href="https://qpocma.itch.io/the-body">The Body by QPOCMA</a><br>
       </td>

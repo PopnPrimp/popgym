@@ -1,63 +1,37 @@
 <footer class="site-footer">
-
+<data class="u-url" href="{{ "/" | relative_url }}"></data>
   <div class="wrapper">
-
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
+        <p>
             {% if site.author %}
               {{ site.author | escape }}
             {% else %}
               {{ site.title | escape }}
             {% endif %}
-            </li>
+          </p>
             {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
             {% endif %}
-        </ul>
       </div>
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-
-          {% if site.twitter_username %}
-            <li>
-              <a href="https://twitter.com/{{ site.twitter_username }}">
-                <i class="fa fa-twitter"></i> {{ site.twitter_username }}
-              </a>
-            </li>
-          {% endif %}
-          {% if site.facebook_username %}
-            <li>
-              <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                <i class="fa fa-facebook"></i> {{ site.facebook_username }}
-              </a>
-            </li>
-          {% endif %}
-          {% if site.instagram_username %}
-            <li>
-               <a href="https://www.instagram.com/{{ site.instagram_username }}">
-                <i class="fa fa-instagram"></i> {{ site.instagram_username }}
-              </a>
-            </li>
-          {% endif %}
-           {% if site.venmo_username %}
-            <li>
-                <i class="fa fa-venmo"></i> {{ site.venmo_username }}
-              </a>
-            </li>
-          {% endif %}
-         
-        
-          
+          {%- if site.twitter_username -%}<li><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><span class="svg-icon">{% include icon-twitter.svg %}</span><span class="username">{{ site.twitter_username| escape }}</span></a></li>{%- endif -%}
+          {%- if site.facebook_username -%}<li><a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"><span class="svg-icon">{% include icon-facebook.svg %}</span><span class="username">{{ site.facebook_username| escape }}</span></a></li>{%- endif -%}
+          {%- if site.instagram_username -%}<li><a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}"><span class="svg-icon">{% include icon-instagram.svg %}</span><span class="username">{{ site.instagram_username| escape }}</span></a></li>{%- endif -%}
+          {%- if site.venmo_username -%}<li><a href="https://venmo.com/{{ site.venmo_username | cgi_escape | escape }}"><span class="svg-icon">{% include icon-venmo.svg %}</span><span class="username" style="vertical-align: top;">{{ site.venmo_username | escape }}</span></a></li>{%- endif -%}
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description | escape }}</p>
+        <p>{% if site.phone_number %}
+
+              <span class="svg-icon">{% include icon-phone.svg %}</span> {{ site.phone_number }}
+
+         {% endif %}</p>
       </div>
     </div>
 

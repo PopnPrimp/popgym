@@ -7,6 +7,8 @@ layout: post
 subtitle: We'll be doin a lil workshop as part of the NYC 2 Charlottesville memorial.
 ---
 
+![Pop Gym at NYC 2 Charlottesville!](/assets/nyc2.jpg)
+
 We remember Heather Heyer!
 NYC stands together against racism & fascism!
 

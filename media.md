@@ -7,6 +7,9 @@ layout: page
 <iframe src="https://giphy.com/embed/SAMnPt3h8rjAQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jem-and-the-holograms-SAMnPt3h8rjAQ">via GIPHY</a></p>
 Check out some kewl stuff we've been featured in!
 
+#### Including Animals: Pop Gym
+[Including Animals Podcast, August 7, 2019](https://includinganimals.libsyn.com/pop-gym)
+
 #### Pop Gym Feature
 [News12 Brooklyn, June 20th, 2019](https://vimeo.com/345048066)
 

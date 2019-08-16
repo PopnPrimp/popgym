@@ -1,6 +1,6 @@
 ---
 title: Resource of the Month- Naomi Cookson
-date: 2019-08-31 00:00:00 Z
+date: 2019-08-16 00:00:00 Z
 categories:
 - update
 layout: post

@@ -7,7 +7,7 @@ layout: post
 subtitle: Get to know Nola Hanson and Trans Boxing!
 ---
 
-![Nola Hanson and Liv Tyler of Trans Boxing](/assets/transbox.jpg)
+![Nola Hanson and Liv Adler of Trans Boxing](/assets/transbox.jpg)
 
 _Today we are speaking with Nola Hanson (NH), a member of the Trans Boxing Collective. A long-time part of our resource list, TBC hosts weekly boxing classes for Trans/GNC folk, as well as other Queer+ Boxing events!_
 

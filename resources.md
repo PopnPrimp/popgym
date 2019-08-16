@@ -16,6 +16,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 Get to know some folks on this list a bit better with these short, sweet interviews!
  * [Naomi Cookson](/resmonth/naomi-cookson-may-2019.md)
+ * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
 
 ## In-Person
 

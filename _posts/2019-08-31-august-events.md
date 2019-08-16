@@ -1,5 +1,5 @@
 ---
-title: Pop Gym June Events!
+title: Pop Gym August Events!
 date: 2019-08-30 00:00:00 Z
 categories:
 - update

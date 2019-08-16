@@ -11,19 +11,20 @@ collections:
 email: info@popgym.org
 description: Free classes for self-defense, de-escalation, and more, all over New
   York City!
-phone number: 573-POP-0143 (573-767-0143)
-baseurl: ''
-url: ''
+phone_number: 573-POP-0143 (573-767-0143)
+baseurl:
+url: https://popgym.org
 twitter_username: popgymbk
 facebook_username: popgymbk
 instagram_username: popgymbk
+venmo_username: popgym
 markdown: kramdown
 exclude:
 - Gemfile
 - Gemfile.lock
 paginate: 8
 paginate_path: updates/page:num
-gems:
+plugins:
 - jekyll-paginate
 header_pages:
 - about.md
@@ -34,3 +35,18 @@ header_pages:
 - resources.md
 - media.md
 - store.md
+<<<<<<< HEAD
+=======
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+>>>>>>> edf0a04beceaf966dd6b295a1dcbe79214c6f433

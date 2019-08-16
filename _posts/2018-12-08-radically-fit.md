@@ -4,7 +4,11 @@ date: 2018-12-05 00:00:00 Z
 categories:
 - update
 layout: post
+<<<<<<< HEAD
 subtitle: CANCELLED: Radically Fit Community Workour
+=======
+subtitle: CANCELLED Radically Fit Community Workour
+>>>>>>> edf0a04beceaf966dd6b295a1dcbe79214c6f433
 ---
 
 ![Radically Fit in NYC!](/assets/radfitnyc2.png)

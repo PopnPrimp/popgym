@@ -24,4 +24,4 @@ layout: page
 
 
 
-<h4>You can also find us on any of the Facebook, Twitter, Instagram, and Meetup! Check the buttons below! </h4>
+<h4> Give us a call at 573-POP-0143 (573-767-0143) You can also find us on any of the Facebook, Twitter, Instagram, and Meetup! Check the buttons below! </h4>

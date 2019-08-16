@@ -10,13 +10,22 @@ layout: page
 
 A list some people and placs we think are super great!
 
+Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
+
+## Resource of the Month
+
+Get to know some folks on this list a bit better with these short, sweet interviews!
+ * [Naomi Cookson](/resmonth/naomi-cookson-may-2019.md)
+ * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
+
 ## In-Person
 
 ### Physical Self-Defense
 * [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk
-* Queer Fight School- Classes for Women, GNC, and Trans folk
+* Queer Fight School- Follow them on Insta for updates on upcoming classes!
 * [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
 * [Rev Fitness](http://www.revolutionaryfitness.org/)- Affordable and rad fitness in East Harlem
+* [Naomi Cookson](https://www.naomicookson.com/)- Muay Thai classes available in Red Hook at 356 Van Brunt Street. Classes are open to all levels; beginners are welcome. 18 years and up. Tuesday 10am // Thursday 10am & 7pm // Saturday 11:30am 10 Class Package $ 200 // 5 Class Package $ 125 // Drop-in $30. Please wear comfortable clothing and bring a water bottle. Email naomicooksontraining@gmail.com for more information or just show up! 
 * [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes for Femme, Queer and/or Trans folk
 * [IMWISE](https://imwise.org/events/)- Self-Defense classes against Hate Crimes, for Muslim Women, and for the General Public
 * [Masterskya](http://masterskya.com/)- Low cost BJJ in Bushwick
@@ -29,12 +38,22 @@ A list some people and placs we think are super great!
 * [Westside TKD](http://westsidetkd.com/)- Tae-Kwon-Do training in Harlem
 * [Brooklyn Goju](https://brooklyngoju.com/)- "Martial Arts for Peace Strength and Justice" in Park Slope. "Trans & cis women, non-binary folks, gender-nonconforming people, and/or trans men are encouraged to train in our safe and inclusive space."
 * [Ruckus Safety Awareness](http://www.makearuckus.org/)- Self-Defense workshops, ranging from beginner to intermediate
-* [Shime Waza Defense Services](https://www.instagram.com/shime_waza_defense_services/)- Offering private martial arts lessons on a sliding scale, contact through Instagram.
+* Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Monday (message for deets!)
+* [Peace Place Brooklyn](https://www.peaceplacebrooklyn.com/schedule-rates?fbclid=IwAR0DHmnyblJmmukSTJETPf32VbOinRzkY5-8M678W7vymFIMd-LU8dt9080)- Offering Yoga classes to a variety of bodies
+* [Brooklyn Community Pride Center](http://lgbtbrooklyn.org/)- Offering a host of self-defense and health events every month
+* NightCAP (Cycling Against Patriarchy)- Offering free group rides for Femme/NB folk every Tuesday at 7 PM at Maria Hernandez park. For more info, check out their insta @nightcap_brooklyn
+
+### Strength Training
+* [Murder of Crows Barbell](http://www.murderofcrowsbarbell.com/)
+* [S&S Barbell](http://snsbarbell.com/)
+* [South Brooklyn Weightlifting Club](https://southbrooklynwc.com/)
+* [Body Positive Fitness Finder](https://superfithero.com/pages/body-positive-fitness-finder?utm_source=Bopo+Trainers&utm_campaign=0e473540ce-EMAIL_CAMPAIGN_2019_04_04_10_49&utm_medium=email&utm_term=0_e75c751fc6-0e473540ce-173912825&mc_cid=0e473540ce&mc_eid=56e2782185) Check out us and a number of other cool body+ orgs with this nationwide finder from SuperFit Hero
 
 ### CyberSecurity
 * [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!
 * [NYC CryptoParty](https://www.meetup.com/New-York-Cryptoparty-Network/?_cookie-check=qWDtBFUHlownGc-E)- Folks organizing cybersecurity events around NYC!
 * [CryptoParty](https://www.cryptoparty.in/)- Global listing of cybersecurity workshops and events
+* [I/O](https://shiftctrl.space/)- Offering weekly classes in Ridgewood
 
 ### Bystander Intervention
 * [Arab American Association of NY](http://www.arabamericanny.org/)- With a mission to support and empower the Arab Immigrant and Arab American community, including bystander intervention trainings, and the Accompany Project
@@ -46,6 +65,8 @@ A list some people and placs we think are super great!
 * [NYC Condoms](https://a816-healthpsi.nyc.gov/NYCHealthMap/home/ByServices?services=15)- Where to get free condoms in NYC
 * [Cindy Samantha LMT](https://cindysamanthalmt.wordpress.com)- Integrative Body Work and Massage Therapist in South Brooklyn
 * [Dance Safe](https://dancesafe.org/)- Providing harm reduction resources, and creating Safe Spaces at parties.
+* Feed the People- Serving food to folks in Harlem and the Bronx, check the @nyc_shutitdown insta for more info
+* Club A Kitchen- Serving food and handing out resources/clothes every Saturday from 1-4 PM at 7 Belvidere Street! Plus, community movie nights on Wednesdays (@club_a_nyc)
 
 ### Mental Health Resources
 * [Respite Centers](https://www1.nyc.gov/site/doh/health/health-topics/crisis-emergency-services-respite-centers.page)- Lists of a few respite centers in NYC
@@ -74,6 +95,10 @@ A list some people and placs we think are super great!
 * [Cards Against Harassment](http://www.cardsagainstharassment.com/)- Some more cards with messages to quiet street harassers
 * [Stop Street Harassment](http://www.stopstreetharassment.org/our-work/nationalshhotline/)- Organization providing support and resources to those who face street harassment, including a national hotline to talk to somebody if you need to.
 * [Anti-Violence Project](https://avp.org/)- Hotline and resources to those experiencing hate crimes and other forms of violence
+* [Queer Fighters](https://www.patreon.com/queerfighters)- Videos and resources on Self-Defense and BJJ from the folks at [Four Elements](https://fourelementsfitness.com/) in Oakland
+* [Outwod](https://www.outwod.com/)- "OUTWOD is the largest international initiative for bringing together LGBT+ athletes and their allies to raise funds for local charitable organizations and sweat together in a safe, inclusive group fitness environment."
+* [Sisters of Powerlifting](https://www.sistersofpowerlifting.com/)- Resource for WOC getting into powerlifting!
+* [Happy Life Martial Arts Self-Defense Course](http://www.senseiando.com/self-defense-course/)- Free two hour intro course, teaching some of the same concepts we share at our workshops!
 
 ### Mental Health
 * [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources
@@ -93,6 +118,9 @@ A list some people and placs we think are super great!
 * [Data and Activism](https://ourdataourselves.tacticaltech.org/posts/20_intro_activism/)- A guide for navigating the digital world as an activist by Tactical Tech
 * [Defend Our Movements](https://defendourmovements.org/)- Cool 101 cybersecurity guides and HelpDesk from the folks at "Center for Media Justice, May First / People Link, and diverse movement technologists and activists"
 * [The Empowering Internet Safety Guide for Women](https://www.vpnmentor.com/blog/the-empowering-internet-safety-guide-for-women/) A guide with some great tips on how to up your cybersecurity. 
+* [Squadbox](https://squadbox.org/)- A great way to set up email filtering for a friend who is being harassed online.
+* [Designing For Users With Various Abilities](https://www.facebook.com/vellumandvinyl/posts/2092090034217730) Some cool info graphics on how you can design web pages that are accessible!
+* [Ultimate Privacy Guide](https://www.bestvpn.com/guides/the-ultimate-privacy-guide/)- Pretty comprehensive cybersecurity guide to get you started on some concepts
 
 ### De-Escalation
 * [Hollaback!](https://www.ihollaback.org/)- Resources for de-escalation on online harassment
@@ -107,9 +135,14 @@ A list some people and placs we think are super great!
 * [Creative Interventions Toolkit](http://www.creative-interventions.org/tools/toolkit/)- "Creative Interventions Toolkit: A Practical Guide to Stop Interpersonal Violence"
 * [The Revolution Starts at Home (zine)](http://criticalresistance.org/wp-content/uploads/2014/05/Revolution-starts-at-home-zine.pdf)
 * [Support NYC Links and Resources](https://supportny.org/links/)- a ton of great links going to orgs doing various forms of accountability work.
+* [How to Support A Survivor of Sexual Violence](https://bushwickdaily.com/bushwick/categories/mind-and-body/5726-ask-niki-support-sexual-violence-survivor)- Some tips on support
 
 ### Know Your Rights
 * [NLG Know your Rights in English, Spanish, Arabic, Bengali, and Urdu](https://www.nlg.org/know-your-rights/)
+
+### Disability
+* [Renters’ Rights and Housing Assistance for People with Disabilities](https://www.justgreatlawyers.com/renters-rights-and-housing-assistance-for-people-with-disabilities)
+* [Special Needs Checklist: How Disability-Friendly is Your City?](https://www.yourstoragefinder.com/special-needs-checklist-how-disability-friendly-is-your-city)
 
 
 

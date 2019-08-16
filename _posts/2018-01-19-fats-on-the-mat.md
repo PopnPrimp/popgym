@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Body Pos Wrestling Workshop: Fats on the Mats
+=======
+title: Body Pos Wrestling Workshop Fats on the Mats
+>>>>>>> edf0a04beceaf966dd6b295a1dcbe79214c6f433
 date: 2018-01-19 00:00:00 Z
 categories:
 - update
@@ -45,6 +49,10 @@ Recommended Attire -- comfortable athletic clothing, such as T-shirt and shorts,
 
 ** Participate at whatever level of intensity works for you. Beginners are strongly encouraged to work slowly and at low intensity.
 
+<<<<<<< HEAD
 ** No on-mat participation required; You are welcome to come and just watch. 
+=======
+** No on-mat participation required; You are welcome to come and just watch.
+>>>>>>> edf0a04beceaf966dd6b295a1dcbe79214c6f433
 
 ** By Donation. Suggested $0 - $10. All donations help support the venue. No one turned away for lack of funds.

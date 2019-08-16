@@ -1,17 +1,13 @@
 ---
 title: Pop Gym Pop Up at Bluestockings Bookstore!
-date: 2019-04-30 00:00:00 Z
+date: 2019-07-15 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Join us at Bluestockings Bookstore on April 30th for a Pop Up Workshop!
+subtitle: Join us at Bluestockings Bookstore on July 15th for a Pop Up Workshop!
 ---
 
-<<<<<<< HEAD
-![Pop Gym at Bluestockings](/assets/bstoxmarch.jpg)
-=======
-![Pop Gym at Bluestockings](/assets/bstoxapril.jpg)
->>>>>>> edf0a04beceaf966dd6b295a1dcbe79214c6f433
+![Pop Gym at Bluestockings](/assets/bstoxjulyflyerr.jpg)
 
 Palm Heels for the people! Don't get that joke? No worries! Come by this FREE Pop Gym Pop Up workshop at Bluestockings at 7:00 PM to learn some introductory skills that will keep you feeling safe. We'll be covering the basics: stretching, conditioning, technique, and theory, with the hope that participants will leave with some super useful foundations that will aid them in the day-to-day. Mix that in with some sweat and some movement, and you'll have an accessible and confidence-boosting good time for all. Whether you are a beginner, or someone with experience, come work it out with us!
 

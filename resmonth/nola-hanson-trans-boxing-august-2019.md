@@ -1,5 +1,5 @@
 ---
-title: Resource of the Month- Naomi Cookson
+title: Resource of the Month- Nola Hanson of Trans Boxing
 date: 2019-08-16 00:00:00 Z
 categories:
 - update

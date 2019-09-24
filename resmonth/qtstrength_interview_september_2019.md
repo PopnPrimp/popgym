@@ -9,10 +9,10 @@ subtitle: Get to know August, Carlo Maria, Davi, and Feathers, four members of
 
 ![Nola Hanson and Liv Adler of Trans Boxing](/assets/transbox.jpg)
 
-_Today we’re speaking with August, Carlo Maria, Davi, and Feathers, four members of a local NYC queer/trans specific strength training collective. The group, which has some serious heavy hitters re:powerlifting and athletic experience, hosts twice a month coached meetups for folks interested in strength training.  They are also building a community of lifters who can learn from one another. Here are their thoughts on their project and the reason behind the work that they do!_
+_Today we’re speaking with August, Carlo Maria, Davi, and Feathers, four members of a local NYC queer/trans specific strength training collective. The group, which has some serious heavy hitters re:powerlifting and athletic experience, hosts twice a month coached meetups for folks interested in strength training. They are also building a community of lifters who can learn from one another. Check em out at @QTStrengthNYC on Insta. Here are their thoughts on their project and the reason behind the work that they do!_
 
 
-Pop Gym: What's your sport? 
+**Pop Gym: What's your sport?**
 
 August: Powerlifting, kettlebells, biking and pilates 
 
@@ -22,7 +22,7 @@ Davi: Powerlifting has been my primary sport for years, though I’m preparing f
 
 Feathers: Powerlifting and running.
 
-PG: How long have you been training?
+**PG: How long have you been training?**
  
 A: I had a long interest in bodybuilding and pursued that for many years, but got injured and decided to focus on calisthenics. So for a solid decade, I did only body weight exercise and eschewed all weights. But after a time, I realized I wasn't making much progress anymore and felt really unmotivated. I took up kettlebells in 2016, and powerlifting in 2017. Fortunately for me, I have a partner who is literally a world class powerlifter. Davi taught me the technicalities of the sport, writes custom programs for me, and gives me feedback on my lifts.
 
@@ -32,7 +32,7 @@ D: I’ve been training as a powerlifter since 2013.
 
 F: Powerlifting, for 5 months. Running, for 2 years.
 
-PG: Where have you trained?
+**PG: Where have you trained?**
 
 A: I have trained at a few different gyms but my home is with Queer Trans Strength NYC. It's amazing to come into a sport that is culturally and historically embedded with nationalism, racism, misogyny and class exclusivity, not to mention homo- and transphobia, and then create a space within it that is both flamboyantly queer and defiantly strong. 
 
@@ -40,7 +40,7 @@ D: My home gym (and the generous host of QueerTransStrengthNYC) right now is Squ
 
 F: S&S Barbell Club with Davi’s QT Strength group.
 
-PG: What keeps bringing you back to lifting?
+**PG: What keeps bringing you back to lifting?**
 
 A: Lifting reminds me of how we need to be strong, disciplined, and humble for queer liberation to be a real thing. It is both humbling and empowering to test and improve the limits of how much weight I can lift. 
 
@@ -50,7 +50,7 @@ D: Joy, health, curiosity, concentration
 
 F: Getting stronger has helped me immensely with chronic pain. Lifting also empowers me with a satisfying level of control over the shape of my body. Training over time has made me feel more powerful, capable, and centered.
 
-PG: Ok great! Intros out of the way, let’s talk about your work a bit more In your experience, what is one of the biggest barriers that keeps Q/T/NB folk out of lifting spaces? 
+**PG: Ok great! Intros out of the way, let’s talk about your work a bit more In your experience, what is one of the biggest barriers that keeps Q/T/NB folk out of lifting spaces?**
 
 D: Specifically in NYC, I’d say the number one barrier is cost and availability of equipped gyms. Most mainstream gyms, while less expensive than most lifting gyms, do not have adequate equipment for barbell training. Some facilities have many of the basics; but in the case of the two gyms nearest to me in Flatbush, one doesn’t have any platforms, racks, or actual barbells that you can load to your own specifications. In the case of another mainstream gym, someone I know (a Black cis woman) was subjected to harassment and touched by another member and initially dismissed, then further harassed, by management when she reported the incident.  A gym in Park Slope used by many QTGNC folks has multiple racks, but discourages members from deadlifting. 
 
@@ -62,7 +62,7 @@ F: Prior to getting involved with QTStrength, I stayed out of lifting spaces bec
 
 What pushed me into lifting was, I wanted to get stronger and more capable in my everyday life, and I was desperate to get out of chronic pain. Davi and QTStrength appeared like magic at the right time and right place. And once I had experienced a lifting space in a pack of queer and trans people and enthusiastic allies, I felt much more of a sense of belonging and a lot less fear and weirdness taking up space in gyms.
 
-PG: How can gyms create safer spaces for marginalized folks? What do y'all do with your group to make safer spaces?
+**PG: How can gyms create safer spaces for marginalized folks? What do y'all do with your group to make safer spaces?**
 
 D: QueerTransStrengthNYC is committed to creating an anti-racist, anti-ableist, anti-ageist, body affirming, free space for training, learning, and community building together. We talk explicitly about what that means and how to do that in an ongoing conversation, rather than focusing only on putting away equipment or saying “be respectful” or “all are welcome” or many of the other tropes that stand in for inclusivity. As a collective, we seek to center the needs of our QTPOC, trans femme, and fat queer family and to co-create an environment in which no one’s body is subject to scrutiny, shaming, or unwanted attention and objectification. One of the ways we do this is by setting aside spaces available for new members to join to those members of our community first. All trans, queer, and gender nonconforming people are marginalized in various ways and we want to make sure we’re here for the folks who may face the greatest obstacles to taking their space in the gym.  
 
@@ -76,12 +76,11 @@ Visibility and supportive allies have been key for me. As I’ve continued to tr
 
 I feel that our group has created safer spaces by strength in numbers, and we are often quite visibly queer. A few of us have been training g a long time and move through the space with enthusiasm and confidence. Those traits, along with the visible queerness seem pretty infectious. We take the confidence with us when we go train on our own, or in smaller groups. Also, Squats and Science where we train has enthusiastic allies on staff and hung a rainbow flag on the wall.
 
-PG: Who is powerlifting for? 
+**PG: Who is powerlifting for?**
 
 D: The movements and practices associated with powerlifting - squatting, benching, and deadlifting (I’ll add in overhead pressing too!) - are for everyone and can be adapted in various ways.The sport, as it is currently practiced by federations in the United States, is not accessible to everyone for a variety of reasons. Once again, cost is a factor. One of the biggest issues in competitive powerlifting access in the participation of trans athletes. At the moment, there are no federations that permit athletes to register as non-binary, although there are federations that permit athletes who are non-binary to register and compete as the gender they were assigned at birth (we have one non-binary QTSNYC member who has competed twice in USA Powerlifting as female or “fee-mahlé” as we like to say, which they were able to do because they were not on HRT) or in an “open" category. There are some federations that will permit transgender athletes to compete according to the gender with which they identify within the binary as long as they meet certain medical and legal (read hormones, ID change) criteria.  And as many folks in and outside the sport have now become aware, USA Powerlifting (which is an affiliate of the International Powerlifting Federation) has an outright ban on participation by transgender athletes who take any form of HRT.  Two other trans QTStrengthNYC athletes are interested in competing for the first time in United States Powerlifting Association’s untested division; but doing so requires traveling outside of the NYC area (since all the competitions in the NYC area are not open to trans people) and taking off several days of work because that federation requires weigh-ins (it’s a weight class sport) to happen 24 hours in advance since many people competing untested are also doing very significant weight cuts and take a day to refuel.  All of this means more $$$, which makes it more difficult to participate.  That’s a lot of time, travel, and money for the privilege of participating in a small, local competition and made more frustrating by the fact that there are countless competitions in our area each year that do not require travel or 24 hour weigh-ins, but are not open to trans athletes.  And, of course, there is a larger social and political backdrop of delusion about trans experiences ranging from ignorance to outright vilification.  As one QTStrengthNYC member said to me in conversation one day (and I’m paraphrasing): “All I want is permission to be a part of the culture of this sport, this thing that I enjoy doing.  Is that so much to ask?"
 
 The entire social projects of binary/ normative gender distinctions and sports are based on delusions that serve to create systems of hierarchy and dominance. I love participating in powerlifting events - they are energizing and give me great focus for my training. As someone coming from a background in the theater, I’ve been used to having a performance to motivate me to put in the hours required to develop my stamina, technique, and what drives me.  Competitive sports are fun, they are inspiring, they involve deep camaraderie and collaboration, they involve dedication, and they are part of many if not every culture; but they are also, at least in the forms that we know them today, tools and expressions of nationalism, control, hierarchy, false notions of fairness and meritocracy, and capitalism.  Of course transphobia exists in sports - if the key decision makers and opponents of full inclusion actually allowed trans people to participate they would have to confront the tenuous fiction of their own genders and all the categories and rules they take for granted.  This has happened before with misogyny and racism as well and with transphobia in many other sports. And it has likely happened in virtually every sport, perhaps not with as much publicity as this particular unfolding in this moment of ongoing revolutionary actions by BIPOC community, trans, and queer people AND of the Internet age.
-
 
 CM: Powerlifting should be for everyone, but that is not the image and reputation it has. There should be videos and other media directed for tall, skinny, fat, elderly, disabled, queer, trans folks who are curious but are held back by their belief that powerlifting is only and absolutely reserved for the able and normative body.
 

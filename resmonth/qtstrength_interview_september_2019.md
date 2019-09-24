@@ -9,7 +9,7 @@ subtitle: Get to know August, Carlo Maria, Davi, and Feathers, four members of
 
 ![Nola Hanson and Liv Adler of Trans Boxing](/assets/transbox.jpg)
 
-_Today we’re speaking with August, Carlo Maria, Davi, and Feathers, four members of a local NYC queer/trans specific strength training collective. The group, which has some serious heavy hitters re:powerlifting and athletic experience, hosts twice a month coached meetups for folks interested in strength training. They are also building a community of lifters who can learn from one another. Check em out at @QTStrengthNYC on Insta. Here are their thoughts on their project and the reason behind the work that they do!_
+_Today we’re speaking with August, Carlo Maria, Davi, and Feathers, four members of a local NYC queer/trans specific strength training collective. The group, which has some serious heavy hitters re:powerlifting and athletic experience, hosts twice a month coached meetups for folks interested in strength training. They are also building a community of lifters who can learn from one another. Check em out at @queertransstrengthNYC on Insta. Here are their thoughts on their project and the reason behind the work that they do!_
 
 
 **Pop Gym: What's your sport?**

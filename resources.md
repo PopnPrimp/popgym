@@ -26,7 +26,8 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 * Queer Fight School- Follow them on Insta for updates on upcoming classes!
 * [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
 * [Rev Fitness](http://www.revolutionaryfitness.org/)- Affordable and rad fitness in East Harlem
-* [Naomi Cookson](https://www.naomicookson.com/)- Muay Thai classes available in Red Hook at 356 Van Brunt Street. Classes are open to all levels; beginners are welcome. 18 years and up. Tuesday 10am // Thursday 10am & 7pm // Saturday 11:30am 10 Class Package $ 200 // 5 Class Package $ 125 // Drop-in $30. Please wear comfortable clothing and bring a water bottle. Email naomicooksontraining@gmail.com for more information or just show up! 
+* [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up. 
+* Gay Fight Club (@gayfightclubnyc on Insta)- offering queer/trans Muay Thai classes at Red Planet Muay Thai every week on Tuesdays, Thursdays and Saturdays in BedStuy
 * [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes for Femme, Queer and/or Trans folk
 * [IMWISE](https://imwise.org/events/)- Self-Defense classes against Hate Crimes, for Muslim Women, and for the General Public
 * [Masterskya](http://masterskya.com/)- Low cost BJJ in Bushwick

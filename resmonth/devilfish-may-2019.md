@@ -1,15 +1,15 @@
 ---
-title: Resource of the Month- Naomi Cookson
+title: Resource of the Month- Devilfish
 date: 2019-05-27 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Get to know Naomi Cookson
+subtitle: Get to know DevilFish
 ---
 
 ![Naomi Cookson](/assets/resourceofthemonthnaomi.jpg)
 
-_We our so excited for our FIRST Resource of the Month! Check out this interview with local trainer Naomi Cookson and see why we thinks she's so cool_
+_We our so excited for our FIRST Resource of the Month! Check out this interview with local trainer Naomi Cookson, owner of Devilfish in Red Hook, and see why we thinks she's so cool_
 
 **Pop Gym: Hey! thanks for taking the time, just a few quick questions to start. First what's your martial art?**
 

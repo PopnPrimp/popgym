@@ -35,8 +35,6 @@ R: I train at Red Planet Muay Thai! I've never trained anywhere else, unless you
 
 JT:  although I've tried on a few gyms here & there (from as far away as London to right here in my hometown, Brooklyn), my muay thai home has been, by & large, Red Planet Muay Thai in Bedstuy, Brooklyn. 
 
-5. for now, just coaching GFC--but leading these classes has given me a lot of new insight about how much i love supporting people as they navigate their relationship to their bodies. i'm considering doing a certification in personal training or physical therapy some time in the future!
-
 **PG: What kind of martial arts related work do you do?**
 
 M: for now, just coaching GFC--but leading these classes has given me a lot of new insight about how much i love supporting people as they navigate their relationship to their bodies. i'm considering doing a certification in personal training or physical therapy some time in the future!

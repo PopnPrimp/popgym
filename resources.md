@@ -18,7 +18,7 @@ Get to know some folks on this list a bit better with these short, sweet intervi
  * [Devilfish](/resmonth/devilfish-may-2019.md)
  * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
  * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
- * [Gay Fight Club] (/resmonth/gay-fight-club-november-rotm.md)
+ * [Gay Fight Club](/resmonth/gay-fight-club-november-rotm.md)
 
 ## In-Person
 

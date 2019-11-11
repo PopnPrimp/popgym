@@ -7,7 +7,7 @@ layout: post
 subtitle: Get to know McSherry, Ricky and JT, the instructors of Gay Fight Club!
 ---
 
-![The kewl folks of Gay Fight Club NYC](/assets/)
+![The kewl folks of Gay Fight Club NYC](/assets/gfc.jpg)
 
  _Today we're so happy to be speaking with McSherry, Ricky, and JT, three of the instructors of the Muay-Thai-focused Gay Fight Club, operating every Tuesday, Thursday and Saturday at Red Planet Muay Thai in Bedstuy_
  

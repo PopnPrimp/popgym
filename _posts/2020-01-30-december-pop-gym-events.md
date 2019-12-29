@@ -7,7 +7,7 @@ layout: post
 subtitle: Check out our events all throughout January!
 ---
 
-![Pop Gym January](/assets/Popgymjan.jpg)
+![Pop Gym January](/assets/popgymjan.jpg)
 
 Workshops all November at the Blustockings, Brooklyn Community Pride Center, and more:
 

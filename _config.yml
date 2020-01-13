@@ -34,7 +34,34 @@ header_pages:
 - zines.md
 - resources.md
 - media.md
-- url: https://squareup.com/store/popgym
+
+docs_list_title: ACME Documentation
+docs:
+
+- title: About
+  url: about.md
+
+- title: Schedule
+  url: schedule.md
+  
+- title: Programs
+  url: programs.md
+
+- title: Contact
+  url: contact.md
+  
+- title: Zines
+  url: zines.md
+
+- title: Resources
+  url: resources.md
+
+- title: Media
+  url: media.md
+
+- title: Store
+  url: https://squareup.com/store/popgym
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

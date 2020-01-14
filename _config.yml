@@ -27,32 +27,6 @@ paginate_path: updates/page:num
 plugins:
 - jekyll-paginate
 
-docs_list_title: Site Directory
-docs:
-
--title: About
-url: about.md
-
--title: Schedule
-url: schedule.md
-
--title: Programs
-url: programs.md
-
--title: Contact
-url: contact.md
-
--title: Zines
-url: zines.md
-
--title: Resources
-url: resources.md
-
--title: Media
-url: media.md
-
--title: Shop
-url: https://squareup.com/store/popgym
 
 
 

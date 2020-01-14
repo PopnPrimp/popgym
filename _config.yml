@@ -28,6 +28,7 @@ plugins:
 - jekyll-paginate
 
 docs_list_title: Site Directory
+docs:
 
 -title: About
 url: about.md

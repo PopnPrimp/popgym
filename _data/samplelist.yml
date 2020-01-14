@@ -5,22 +5,22 @@ docs:
   url: about
 
 - title: Schedule
-  url: ../schedule.md
+  url: schedule
   
 - title: Programs
-  url: ../programs.md
+  url: programs
 
 - title: Contact
-  url: ../contact.md
+  url: contact
   
 - title: Zines
-  url: ../zines.md
+  url: zines
 
 - title: Resources
-  url: ../resources.md
+  url: resources
 
 - title: Media
-  url: ../media.md
+  url: media
 
 - title: Store
   url: https://squareup.com/store/popgym

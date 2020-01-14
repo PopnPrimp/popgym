@@ -27,6 +27,15 @@ paginate_path: updates/page:num
 plugins:
 - jekyll-paginate
 
+header_pages:
+- about.md
+- schedule.md
+- programs.md
+- contact.md
+- zines.md
+- resources.md
+- media.md
+
 
 
 

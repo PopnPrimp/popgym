@@ -2,25 +2,25 @@ docs_list_title: ACME Documentation
 docs:
 
 - title: About
-  url: about.md
+  url: ../about.md
 
 - title: Schedule
-  url: schedule.md
+  url: ../schedule.md
   
 - title: Programs
-  url: programs.md
+  url: ../programs.md
 
 - title: Contact
-  url: contact.md
+  url: ../contact.md
   
 - title: Zines
-  url: zines.md
+  url: ../zines.md
 
 - title: Resources
-  url: resources.md
+  url: ../resources.md
 
 - title: Media
-  url: media.md
+  url: ../media.md
 
 - title: Store
   url: https://squareup.com/store/popgym

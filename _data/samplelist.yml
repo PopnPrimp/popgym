@@ -2,7 +2,7 @@ docs_list_title: ACME Documentation
 docs:
 
 - title: About
-  url: about
+  url: popgym.org/about
 
 - title: Schedule
   url: ../schedule.md

@@ -7,7 +7,7 @@ layout: post
 subtitle: Check out our events all throughout February!
 ---
 
-![Pop Gym Februaryy](/assets/popgymfeb.jpg)
+![Pop Gym February](/assets/pphpopgymfeb.jpg)
 
 Workshops all February at the Blustockings, Brooklyn Community Pride Center, and more! Plus! We'll be fundraising all month for People's Power House! Check them on on @pphnyc on Insta, @pphnyc1 on Twitter, and The People's Power House on facebook to get fundraiser updates!
 

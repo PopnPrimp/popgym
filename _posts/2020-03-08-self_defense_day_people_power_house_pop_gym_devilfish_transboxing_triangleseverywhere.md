@@ -1,5 +1,5 @@
 ---
-title: SELF DEFENSE DAY 2020!
+title: SELF DEFENSE DAY 2020
 date: 2020-03-08 00:00:00 Z
 categories:
 - update

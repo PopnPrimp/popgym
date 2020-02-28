@@ -21,6 +21,6 @@ Suggested Donation
 * $20 for Single Workshop
 * $40 for a day pass.
 
-[Get your tix here](https://withfriends.co/event/4228761/self_defense_day_2020)
+[Get your tix here!](https://withfriends.co/event/4228761/self_defense_day_2020)
 
 

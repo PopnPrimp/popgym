@@ -6,7 +6,7 @@ categories:
 layout: post
 subtitle: We've been wanting this for a minute, and it's finally here!
 ---
-![self-defense day!](/assets/FundSelfDefense.jpg)
+![self-defense day](/assets/FundSelfDefense.jpg)
 
 Head to Devilfish Athletics in Red Hook for a full afternoon of self-defense fun! Featuring programming by groups like Pop Gym, Devilfish Athletics, Triangles Everywhere, and Trans Boxing, raising funds for People's Power House
 

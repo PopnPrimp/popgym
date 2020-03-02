@@ -1,13 +1,13 @@
 ---
 title: Pop Gym March Events!
-date: 2020-03-02 00:00:00 Z
+date: 2020-03-22 00:00:00 Z
 categories:
 - update
 layout: post
 subtitle: Check out our events all throughout March!
 ---
 
-![Pop Gym February](/assets/popgymmarch.jpg)
+![Pop Gym March](/assets/popgymmarch.jpg)
 
 Hey! Here's a rundown of our upcoming march events, with links to RSVP!
 

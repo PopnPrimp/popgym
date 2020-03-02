@@ -9,7 +9,9 @@ subtitle: Check out our events all throughout March!
 
 ![Pop Gym February](/assets/popgymmarch.jpg)
 
-elf-Defense Day 2020! Sunday, March 8th, 2-4 PM @ Devilfish Ink (17 Carrol St, Brooklyn, NY)
+Hey! Here's a rundown of our upcoming march events, with links to RSVP!
+
+Self-Defense Day 2020! Sunday, March 8th, 2-4 PM @ Devilfish Ink (17 Carrol St, Brooklyn, NY)
 Website: https://withfriends.co/event/4228761/self_defense_day_2020
 
 Brief Description: A full afternoon of self-defense programming at Devilfish Athletics in Brooklyn, featuring workshops on Self-Defense (Pop Gym), Muay Thai (Devilfish), Brazilian Jiu Jitsu (Triangles Everywhere), and Boxing (Trans Boxing). Raising funds for The People's Power House!
@@ -27,7 +29,6 @@ Price: Free or By Donation
 Website:  https://withfriends.co/event/4217437/pop_gym_pop_up_free_self_defense_workshop
 
 Brief Description:A monthly intro to self-defense workshop, great for beginners, or some folks that wanna learn some quick tips to keep themselves safe!
-
        
 LGBTQ Yoga every Sunday, 11 AM-12 PM at Brooklyn Community Pride Center (1360 Fulton St, Brooklyn, NY)
 Price: Free or By Donation

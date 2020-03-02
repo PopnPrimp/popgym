@@ -11,6 +11,8 @@ subtitle: Check out our events all throughout March!
 
 Hey! Here's a rundown of our upcoming march events, with links to RSVP!
 
+Just a reminder, still fundraising for People's Power House! Check out ther indiegogo link here to share and donate: https://igg.me/at/pph/x/23056166#/
+
 **Self-Defense Day 2020!**
 Sunday, March 8th, 2-4 PM @ Devilfish Ink (17 Carrol St, Brooklyn, NY)
 Website: https://withfriends.co/event/4228761/self_defense_day_2020

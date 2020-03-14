@@ -1,5 +1,5 @@
 ---
-title: Pop Gym and Crovid-19
+title: Pop Gym and Corvid-19
 date: 2020-03-16 00:00:00 Z
 categories:
 - update

@@ -18,8 +18,8 @@ Please see below for some of our upcoming events:
 
 Free to attend, you can get the Zoom link by RSVPing at the addresses below, or email us at info@popgym.org!
 
-* 4/1- Online Self-Defense Workshop @ 6 PM: https://withfriends.co/event/4479735/online_self_defense_workshop
-* 4/8- Online LGBTQ Self-Defense Workshop w/ Brooklyn Community Pride Center @ 6 PM: https://withfriends.co/event/4479612/online_self_defense_workshop_w_brooklyn_community_pride_center
+* 4/1- [Online Self-Defense Workshop @ 6 PM](https://withfriends.co/event/4479735/online_self_defense_workshop)
+* 4/8- [Online LGBTQ Self-Defense Workshop w/ Brooklyn Community Pride Center @ 6 PM](https://withfriends.co/event/4479612/online_self_defense_workshop_w_brooklyn_community_pride_center)
         
  See below for a general description:
  

@@ -24,7 +24,11 @@ Free to attend, you can get the Zoom link by RSVPing at the addresses below, or 
  See below for a general description:
  
  NOTE: This is an ONLINE workshop! Free to attend, but donations are welcome!
-Palm Heels for the people! Don’t get that joke? No worries! Come by this FREE Pop Gym Pop Up workshop at Bluestockings at 7:00 PM to learn some introductory skills that will keep you feeling safe. We’ll be covering the basics: stretching, conditioning, technique, and theory, with the hope that participants will leave with some super useful foundations that will aid them in the day-to-day. Mix that in with some sweat and some movement, and you’ll have an accessible and confidence-boosting good time for all. Whether you are a beginner, or someone with experience, come work it out with us!
+ 
+Palm Heels for the people! Don’t get that joke? No worries! Come by this FREE Pop Gym Pop Up workshop to learn some introductory skills that will keep you feeling safe. 
+
+We’ll be covering the basics: stretching, conditioning, technique, and theory, with the hope that participants will leave with some super useful foundations that will aid them in the day-to-day. Mix that in with some sweat and some movement, and you’ll have an accessible and confidence-boosting good time for all. Whether you are a beginner, or someone with experience, come work it out with us!
+
 Open to all ages! We’ll be moving around, so participants should wear clothing in which they are comfortable stretching and sweating.
 POP Gym, providing free fitness and skill share classes all around NYC, will be facilitating a self-defense class every second Wednesday of the month at Brooklyn Community Pride Center. POP Gym classes are described as fun, holistic, and empowering and we welcome you to join the class free of charge. For more information and to sign up, contact Grey at info@popgym.org.
        

@@ -16,7 +16,7 @@ Weird time ain't it (to say the least). We know everyone is going through it on 
 
 Please see below for some of our upcoming events:
 
-Free to attend, you can get the Zoom link by RSVPing at the addresses below, or email us at info@popgym.org!
+Free to attend (donations welcome!), you can get the Zoom link by RSVPing at the addresses below, or email us at info@popgym.org! All money raised will go to reimburse instructors at future workshops!
 
 * 4/1- [Online Self-Defense Workshop @ 6 PM](https://withfriends.co/event/4479735/online_self_defense_workshop)
 * 4/8- [Online LGBTQ Self-Defense Workshop w/ Brooklyn Community Pride Center @ 6 PM](https://withfriends.co/event/4479612/online_self_defense_workshop_w_brooklyn_community_pride_center)

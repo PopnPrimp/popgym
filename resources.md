@@ -26,6 +26,7 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 
 * [Safe Horizons](https://www.safehorizon.org/emergency/)
 * [Family Justice Center](https://www1.nyc.gov/site/ocdv/get-help/covid-19-update.page)
+* [National Domestic Violence Hotline, Phone and Online Chat](https://www.thehotline.org/)
 
 ### Tips, Advice, and Strategy 
 * [National Domestic Violence Hotline: Staying Save During COVID-19](https://www.thehotline.org/2020/03/13/staying-safe-during-covid-19/)

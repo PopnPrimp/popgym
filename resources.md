@@ -20,6 +20,28 @@ Get to know some folks on this list a bit better with these short, sweet intervi
  * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
  * [Gay Fight Club](/resmonth/gay-fight-club-november-rotm.md)
 
+## COVID-19 DV Resources
+
+### Number and Services 
+
+* [Safe Horizons](https://www.safehorizon.org/emergency/)
+* [Family Justice Center](https://www1.nyc.gov/site/ocdv/get-help/covid-19-update.page)
+
+### Tips, Advice, and Strategy 
+* [National Domestic Violence Hotline: Staying Save During COVID-19])https://www.thehotline.org/2020/03/13/staying-safe-during-covid-19/)
+* [Path To Safety](https://www.thehotline.org/help/path-to-safety/)
+* [Democracy Now: Interview w/ Katie Ray Jones](https://www.democracynow.org/2020/3/27/domestic_violence_coronavirus_katie_ray_jones)
+* [Anti-Violence Project: Tips for when home isn’t the safest plan]- https://avp.org/tips-for-when-staying-home-isnt-the-safest-plan/
+* [Love Is RespectInteractive Safety Planning]-(https://www.loveisrespect.org/for-yourself/safety-planning/interactive-safety-plan/)
+* [Hackblossom: DIY Cybersecurity For Domestic Violence]-(https://hackblossom.org/domestic-violence/)
+
+### Mutual Aid Project Lists, national and local 
+
+* [Big Door Brigade, project with Dean Spade:](http://bigdoorbrigade.com/)
+* [Mutual Aid Hub:](https://www.mutualaidhub.org/)
+* [It’s Going Down:](https://itsgoingdown.org/c19-mutual-aid/)
+* [Mutual Aid Disaster Relief:](https://mutualaiddisasterrelief.org)
+
 ## In-Person
 
 ### Physical Self-Defense
@@ -33,7 +55,7 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 * [IMWISE](https://imwise.org/events/)- Self-Defense classes against Hate Crimes, for Muslim Women, and for the General Public
 * [Masterskya](http://masterskya.com/)- Low cost BJJ in Bushwick
 * [Wickwood Aikikai](https://www.facebook.com/aikidoofwickwood/)- Aikido classes in Ridgewood Queens
-* [Chok Sabai](http://choksabaigym.com/)- Midtown Muay Thai/BJJ gym with Queer friendly environment
+* [Chok Sabai](http://choksabaigym.com/)- Midtown Muay Thai/BJJ gym with Queer friendly living planet
 * [Overthrow](https://overthrownyc.com/membership/)- Boxing gym with locations in Brooklyn and the LES, somewhat affordable options available
 * [Bronx Social Center](http://www.bronxsocialcenter.org/martial-arts/)- Offering karate classes twice a week in the South Bronx
 * [Female Awareness](http://femaleawareness.com/)- Constant self-defense classes in Midtown
@@ -99,7 +121,7 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 * [Stop Street Harassment](http://www.stopstreetharassment.org/our-work/nationalshhotline/)- Organization providing support and resources to those who face street harassment, including a national hotline to talk to somebody if you need to.
 * [Anti-Violence Project](https://avp.org/)- Hotline and resources to those experiencing hate crimes and other forms of violence
 * [Queer Fighters](https://www.patreon.com/queerfighters)- Videos and resources on Self-Defense and BJJ from the folks at [Four Elements](https://fourelementsfitness.com/) in Oakland
-* [Outwod](https://www.outwod.com/)- "OUTWOD is the largest international initiative for bringing together LGBT+ athletes and their allies to raise funds for local charitable organizations and sweat together in a safe, inclusive group fitness environment."
+* [Outwod](https://www.outwod.com/)- "OUTWOD is the largest international initiative for bringing together LGBT+ athletes and their allies to raise funds for local charitable organizations and sweat together in a safe, inclusive group fitness living planet."
 * [Sisters of Powerlifting](https://www.sistersofpowerlifting.com/)- Resource for WOC getting into powerlifting!
 * [Happy Life Martial Arts Self-Defense Course](http://www.senseiando.com/self-defense-course/)- Free two hour intro course, teaching some of the same concepts we share at our workshops!
 

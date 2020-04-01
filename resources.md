@@ -38,10 +38,10 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 
 ### Mutual Aid Project Lists, national and local 
 
-* [Big Door Brigade, project with Dean Spade:](http://bigdoorbrigade.com/)
-* [Mutual Aid Hub:](https://www.mutualaidhub.org/)
-* [It’s Going Down:](https://itsgoingdown.org/c19-mutual-aid/)
-* [Mutual Aid Disaster Relief:](https://mutualaiddisasterrelief.org)
+* [Big Door Brigade, project with Dean Spade](http://bigdoorbrigade.com/)
+* [Mutual Aid Hub](https://www.mutualaidhub.org/)
+* [It’s Going Down](https://itsgoingdown.org/c19-mutual-aid/)
+* [Mutual Aid Disaster Relief](https://mutualaiddisasterrelief.org)
 
 ## In-Person
 

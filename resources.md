@@ -47,25 +47,20 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 
 ### Physical Self-Defense
 * [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk
-* Queer Fight School- Follow them on Insta for updates on upcoming classes!
 * [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
 * [Rev Fitness](http://www.revolutionaryfitness.org/)- Affordable and rad fitness in East Harlem
 * [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up. 
 * Gay Fight Club (@gayfightclubnyc on Insta)- offering queer/trans Muay Thai classes at Red Planet Muay Thai every week on Tuesdays, Thursdays and Saturdays in BedStuy
 * [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes for Femme, Queer and/or Trans folk
-* [IMWISE](https://imwise.org/events/)- Self-Defense classes against Hate Crimes, for Muslim Women, and for the General Public
 * [Masterskya](http://masterskya.com/)- Low cost BJJ in Bushwick
 * [Wickwood Aikikai](https://www.facebook.com/aikidoofwickwood/)- Aikido classes in Ridgewood Queens
-* [Chok Sabai](http://choksabaigym.com/)- Midtown Muay Thai/BJJ gym with Queer friendly living planet
+* [Muay Sabai](https://muaysabaicamp.com/)- Midtown Muay Thai/BJJ gym with Queer friendly living planet
 * [Overthrow](https://overthrownyc.com/membership/)- Boxing gym with locations in Brooklyn and the LES, somewhat affordable options available
-* [Bronx Social Center](http://www.bronxsocialcenter.org/martial-arts/)- Offering karate classes twice a week in the South Bronx
 * [Female Awareness](http://femaleawareness.com/)- Constant self-defense classes in Midtown
 * [Feminist Self-Defense](http://www.feministselfdefense.com/)- Self-Defense Workshops, with finance options for those who need
 * [Westside TKD](http://westsidetkd.com/)- Tae-Kwon-Do training in Harlem
 * [Brooklyn Goju](https://brooklyngoju.com/)- "Martial Arts for Peace Strength and Justice" in Park Slope. "Trans & cis women, non-binary folks, gender-nonconforming people, and/or trans men are encouraged to train in our safe and inclusive space."
-* [Ruckus Safety Awareness](http://www.makearuckus.org/)- Self-Defense workshops, ranging from beginner to intermediate
 * Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Monday (message for deets!)
-* [Peace Place Brooklyn](https://www.peaceplacebrooklyn.com/schedule-rates?fbclid=IwAR0DHmnyblJmmukSTJETPf32VbOinRzkY5-8M678W7vymFIMd-LU8dt9080)- Offering Yoga classes to a variety of bodies
 * [Brooklyn Community Pride Center](http://lgbtbrooklyn.org/)- Offering a host of self-defense and health events every month
 * NightCAP (Cycling Against Patriarchy)- Offering free group rides for Femme/NB folk every Tuesday at 7 PM at Maria Hernandez park. For more info, check out their insta @nightcap_brooklyn
 
@@ -76,10 +71,10 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 * [Body Positive Fitness Finder](https://superfithero.com/pages/body-positive-fitness-finder?utm_source=Bopo+Trainers&utm_campaign=0e473540ce-EMAIL_CAMPAIGN_2019_04_04_10_49&utm_medium=email&utm_term=0_e75c751fc6-0e473540ce-173912825&mc_cid=0e473540ce&mc_eid=56e2782185) Check out us and a number of other cool body+ orgs with this nationwide finder from SuperFit Hero
 
 ### CyberSecurity
-* [CyPurr Collective](https://www.facebook.com/cypurr/)- Cybersecurity workshops and events!
+* [CyPurr Collective](cypurr.nyc)- Cybersecurity workshops and events!
 * [NYC CryptoParty](https://www.meetup.com/New-York-Cryptoparty-Network/?_cookie-check=qWDtBFUHlownGc-E)- Folks organizing cybersecurity events around NYC!
 * [CryptoParty](https://www.cryptoparty.in/)- Global listing of cybersecurity workshops and events
-* [I/O](https://shiftctrl.space/)- Offering weekly classes in Ridgewood
+* [Tech Learning Collective](https://techlearningcollective.com/)- Offering beginner to medium skill tech classes!
 
 ### Bystander Intervention
 * [Arab American Association of NY](http://www.arabamericanny.org/)- With a mission to support and empower the Arab Immigrant and Arab American community, including bystander intervention trainings, and the Accompany Project
@@ -116,7 +111,7 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 * [Self-Defense Starter Kit](https://www.selfdefensestarterkit.com)- Zine turned Website with a bunch a great videos
 * [21 Effective Self-Defense Techniques](https://www.jenreviews.com/self-defense-techniques/)- Some intro to BJJ with many techniques that we teach at our own workshops.
 * [Safe to Train](http://www.safetotrain.com/)- List of schools round the country the promote safe spaces
-* [Home Alive](http://www.teachhomealive.org)- Great resources and tps on self-defense
+* [Home Alive](http://www.teachhomealive.org)- Great resources and tips on self-defense
 * [Got A Girl Crush Catcalling Citation](http://www.gotagirlcrush.com/ccc)- Cards to confront street harassers with!
 * [Cards Against Harassment](http://www.cardsagainstharassment.com/)- Some more cards with messages to quiet street harassers
 * [Stop Street Harassment](http://www.stopstreetharassment.org/our-work/nationalshhotline/)- Organization providing support and resources to those who face street harassment, including a national hotline to talk to somebody if you need to.

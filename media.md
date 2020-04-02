@@ -7,7 +7,7 @@ layout: page
 <iframe src="https://giphy.com/embed/SAMnPt3h8rjAQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jem-and-the-holograms-SAMnPt3h8rjAQ">via GIPHY</a></p>
 Check out some kewl stuff we've been featured in!
 
-### Rebel Steps: Defend Your Community (Ant-Facism)
+### Rebel Steps: Defend Your Community (Anti-Facism)
 [Rebel Steps Podcast, April 2, 2020](https://rebelsteps.com/episodes/s2e6-defend-your-community.html)
 
 #### Including Animals: Pop Gym

@@ -15,7 +15,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ## Resource Directory
 
-#### [COVID Resources]
+#### COVID Resources
 
 * [DV and Mutual Aid](/resources/Covid19-dv-mutual-aid.md)- Some Resources we thought might be useful for folks during this weird and scary time.
 * [Health and Wellness](asdas)- List of some cool groups doing online Health and Wellness classes during this time!

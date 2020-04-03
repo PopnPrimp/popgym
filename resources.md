@@ -12,13 +12,7 @@ A list some people and placs we think are super great!
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource of the Month
 
-Get to know some folks on this list a bit better with these short, sweet interviews!
- * [Devilfish](/resmonth/devilfish-may-2019.md)
- * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
- * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
- * [Gay Fight Club](/resmonth/gay-fight-club-november-rotm.md)
 
 ## COVID-19 DV Resources
 
@@ -42,6 +36,29 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 * [Mutual Aid Hub](https://www.mutualaidhub.org/)
 * [It’s Going Down](https://itsgoingdown.org/c19-mutual-aid/)
 * [Mutual Aid Disaster Relief](https://mutualaiddisasterrelief.org)
+
+
+ ## Resource Directory
+
+### [COVID-Specific Resources](/resources/Covid19-dv-mutual-aid.md)
+
+### Resource of the Month
+
+Get to know some folks on this list a bit better with these short, sweet interviews!
+ * [Devilfish](/resmonth/devilfish-may-2019.md)
+ * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
+ * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
+ * [Gay Fight Club](/resmonth/gay-fight-club-november-rotm.md)
+
+### In-Person
+* [Physical Self-Defense](safe-space.md)
+* [Strength Training](accountability.md)
+* [Cybersecurity](transparency.md)
+* [Bystander Intervention](glossary.md)
+* [Physical Health](transparency.md)
+* [Mental Health](glossary.md)
+* [Food Resources](transparency.md)
+* [Sanctuary Support](glossary.md)
 
 ## In-Person
 

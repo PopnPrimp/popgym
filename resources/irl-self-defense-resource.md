@@ -6,9 +6,9 @@ categories:
 layout: post
 ---
 
-## In-Person
+# In-Person
 
-### Physical Self-Defense
+## Physical Self-Defense
 * [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk
 * [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
 * [Rev Fitness](http://www.revolutionaryfitness.org/)- Affordable and rad fitness in East Harlem
@@ -27,22 +27,22 @@ layout: post
 * [Brooklyn Community Pride Center](http://lgbtbrooklyn.org/)- Offering a host of self-defense and health events every month
 * NightCAP (Cycling Against Patriarchy)- Offering free group rides for Femme/NB folk every Tuesday at 7 PM at Maria Hernandez park. For more info, check out their insta @nightcap_brooklyn
 
-### Strength Training
+## Strength Training
 * [Murder of Crows Barbell](http://www.murderofcrowsbarbell.com/)
 * [S&S Barbell](http://snsbarbell.com/)
 * [South Brooklyn Weightlifting Club](https://southbrooklynwc.com/)
 * [Body Positive Fitness Finder](https://superfithero.com/pages/body-positive-fitness-finder?utm_source=Bopo+Trainers&utm_campaign=0e473540ce-EMAIL_CAMPAIGN_2019_04_04_10_49&utm_medium=email&utm_term=0_e75c751fc6-0e473540ce-173912825&mc_cid=0e473540ce&mc_eid=56e2782185) Check out us and a number of other cool body+ orgs with this nationwide finder from SuperFit Hero
 
-### CyberSecurity
+## CyberSecurity
 * [CyPurr Collective](cypurr.nyc)- Cybersecurity workshops and events!
 * [NYC CryptoParty](https://www.meetup.com/New-York-Cryptoparty-Network/?_cookie-check=qWDtBFUHlownGc-E)- Folks organizing cybersecurity events around NYC!
 * [CryptoParty](https://www.cryptoparty.in/)- Global listing of cybersecurity workshops and events
 * [Tech Learning Collective](https://techlearningcollective.com/)- Offering beginner to medium skill tech classes!
 
-### Bystander Intervention
+## Bystander Intervention
 * [Arab American Association of NY](http://www.arabamericanny.org/)- With a mission to support and empower the Arab Immigrant and Arab American community, including bystander intervention trainings, and the Accompany Project
 
-### Physical Health
+## Physical Health
 * [Callen-Lorde](http://callen-lorde.org/our-services/) LGBTQ Health Services (Mental Health as well)
 * [Third Root](https://thirdroot.org/) Acupuncture, herbal medicine, massage, yoga at a sliding scale cost in Brooklyn
 * [Cookie's Joint](https://cookiesjoint.wordpress.com/) Providing basic needs for "sex workers, trans women, undocumented folks, folks who have aged out of the NYC youth-only LGBT shelter system, disabled folks, etc"
@@ -52,7 +52,7 @@ layout: post
 * Feed the People- Serving food to folks in Harlem and the Bronx, check the @nyc_shutitdown insta for more info
 * Club A Kitchen- Serving food and handing out resources/clothes every Saturday from 1-4 PM at 7 Belvidere Street! Plus, community movie nights on Wednesdays (@club_a_nyc)
 
-### Mental Health Resources
+## Mental Health Resources
 * [Respite Centers](https://www1.nyc.gov/site/doh/health/health-topics/crisis-emergency-services-respite-centers.page)- Lists of a few respite centers in NYC
 * [National Institute for Psychotherapies](https://nipinst.org/)- Psychotherapy, psychoanalysis and EMDR services. Sliding scale cost, minimum $35 per sesssion in Midtown
 * [Fountain House](https://www.fountainhouse.org/content/membership)- Mental health services, "providing opportunities for our members to live, work, and learn, while contributing their talents through a community of mutual support." 
@@ -61,9 +61,9 @@ layout: post
 * [Ali Forney Center](https://www.aliforneycenter.org/about-us/) Providing housing and support for LGBTQ youth
 * [Harriet's Apothecary](http://www.harrietsapothecary.com/)- Mental Health meetups for QTPOC folk
 
-### Food Resources
+## Food Resources
 * [Neighborhood Guide to Food and Assistance](http://hungerfreenyc.org/sites/default/files/atoms/files/Citywide%20English_1.pdf)- Lists of places to apply for support or get a meal
 
-### Sanctuary Support
+## Sanctuary Support
 * [New Sanctuary Coalition](http://www.newsanctuarynyc.org/get-support/)- List of resources for sanctuary support
 * Brooklyn Defense Committee- Do you have an emergency plan if ICE comes to your community. Building a network of sanctuary space, give em a call at 347-762-4499 (Email: Sanctuaryprogram@gmail.com)

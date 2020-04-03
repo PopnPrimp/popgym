@@ -27,7 +27,7 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 
 ### [In-Person](resources/irl-self-defense-resource.md)
 
-#### Including
+Check out some orgs/places you can go to get your self-defense up! This list includes: 
 * Physical Self-Defense
 * Strength Training
 * Cybersecurity 

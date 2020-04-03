@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-# In-Person
+# In-Person Resources
 
 ## Physical Self-Defense
 * [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk

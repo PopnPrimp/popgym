@@ -28,7 +28,7 @@ Get to know some folks on this list a bit better with these short, sweet intervi
  * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
  * [Gay Fight Club](/resmonth/gay-fight-club-november-rotm.md)
 
-### National Map
+### Gym Map
 We put together a map of groups we like and where they're located, if you're more of a visual person or just travelling!
 
 ### [In-Person](resources/irl-self-defense-resource.md)

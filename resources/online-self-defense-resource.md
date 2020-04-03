@@ -6,7 +6,7 @@ categories:
 layout: post
 ---
 
-# [Online](resources/online-self-defense-resource.md)
+# Online Resources
 
 ## Physical Self-Defense
 * [Self-Defense Starter Kit](https://www.selfdefensestarterkit.com)- Zine turned Website with a bunch a great videos

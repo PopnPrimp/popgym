@@ -15,7 +15,10 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ## Resource Directory
 
-#### ** [COVID-Specific Resources](/resources/Covid19-dv-mutual-aid.md)- Some Resources we thought might be useful for folks during this weird and scary time. **
+#### [COVID Resources]
+
+* [DV and Mutual Aid](/resources/Covid19-dv-mutual-aid.md)- Some Resources we thought might be useful for folks during this weird and scary time.
+* [Health and Wellness](asdas)- List of some cool groups doing online Health and Wellness classes during this time!
 
 ### Resource of the Month
 
@@ -24,6 +27,9 @@ Get to know some folks on this list a bit better with these short, sweet intervi
  * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
  * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
  * [Gay Fight Club](/resmonth/gay-fight-club-november-rotm.md)
+
+### National Map
+We put together a map of groups we like and where they're located, if you're more of a visual person or just travelling!
 
 ### [In-Person](resources/irl-self-defense-resource.md)
 

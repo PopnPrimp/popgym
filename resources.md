@@ -33,27 +33,9 @@ We put together a map of groups we like and where they're located, if you're mor
 
 ### [In-Person](resources/irl-self-defense-resource.md)
 
-Check out some orgs/places you can go to get your self-defense up! This list includes: 
-* Physical Self-Defense
-* Strength Training
-* Cybersecurity 
-* Bystander Intervention
-* Physical Health
-* Mental Health
-* Food Resources
-* Sanctuary Support
+Check out some orgs/places you can go to get your self-defense up! This list includes Physical Self-Defense, Strength Training, Cybersecurity , Bystander Intervention, Physical Health, Mental Health, Food Resources & Sanctuary Support.
 
 
 ### [Online](resources/online-self-defense-resource.md)
 
-Rather stay in? We got you! This list includes:
-* Physical Self-Defense
-* Strength Training
-* Cybersecurity 
-* Bystander Intervention
-* Physical Health
-* Mental Health
-* Food Resources
-* Sanctuary Support
-* Know Your Rights
-* Disability
+Rather stay in? We got you! This list includes Physical Self-Defense, Strength Training, Cybersecurity, Bystander Intervention, Physical Health, Mental Health,Food Resources, Sanctuary Support, Know Your Rights & Disability Resources.

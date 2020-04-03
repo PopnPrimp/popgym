@@ -6,8 +6,6 @@ categories:
 layout: post
 ---
 
-# In-Person Resources
-
 ## Physical Self-Defense
 * [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk
 * [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      

@@ -15,7 +15,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ## Resource Directory
 
-### **[COVID-Specific Resources](/resources/Covid19-dv-mutual-aid.md)**
+#### [COVID-Specific Resources](/resources/Covid19-dv-mutual-aid.md)- Some Resources we thought might be useful for folks during this weird and scary time.
 
 ### Resource of the Month
 

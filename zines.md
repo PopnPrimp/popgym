@@ -12,7 +12,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <br>
 
-<a href="/assets/zinesitefinal1.pdf">Pop Gym Zine #1</a>
+<a href="/assets/zinesitefinal1.pdf">Pop Gym Zine #1</a> 
       </td>
    <td>
    <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center>

@@ -33,5 +33,5 @@ Get to know some folks on this list a bit better with these short, sweet intervi
 
 ### Coming Soon...
 
-* Gym Map- We put together a map of groups we like and where they're located, if you're more of a visual person or just travelling!
+* Gym Map- We're puttin together a map of groups we like and where they're located, if you're more of a visual person or just travelling!
 * [Health and Wellness](asdas)- List of some cool groups doing online Health and Wellness classes during this time!

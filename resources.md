@@ -18,7 +18,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 ### ** COVID Resources **
 
 * [DV and Mutual Aid](/resources/Covid19-dv-mutual-aid.md)- Some Resources we thought might be useful for folks during this weird and scary time.
-* [Health and Wellness](asdas)- List of some cool groups doing online Health and Wellness classes during this time!
 
 ### Resource of the Month
 
@@ -29,6 +28,10 @@ Get to know some folks on this list a bit better with these short, sweet intervi
  * [Gay Fight Club](/resmonth/gay-fight-club-november-rotm.md)
 
 ### Resource Lists (updated 3/05/2020)
-* Gym Map- We put together a map of groups we like and where they're located, if you're more of a visual person or just travelling!
 * [In-Person](resources/irl-self-defense-resource.md) - Check out some orgs/places you can go to get your self-defense up! This list includes Physical Self-Defense, Strength Training, Cybersecurity, Bystander Intervention, Physical Health, Mental Health, Food Resources & Sanctuary Support.
 * [Online](resources/online-self-defense-resource.md)- Rather stay in? We got you! This list includes Physical Self-Defense, Strength Training, Cybersecurity, Bystander Intervention, Physical Health, Mental Health, Food Resources, Sanctuary Support, Know Your Rights, & Disability Resources.
+
+### Coming Soon...
+
+* Gym Map- We put together a map of groups we like and where they're located, if you're more of a visual person or just travelling!
+* [Health and Wellness](asdas)- List of some cool groups doing online Health and Wellness classes during this time!

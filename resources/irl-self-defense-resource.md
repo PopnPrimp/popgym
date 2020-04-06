@@ -8,7 +8,6 @@ layout: post
 
 ## Physical Self-Defense
 
-
 ### Programs
 * [Feminist Self-Defense](http://www.feministselfdefense.com/)- Self-Defense Workshops, with finance options for those who need
 * Gay Fight Club (@gayfightclubnyc on Insta)- offering queer/trans Muay Thai classes at Red Planet Muay Thai every week on Tuesdays, Thursdays and Saturdays in BedStuy
@@ -35,7 +34,6 @@ layout: post
 * [S&S Barbell](http://snsbarbell.com/)
 * [South Brooklyn Weightlifting Club](https://southbrooklynwc.com/)
 * [Strength for All](http://strengthforallnyc.com/)
-* [Body Positive Fitness Finder](https://superfithero.com/pages/body-positive-fitness-finder?utm_source=Bopo+Trainers&utm_campaign=0e473540ce-EMAIL_CAMPAIGN_2019_04_04_10_49&utm_medium=email&utm_term=0_e75c751fc6-0e473540ce-173912825&mc_cid=0e473540ce&mc_eid=56e2782185) Check out us and a number of other cool body+ orgs with this nationwide finder from SuperFit Hero
 
 ## CyberSecurity
 * [CyPurr Collective](https://cypurr.nyc)- Cybersecurity workshops and events!

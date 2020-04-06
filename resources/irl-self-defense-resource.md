@@ -24,6 +24,7 @@ layout: post
 * Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Monday (message for deets!)
 * [Brooklyn Community Pride Center](http://lgbtbrooklyn.org/)- Offering a host of self-defense and health events every month
 * NightCAP (Cycling Against Patriarchy)- Offering free group rides for Femme/NB folk every Tuesday at 7 PM at Maria Hernandez park. For more info, check out their insta @nightcap_brooklyn
+* [Chop & Chops MMA](https://www.chopandchopsmma.com/)- MMA school in Brooklyn with some programming for Femme/NB folk
 
 ## Strength Training
 * [Murder of Crows Barbell](http://www.murderofcrowsbarbell.com/)

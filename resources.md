@@ -21,6 +21,9 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Health and Wellness](/resources/covid-wellness.md)- List of online classes available from some kewl folk!
 
 ### Directories of Resources
+* [Body Positive Fitness Finder](https://superfithero.com/pages/body-positive-fitness-finder?utm_source=Bopo+Trainers&utm_campaign=0e473540ce-EMAIL_CAMPAIGN_2019_04_04_10_49&utm_medium=email&utm_term=0_e75c751fc6-0e473540ce-173912825&mc_cid=0e473540ce&mc_eid=56e2782185) Check out us and a number of other cool body+ orgs with this nationwide finder from SuperFit Hero
+** [Health and Wellness](/resources/covid-wellness.md)- Lists of online classes and groups available from some kewl folk!
+* [Safe to Train](http://www.safetotrain.com/)- List of schools round the country the promote safe spaces
 
 ### Resource of the Month
 

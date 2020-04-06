@@ -27,15 +27,18 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ### Resource of the Month
 
-Get to know some folks on this list a bit better with these short, sweet interviews!
+Get to know some folks on our list a bit better with these short, sweet interviews!
  * [Devilfish](/resmonth/devilfish-may-2019.md)
  * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
  * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
  * [Gay Fight Club](/resmonth/gay-fight-club-november-rotm.md)
 
 ### Resource Lists (updated 3/05/2020)
+
+See below for some of our personally compiled lists, featuring orgs and resources accessible through the online world or the physical world. These lists include resources related to Physical Self-Defense, Strength Training, Cybersecurity, Bystander Intervention, Physical Health, Mental Health, Food Resources & Sanctuary Support, Know Your Rights, & Disability Resources.
+
 * [In-Person](resources/irl-self-defense-resource.md) - Check out some orgs/places you can go to get your self-defense up! This list includes Physical Self-Defense, Strength Training, Cybersecurity, Bystander Intervention, Physical Health, Mental Health, Food Resources & Sanctuary Support.
-* [Online](resources/online-self-defense-resource.md)- Rather stay in? We got you! This list includes Physical Self-Defense, Strength Training, Cybersecurity, Bystander Intervention, Physical Health, Mental Health, Food Resources, Sanctuary Support, Know Your Rights, & Disability Resources.
+* [Online](resources/online-self-defense-resource.md)- Rather stay in? We got you! 
 
 ### Coming Soon...
 

@@ -13,12 +13,14 @@ A list some people and placs we think are super great!
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
 
-## Resource Directory
+## Resources
 
 ### ** COVID Resources **
 
 * [DV and Mutual Aid](/resources/Covid19-dv-mutual-aid.md)- Some Resources we thought might be useful for folks during this weird and scary time.
 * [Health and Wellness](/resources/covid-wellness.md)- List of online classes available from some kewl folk!
+
+### Directories of Resources
 
 ### Resource of the Month
 

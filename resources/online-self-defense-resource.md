@@ -8,9 +8,6 @@ layout: post
 
 # Online Resources
 
-## Directories
-* [Safe to Train](http://www.safetotrain.com/)- List of schools round the country the promote safe spaces
-
 ## Physical Self-Defense
 
 ### Tips

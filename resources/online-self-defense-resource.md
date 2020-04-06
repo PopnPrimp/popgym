@@ -27,25 +27,25 @@ layout: post
 
 
 ## Mental Health
-* [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources
-* [National Queer Trans Therapists of Color Network](https://www.nqttcn.com/)- Online directory of Q/T therapists of color
 * [Autism Resources](https://docs.google.com/document/d/1x7mVW_ut7kOwRSWIvffUJUuhWwwQNEA7yZJM9Dzpvpo/edit)- Google Doc of resources and articles on Autism
 * [Jane Adams Collective](https://janeaddamscollective.wordpress.com/our-projects/)- Info and Resources on Mutual Aid Self-Therapy
+* [National Queer Trans Therapists of Color Network](https://www.nqttcn.com/)- Online directory of Q/T therapists of color
+* [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources
 
 ## CyberSecurity
-* [Holistic Security](https://holistic-security.tacticaltech.org/)- A guide to Threat Modeling by the Tactical Tech Collective
-* [Cutealism](http://cutealism.com/fight/)- Cute intro guide to cybersecurity!
-* [Data Detox](https://datadetox.myshadow.org/detox)- Day-by-day guide to get your cybersecurity on!
-* [SSD by EFF](https://ssd.eff.org/en)- A bunch of great 101 cybersecurity guides by the Electronic Frontier Foundation
-* [HackBlossom](https://hackblossom.org/)- Feminist cybersecurity guides/resources
-* [Privacy Tools](https://www.privacytools.io/)- A list of Free Open Source Apps to use
-* [NYC Mesh](https://nycmesh.net/)- Folks building an Internet alternative!
 * [30 Day Security Challenge](https://snubsie.com/blog/2017/11/2/the-30-day-security-challenge)- Great day-by-day guides for folks just getting into cybersecurity
+* [Cutealism](http://cutealism.com/fight/)- Cute intro guide to cybersecurity!
 * [Data and Activism](https://ourdataourselves.tacticaltech.org/posts/20_intro_activism/)- A guide for navigating the digital world as an activist by Tactical Tech
+* [Data Detox](https://datadetox.myshadow.org/detox)- Day-by-day guide to get your cybersecurity on!
 * [Defend Our Movements](https://defendourmovements.org/)- Cool 101 cybersecurity guides and HelpDesk from the folks at "Center for Media Justice, May First / People Link, and diverse movement technologists and activists"
-* [The Empowering Internet Safety Guide for Women](https://www.vpnmentor.com/blog/the-empowering-internet-safety-guide-for-women/) A guide with some great tips on how to up your cybersecurity. 
-* [Squadbox](https://squadbox.org/)- A great way to set up email filtering for a friend who is being harassed online.
 * [Designing For Users With Various Abilities](https://www.facebook.com/vellumandvinyl/posts/2092090034217730) Some cool info graphics on how you can design web pages that are accessible!
+* [HackBlossom](https://hackblossom.org/)- Feminist cybersecurity guides/resources
+* [Holistic Security](https://holistic-security.tacticaltech.org/)- A guide to Threat Modeling by the Tactical Tech Collective
+* [NYC Mesh](https://nycmesh.net/)- Folks building an Internet alternative!
+* [Privacy Tools](https://www.privacytools.io/)- A list of Free Open Source Apps to use
+* [SSD by EFF](https://ssd.eff.org/en)- A bunch of great 101 cybersecurity guides by the Electronic Frontier Foundation
+* [Squadbox](https://squadbox.org/)- A great way to set up email filtering for a friend who is being harassed online.
+* [The Empowering Internet Safety Guide for Women](https://www.vpnmentor.com/blog/the-empowering-internet-safety-guide-for-women/) A guide with some great tips on how to up your cybersecurity. 
 * [Ultimate Privacy Guide](https://www.bestvpn.com/guides/the-ultimate-privacy-guide/)- Pretty comprehensive cybersecurity guide to get you started on some concepts
 
 ## De-Escalation
@@ -57,11 +57,11 @@ layout: post
 * [SASS](https://sasscalgary.com/)- Promoting Safer Spaces and best practices for venues in Calgary
 
 ## Accountability
-* [INCITE Community Accountability Resources](https://incite-national.org/community-accountability/)
 * [Creative Interventions Toolkit](http://www.creative-interventions.org/tools/toolkit/)- "Creative Interventions Toolkit: A Practical Guide to Stop Interpersonal Violence"
-* [The Revolution Starts at Home (zine)](http://criticalresistance.org/wp-content/uploads/2014/05/Revolution-starts-at-home-zine.pdf)
-* [Support NYC Links and Resources](https://supportny.org/links/)- a ton of great links going to orgs doing various forms of accountability work.
 * [How to Support A Survivor of Sexual Violence](https://bushwickdaily.com/bushwick/categories/mind-and-body/5726-ask-niki-support-sexual-violence-survivor)- Some tips on support
+* [INCITE Community Accountability Resources](https://incite-national.org/community-accountability/)
+* [Support NYC Links and Resources](https://supportny.org/links/)- a ton of great links going to orgs doing various forms of accountability work.
+* [The Revolution Starts at Home (zine)](http://criticalresistance.org/wp-content/uploads/2014/05/Revolution-starts-at-home-zine.pdf)
 
 ## Know Your Rights
 * [NLG Know your Rights in English, Spanish, Arabic, Bengali, and Urdu](https://www.nlg.org/know-your-rights/)

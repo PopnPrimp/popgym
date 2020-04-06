@@ -8,19 +8,26 @@ layout: post
 
 # Online Resources
 
-## Physical Self-Defense
-* [Self-Defense Starter Kit](https://www.selfdefensestarterkit.com)- Zine turned Website with a bunch a great videos
-* [21 Effective Self-Defense Techniques](https://www.jenreviews.com/self-defense-techniques/)- Some intro to BJJ with many techniques that we teach at our own workshops.
+## Directories
 * [Safe to Train](http://www.safetotrain.com/)- List of schools round the country the promote safe spaces
+
+## Physical Self-Defense
+
+### Tips
+* [21 Effective Self-Defense Techniques](https://www.jenreviews.com/self-defense-techniques/)- Some intro to BJJ with many techniques that we teach at our own workshops.
+* [Anti-Violence Project](https://avp.org/)- Hotline and resources to those experiencing hate crimes and other forms of violence
+* [Happy Life Martial Arts Self-Defense Course](http://www.senseiando.com/self-defense-course/)- Free two hour intro course, teaching some of the same concepts we share at our workshops!
 * [Home Alive](http://www.teachhomealive.org)- Great resources and tips on self-defense
+* [Outwod](https://www.outwod.com/)- "OUTWOD is the largest international initiative for bringing together LGBT+ athletes and their allies to raise funds for local charitable organizations and sweat together in a safe, inclusive group fitness living planet."
+* [Queer Fighters](https://www.patreon.com/queerfighters)- Videos and resources on Self-Defense and BJJ from the folks at [Four Elements](https://fourelementsfitness.com/) in Oakland
+* [Self-Defense Starter Kit](https://www.selfdefensestarterkit.com)- Zine turned Website with a bunch a great videos
+* [Sisters of Powerlifting](https://www.sistersofpowerlifting.com/)- Resource for WOC getting into powerlifting!
+
+### Tools
 * [Got A Girl Crush Catcalling Citation](http://www.gotagirlcrush.com/ccc)- Cards to confront street harassers with!
 * [Cards Against Harassment](http://www.cardsagainstharassment.com/)- Some more cards with messages to quiet street harassers
 * [Stop Street Harassment](http://www.stopstreetharassment.org/our-work/nationalshhotline/)- Organization providing support and resources to those who face street harassment, including a national hotline to talk to somebody if you need to.
-* [Anti-Violence Project](https://avp.org/)- Hotline and resources to those experiencing hate crimes and other forms of violence
-* [Queer Fighters](https://www.patreon.com/queerfighters)- Videos and resources on Self-Defense and BJJ from the folks at [Four Elements](https://fourelementsfitness.com/) in Oakland
-* [Outwod](https://www.outwod.com/)- "OUTWOD is the largest international initiative for bringing together LGBT+ athletes and their allies to raise funds for local charitable organizations and sweat together in a safe, inclusive group fitness living planet."
-* [Sisters of Powerlifting](https://www.sistersofpowerlifting.com/)- Resource for WOC getting into powerlifting!
-* [Happy Life Martial Arts Self-Defense Course](http://www.senseiando.com/self-defense-course/)- Free two hour intro course, teaching some of the same concepts we share at our workshops!
+
 
 ## Mental Health
 * [Rest For Resistance](https://restforresistance.com/read)- TQPoc Mental health reads and resources

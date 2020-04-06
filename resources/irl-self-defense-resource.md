@@ -7,24 +7,28 @@ layout: post
 ---
 
 ## Physical Self-Defense
-* [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk
-* [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
-* [Rev Fitness](http://www.revolutionaryfitness.org/)- Affordable and rad fitness in East Harlem
-* [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up. 
+
+
+### Programs
+* [Feminist Self-Defense](http://www.feministselfdefense.com/)- Self-Defense Workshops, with finance options for those who need
 * Gay Fight Club (@gayfightclubnyc on Insta)- offering queer/trans Muay Thai classes at Red Planet Muay Thai every week on Tuesdays, Thursdays and Saturdays in BedStuy
-* [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes for Femme, Queer and/or Trans folk
-* [Masterskya](http://masterskya.com/)- Low cost BJJ in Bushwick
+* Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Monday (message for deets!)
+* [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk
 * [Wickwood Aikikai](https://www.facebook.com/aikidoofwickwood/)- Aikido classes in Ridgewood Queens
+
+### Spaces/Places
+* [Brooklyn Community Pride Center](http://lgbtbrooklyn.org/)- Offering a host of self-defense and health events every month
+* [Brooklyn Goju](https://brooklyngoju.com/)- "Martial Arts for Peace Strength and Justice" in Park Slope. "Trans & cis women, non-binary folks, gender-nonconforming people, and/or trans men are encouraged to train in our safe and inclusive space."
+* [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes for Femme, Queer and/or Trans folk
+* [Chop & Chops MMA](https://www.chopandchopsmma.com/)- MMA school in Brooklyn with some programming for Femme/NB folk
+* [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up. 
+* [Female Awareness](http://femaleawareness.com/)- Constant self-defense classes in Midtown
+* [Masterskya](http://masterskya.com/)- Low cost BJJ in Bushwick
 * [Muay Sabai](https://muaysabaicamp.com/)- Midtown Muay Thai/BJJ gym with Queer friendly living planet
 * [Overthrow](https://overthrownyc.com/membership/)- Boxing gym with locations in Brooklyn and the LES, somewhat affordable options available
-* [Female Awareness](http://femaleawareness.com/)- Constant self-defense classes in Midtown
-* [Feminist Self-Defense](http://www.feministselfdefense.com/)- Self-Defense Workshops, with finance options for those who need
+* [Rev Fitness](http://www.revolutionaryfitness.org/)- Affordable and rad fitness in East Harlem
+* [Traditional Okinawan Karate School](http://www.tokarate.com/)- Affordable karate in East Williamsburg, with classes for Queer folk and/or Women      
 * [Westside TKD](http://westsidetkd.com/)- Tae-Kwon-Do training in Harlem
-* [Brooklyn Goju](https://brooklyngoju.com/)- "Martial Arts for Peace Strength and Justice" in Park Slope. "Trans & cis women, non-binary folks, gender-nonconforming people, and/or trans men are encouraged to train in our safe and inclusive space."
-* Spectrum Wrestling- Queer+ BJJ group, offering free intro classes every Monday (message for deets!)
-* [Brooklyn Community Pride Center](http://lgbtbrooklyn.org/)- Offering a host of self-defense and health events every month
-* NightCAP (Cycling Against Patriarchy)- Offering free group rides for Femme/NB folk every Tuesday at 7 PM at Maria Hernandez park. For more info, check out their insta @nightcap_brooklyn
-* [Chop & Chops MMA](https://www.chopandchopsmma.com/)- MMA school in Brooklyn with some programming for Femme/NB folk
 
 ## Strength Training
 * [Murder of Crows Barbell](http://www.murderofcrowsbarbell.com/)
@@ -51,6 +55,7 @@ layout: post
 * [Dance Safe](https://dancesafe.org/)- Providing harm reduction resources, and creating Safe Spaces at parties.
 * Feed the People- Serving food to folks in Harlem and the Bronx, check the @nyc_shutitdown insta for more info
 * Club A Kitchen- Serving food and handing out resources/clothes every Saturday from 1-4 PM at 7 Belvidere Street! Plus, community movie nights on Wednesdays (@club_a_nyc)
+* NightCAP (Cycling Against Patriarchy)- Offering free group rides for Femme/NB folk every Tuesday at 7 PM at Maria Hernandez park. For more info, check out their insta @nightcap_brooklyn
 
 ## Mental Health Resources
 * [Respite Centers](https://www1.nyc.gov/site/doh/health/health-topics/crisis-emergency-services-respite-centers.page)- Lists of a few respite centers in NYC

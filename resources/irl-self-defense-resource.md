@@ -38,7 +38,7 @@ layout: post
 * [Body Positive Fitness Finder](https://superfithero.com/pages/body-positive-fitness-finder?utm_source=Bopo+Trainers&utm_campaign=0e473540ce-EMAIL_CAMPAIGN_2019_04_04_10_49&utm_medium=email&utm_term=0_e75c751fc6-0e473540ce-173912825&mc_cid=0e473540ce&mc_eid=56e2782185) Check out us and a number of other cool body+ orgs with this nationwide finder from SuperFit Hero
 
 ## CyberSecurity
-* [CyPurr Collective](cypurr.nyc)- Cybersecurity workshops and events!
+* [CyPurr Collective](https://cypurr.nyc)- Cybersecurity workshops and events!
 * [NYC CryptoParty](https://www.meetup.com/New-York-Cryptoparty-Network/?_cookie-check=qWDtBFUHlownGc-E)- Folks organizing cybersecurity events around NYC!
 * [CryptoParty](https://www.cryptoparty.in/)- Global listing of cybersecurity workshops and events
 * [Tech Learning Collective](https://techlearningcollective.com/)- Offering beginner to medium skill tech classes!

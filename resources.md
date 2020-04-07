@@ -37,7 +37,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 
 See below for some of our personally compiled lists, featuring orgs and resources accessible through the online world or the physical world. These lists include resources related to Physical Self-Defense, Strength Training, Cybersecurity, Bystander Intervention, Physical Health, Mental Health, Food Resources & Sanctuary Support, Know Your Rights, & Disability Resources.
 
-* [In-Person](resources/irl-self-defense-resource.md) - Check out some orgs/places you can go to get your self-defense up!
+* [In-Person](resources/irl-self-defense-resource.md) - Check out some orgs/places you can go to get your self-defense up (NYC-Specific locations, check some of the links in the "Directories of Resources" for spots around the country!)
 * [Online](resources/online-self-defense-resource.md)- Rather stay in? We got you! 
 
 ### Coming Soon...

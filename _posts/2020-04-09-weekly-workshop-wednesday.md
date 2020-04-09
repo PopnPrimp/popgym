@@ -25,7 +25,7 @@ Free to attend (donations welcome!), you can get the Zoom link by RSVPing at the
  
 We're doing weekly Wednesday workshops! Still trying to figure out a full schedule, but we're working it out week by week, next Wednesday being a chance to practice the techniques we've been teaching! Come by for some stretch/warmup, pad work, and deets on how to make your strikes a bit stronger! If we have time, we'll also teach some new stuff
  
-**[Click here to RSVP to recieve zoom link](https://withfriends.co/event/4510985/online_self_defense_workshop_practice_sesh), or email us at info@popgym.org! This is an ONLINE workshop! Free to attend (donations welcome!). All money raised will go toward some projects we wanna support right now, will announce a new one every week.
+**[Click here to RSVP to recieve zoom link](https://withfriends.co/event/4510985/online_self_defense_workshop_practice_sesh), or email us at info@popgym.org! This is an ONLINE workshop! Free to attend (donations welcome!). All money raised will go toward some projects we wanna support right now, will announce a new one every week.**
 
 Note: let us know by tuesday evening if you got a zoom link!
 

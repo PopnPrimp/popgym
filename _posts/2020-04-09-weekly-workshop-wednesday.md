@@ -18,7 +18,7 @@ We had so much fun with the first two workshops, that we decided to do them week
 
 Please see below for some of our upcoming events:
 
-* 4/15- Pop Gym Weekly Wednesday Workshop- Self-Defense Practice Sesh!
+* [4/15- Pop Gym Weekly Wednesday Workshop- Self-Defense Practice Sesh!](https://withfriends.co/event/4510985/online_self_defense_workshop_practice_sesh)
 
 Free to attend (donations welcome!), you can get the Zoom link by RSVPing at the addresses below, or email us at info@popgym.org! All money raised will go to reimburse instructors at future workshops!
 

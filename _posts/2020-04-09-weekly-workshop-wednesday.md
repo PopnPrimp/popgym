@@ -7,7 +7,7 @@ layout: post
 subtitle: We loved doing the last two workshops so much, we decided to do them weekly!
 ---
 
-![Pop Gym Online](/assets/onlineworkshopcopy.jpg)
+![Pop Gym Online](/assets/weeklyworkshop.jpg)
 
 
 **Hey all!**

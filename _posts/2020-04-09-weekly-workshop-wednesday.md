@@ -20,6 +20,7 @@ Please see below for some of our upcoming events:
 
 Free to attend (donations welcome!), you can get the Zoom link by RSVPing at the addresses below, or email us at info@popgym.org! All money raised will go to reimburse instructors at future workshops!
 
+All funds raised go to the [Parole Prep NY](https://www.paroleprepny.org/)!
 
 **See below for a general description:**
  

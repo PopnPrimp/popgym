@@ -16,7 +16,7 @@ We had so much fun with the first two workshops, that we decided to do them week
 
 Please see below for some of our upcoming events:
 
-* [54/22- Pop Gym Digital Weekly Free Self-Defense Workshop (Grabs) (!](https://withfriends.co/event/4530148/online_self_defense_workshop_grabs)
+* [4/22- Pop Gym Digital Weekly Free Self-Defense Workshop (Grabs)](https://withfriends.co/event/4530148/online_self_defense_workshop_grabs)
 
 Free to attend (donations welcome!), you can get the Zoom link by RSVPing at the addresses below, or email us at info@popgym.org! All money raised will go to reimburse instructors at future workshops!
 

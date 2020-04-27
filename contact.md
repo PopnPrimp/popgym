@@ -5,8 +5,9 @@ layout: page
 ---
 
 <h2> Subscribe to our Newsletter! </h2>
+
 <form action="https://popgymnews.hosted.phplist.com/lists/?p=subscribe" method="post">
-    <input type="text" name="email" value="Enter your email" />
+    <input type="text" name="email" value="Enter email to subscribe to our Newsletter, " />
     <button type="submit">Subscribe to our newsletters</button>
 </form>
 

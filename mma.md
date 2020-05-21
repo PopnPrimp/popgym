@@ -24,4 +24,5 @@ RSVP on our Facebook or Meetup: [Pop Gym MMA on Facebook](https://www.facebook.c
 
 *please check back weekly to confirm class times, as some weeks may vary
 
+<iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>
 

@@ -18,3 +18,6 @@ As we continue planning, we invite you to come by any of our free self-defense a
 * [Accountability](accountability.md)
 * [Transparency](transparency.md)
 * [Glossary/Further Reading](glossary.md)
+
+
+<iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>

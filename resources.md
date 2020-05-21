@@ -44,3 +44,5 @@ See below for some of our personally compiled lists, featuring orgs and resource
 
 * Gym Map- We're puttin together a map of groups we like and where they're located, if you're more of a visual person or just travelling!
 
+<iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>
+

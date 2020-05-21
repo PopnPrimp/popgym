@@ -10,3 +10,4 @@ Palm Heels for the people! Don't get that joke? No worries! Come by our FREE Pop
 
 Great intro to martial arts for everyday folk, as well as a good training for staff of a group/org. Open to all ages! We announce these workshops pretty regularly, so keep an eye on our [schedule](schedule.md) to see if we're doing a #PopUp near you!
 
+<iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>

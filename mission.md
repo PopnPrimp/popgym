@@ -17,3 +17,5 @@ Toward athleticism without commodification or patriarchy—to strengthen ourselv
 Next Up: [Saf(er) Spaces](safe-space.md)
 
 [Go Back](/about.md)
+
+<iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>

@@ -16,7 +16,7 @@ Weird time ain't it (to say the least). We know everyone is going through it on 
 
 Please see below for some of our upcoming events:
 
-Free to attend (donations welcome!), you can get the Zoom link by RSVPing at the addresses below, or email us at info@popgym.org! All money raised will go to reimburse instructors at future workshops!
+Free to attend (donations welcome!), you can get the Zoom link by RSVPing at the addresses below, or email us at info@popgym.org! Plus, catch us simulcasting on IGLive @popgymbk
 
 * 6/3- [Intro to Self-Defense Workshop](https://withfriends.co/event/4629465/pop_gym_weekly_self_defense_workshop_intro_to_self_defense)
 * 6/10- [Self-Defense Practice Sesh](https://withfriends.co/event/4629470/pop_gym_weekly_self_defense_workshop_practice_sesh)

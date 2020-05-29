@@ -7,7 +7,7 @@ layout: post
 subtitle: Bringing something special to you this month with our online free self-defense workshops!
 ---
 
-![Pop Gym Online](/assets/weeklyworkshopcopy.jpg)
+![Pop Gym Online](/assets/weeklyworkshop2.jpg)
 
 
 **Hey all!**

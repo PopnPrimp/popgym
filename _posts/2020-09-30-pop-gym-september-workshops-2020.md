@@ -1,6 +1,6 @@
 ---
 title: Pop Gym Goes Digital- Free Self-Defense Workshops Online
-date: 2020-09-31 00:00:00 Z
+date: 2020-09-30 00:00:00 Z
 categories:
 - update
 layout: post

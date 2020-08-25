@@ -20,7 +20,7 @@ Free to attend (donations welcome!), you can get the Zoom link by RSVPing at the
  Plus, we got a couple super special workshops coming up on this month
  
  * 9/9- [Self-Defense Workshop at the Hercules Garden](https://withfriends.co/event/4865619/self_defense_workshop)
- * 9/14 [Transfemme Self-Defense Workshop(https://withfriends.co/event/4865640/transfemme_self_defense_class)
+ * 9/14 [Transfemme Self-Defense Workshop](https://withfriends.co/event/4865640/transfemme_self_defense_class)
  
  
  RSVP to the events above through our WithFriends page, and be sure to reach out to us at info@popgym.org with any questions!

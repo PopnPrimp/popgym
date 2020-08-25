@@ -7,7 +7,7 @@ layout: post
 subtitle: Next set of Pop Gym Pop Up workshops for September 2020
 ---
 
-![Pop Gym Online](/assets/monthly.jpg)
+![Pop Gym Online](/assets/septemberworkshop.jpg)
 
 
 **Hey all!**

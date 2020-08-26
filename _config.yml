@@ -40,7 +40,7 @@ url: https://popgym-store.square.site
 
 Navigation:
 - title: Home
- url: /index.html
+ url: /index.md
 - title: About
 url: /about.md
  - title: Schedule

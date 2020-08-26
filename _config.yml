@@ -35,7 +35,8 @@ header_pages:
 - zines.md
 - resources.md
 - media.md
-- store.md
+title: Store 
+url: https://popgym-store.square.site
 
 
 

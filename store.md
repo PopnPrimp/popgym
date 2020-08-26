@@ -1,6 +1,7 @@
 ---
 title: Store
-permalink: "https://popgym-store.square.site"
+permalink: "Store"
+layout: page
 ---
 
 

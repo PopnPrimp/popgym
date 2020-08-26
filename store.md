@@ -1,3 +1,8 @@
+---
+title: Store
+permalink: "Store"
+---
+
 
 
 <iframe src="https://giphy.com/embed/uyWTOgNGGWfks" width="413" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rihanna-gif-uyWTOgNGGWfks">via GIPHY</a></p>

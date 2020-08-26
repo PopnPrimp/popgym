@@ -1,5 +1,5 @@
 ---
-title: https://popgym-store.square.site
+title: Store
 permalink: "https://popgym-store.square.site"
 ---
 

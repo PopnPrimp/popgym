@@ -37,27 +37,6 @@ header_pages:
 - media.md
 - store.md
 
-Navigation:
-- title: Home
- url: /index.md
-- title: About
-url: /about.md
- - title: Schedule
-url: /contact.md
-- title: Programs
-url: /programs.md
-- title: Contact
-url: /contact.md
-- title: Zines
-url: /zines.md
-- title: Resources
-url: /resources.md
-- title: Media
-url: /media.md
-- title: Store 
-url: https://popgym-store.square.site
-
-
 
 
 # Exclude from processing.

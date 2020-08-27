@@ -16,9 +16,13 @@ Just a quick lil announcement, we have a last-minute self-defense workshop comin
 
 Stonewall Community Foundation is inviting you to a scheduled Zoom meeting.Topic: SQS Self-Defense Training W/ PopGym
 
-Time: Aug 27, 2020 07:00 PM Eastern Time (US and Canada)Join Zoom Meeting
+Time: Aug 27, 2020 07:00 PM Eastern Time (US and Canada)
 
-https://us02web.zoom.us/j/89401264157?pwd=aWZkNjUyZ0Znb2kwOXIza0ppdXZVZz09Meeting ID: 894 0126 4157
+Join Zoom Meeting
+
+https://us02web.zoom.us/j/89401264157?pwd=aWZkNjUyZ0Znb2kwOXIza0ppdXZVZz09
+
+Meeting ID: 894 0126 4157
 
 Passcode: SQS2020
 
@@ -26,7 +30,9 @@ One tap mobile
 
 +19292056099,,89401264157# US (New York)
 
-+13126266799,,89401264157# US (Chicago)Dial by your location
++13126266799,,89401264157# US (Chicago)
+
+Dial by your location
 
         +1 929 205 6099 US (New York)
         

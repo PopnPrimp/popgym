@@ -7,7 +7,7 @@ layout: post
 subtitle: We got a last minute intro workshop coming up tonight with Stonewall Quarter Share! Click through to see workshop deets!
 ---
 
-![Pop Gym Online](/assets/logo.jpg)
+![Pop Gym Online](/assets/logo.png)
 
 
 **Hey all!**

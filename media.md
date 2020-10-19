@@ -9,10 +9,10 @@ Check out some kewl stuff we've been featured in!
 
 <iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>
 
-### 20 Fitness Spaces Dedicated to Inclusivity That Are Changing Gym Culture for the Better
+#### 20 Fitness Spaces Dedicated to Inclusivity That Are Changing Gym Culture for the Better
 [Good Housekeeping, October 6th, 2020](https://www.goodhousekeeping.com/health/fitness/g34205494/inclusive-gyms-fitness-spaces/)
 
-### Rebel Steps: Defend Your Community (Anti-Facism)
+#### Rebel Steps: Defend Your Community (Anti-Facism)
 [Rebel Steps Podcast, April 2, 2020](https://rebelsteps.com/episodes/s2e6-defend-your-community.html)
 
 #### Including Animals: Pop Gym

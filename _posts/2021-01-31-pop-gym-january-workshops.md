@@ -1,5 +1,5 @@
 ---
-title: Pop Gym Januart Online Workshops!
+title: Pop Gym January Online Workshops!
 date: 2021-01-31 00:00:00 Z
 categories:
 - update

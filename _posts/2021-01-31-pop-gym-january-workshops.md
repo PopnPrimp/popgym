@@ -7,7 +7,7 @@ layout: post
 subtitle: January events fresh n ready!!
 ---
 
-![Pop Gym Online](/assets/popgymjan.jpg)
+![Pop Gym Online](/assets/popgymjan2021.jpg)
 
 
 **January workshops are here!**

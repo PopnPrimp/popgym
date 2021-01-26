@@ -1,5 +1,5 @@
 ---
-title: Pop Gym special workshop with the Introvert Room!
+title: Pop Gym Special Workshop with the Introvert Room!
 date: 2021-01-27 00:00:00 Z
 categories:
 - update

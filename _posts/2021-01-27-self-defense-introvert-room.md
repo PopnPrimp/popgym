@@ -14,9 +14,9 @@ subtitle: Catch us on 1/27 for a very special self-defense workshop with the fol
 
 And we're super excited to be teaming up with the folks at the Introvert Room to bring you our intro to self-defense workshop on 1/27! No need to RSVP, and there's so many ways to watch
 
-Check it out on our Instagram/Facebook (@popgymbk)
+Check it out on our [Instagram](https://www.instagram.com/popgymbk/)/Facebook (@popgymbk)
 
-or check it out on the Introvert Room's Facebook, Youtube, and Twitch!
+or check it out on the Introvert Room's [Facebook](https://www.facebook.com/theintrovertroom), [Youtube](https://www.youtube.com/channel/UCtDr--6JLyGclyJ_CCOytuw), and [Twitch](https://www.twitch.tv/theintrovertroom)!
 
 We'll see ya Wednesday at 6 PM!
 

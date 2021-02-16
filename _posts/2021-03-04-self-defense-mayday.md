@@ -14,6 +14,6 @@ subtitle: Our super special online workshop with the folks at MayDay Space!
 
 Excited to announce our next workshop collaboration with the folks at MayDay space! If you haven't checked out our intro to self-defense workshop yet, this is def one to tune into.
 
-Catch you on March 4th at 7! Please RSVP at [the link here](https://withfriends.co/event/9476400/virtual_self_defense_workshop)
+Catch you on March 4th at 7! To RSVP and get the zoom link (as well as to support this super cool space) check [the link here](https://withfriends.co/event/9476400/virtual_self_defense_workshop) for more info.
 
 <iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>

@@ -7,7 +7,7 @@ layout: post
 subtitle: Announcing our March workshops
 ---
 
-![Pop Gym Online](/assets/popmarsquare.jpg.jpg)
+![Pop Gym Online](/assets/popmarsquare.jpg)
 
 
 **Our March workshops are here!**

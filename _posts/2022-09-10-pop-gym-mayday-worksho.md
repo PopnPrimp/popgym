@@ -19,4 +19,5 @@ We’ll be covering the basics: stretching, conditioning, technique, and theory,
 Mix that in with some sweat and some movement, and you’ll have an accessible and confidence-boosting good time for all. Whether you are a beginner, or someone with experience, come work it out with us!
 
 Pop Gym note: It’s important for us to say that we understand that when teaching self defense, attendees may feel more comfortable going to a workshop covering these potentially tough topics, led by folks who share similar identities with them. We try are best to make these workshops as accessible as possible to everyone, as self defense is a very personal topic. My co-presenter for this event are both white, and she is femme presenting and I am masc presenting. 
+
 <iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>

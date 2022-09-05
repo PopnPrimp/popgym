@@ -7,7 +7,7 @@ layout: post
 subtitle: Check out our next intro workshop at Mayday Space
 ---
 
-![Pop Gym at Mayday](/assets/popgymmaydayflyer)
+![Pop Gym at Mayday](/assets/popgymmaydayflyer.jpeg)
 
 
 **Come by this FREE Pop Gym Pop Up workshop to learn some introductory skills that will keep you feeling safe!**

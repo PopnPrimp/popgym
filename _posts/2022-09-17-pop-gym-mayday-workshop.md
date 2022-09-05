@@ -1,6 +1,6 @@
 ---
 title: Pop Gym Intro to Self-Defense Wokrshop for Women Trans NB Folk at Mayday Space!
-date: 2022-09-10 00:00:00 Z
+date: 2022-09-17 00:00:00 Z
 categories:
 - update
 layout: post

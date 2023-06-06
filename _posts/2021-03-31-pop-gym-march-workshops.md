@@ -1,13 +1,4 @@
----
-title: Pop Gym March Online Workshop!
-date: 2021-03-28 00:00:00 Z
-categories:
-- update
-layout: post
-subtitle: Announcing our March workshops
----
 
-![Pop Gym Online](/assets/popmarsquarecopy.jpg)
 
 
 **Our March workshops are here!**

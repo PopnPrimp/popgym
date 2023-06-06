@@ -7,7 +7,7 @@ layout: post
 subtitle: Announcement regarding the future of the Pop Gym Self-Defense Instruction Program
 ---
 
-![Pop Gym at Mayday](/assets/popgymmaydayflyer.jpeg)
+![Pop Gym Logo](/assets/logo.png)
 
 Hey y’all! It’s been a while since we posted any project updates. We’ve been taking some time to think about the future of Pop Gym, balancing that with the capacities of our individual volunteers and have decided the following:
 
@@ -31,7 +31,7 @@ DM us on Insta!
 popgym.org/contact/
 
 
-Thanks forever for all the support these past few years. To all those who have offered us advise or a kind word. To all those who have taken the time to organize with us and to lead our workshops. To us, this was always meant to be a community project and we owe so much to everyone and anyone who has pitched in their effort to help bring these vital skills to folks who need them the most. We will always remember your help and are beyond thankful of the time you shared with us
+Thanks forever for all the support these past few years. To all those who have offered us advise or a kind word. To all those who have taken the time to organize with us and to lead our workshops. To the folks who helped us make our website, our logo, gave us legal advice, and sat through admin meetings where we tried to figure out the direction of this project. To all those who referred and lifted up our work in journalism, social media, and by word of mouth. To us, this was always meant to be a community project and we owe so much to everyone and anyone who has pitched in their effort to help bring these vital skills to folks who need them the most. We will always remember your help and are beyond thankful of the time you shared with us
 
 We are super humbled to be amongst groups (current and historic) who have organized to bring this skillset to their communities in the face of all forms of systemic oppression that work to marginalize and extinguish them. Their efforts have inspired the work that we do, and we hope that we were able to pay forward their ideals of mutual aid, antifascism and accessibility through our own programming. Self-defense as a tool should always be available to those who in the day-to-day are fighting against people and structures that work to eradicate them. We hope that we were able to make a small difference in the lives of our attendees, and we are heartened by the idea that as we learn to fight for ourselves today, we are more ready to fight for a better world for all tomorrow. 
 

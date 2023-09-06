@@ -8,9 +8,9 @@ layout: page
 
 <iframe src="https://giphy.com/embed/3nqfaBqRc4ynLaYlSu" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/martial-arts-feminist-self-defense-3nqfaBqRc4ynLaYlSu">via GIPHY</a></p>
 
-POP Gym is a new project, working towards opening a physical space in Brooklyn that offers free self-defense, fitness, and skill share classes 7 days a week. We believe that everyone should access to skills that are necessary for their survival. Our mission is to open up a space in which folks can attend classes on fitness, self-defense, and a variety of other skill sets. While that dream is a long-way away, we are actively taking steps to reach this goal!
+Pop Gym is a local NYC non-profit that works to provide free/low cost self-defense and martial arts events all around NYC. Since 2017, we have organized hundreds of workshop in all 5 boroughs and beyond. We believe that everyone should access to skills that are necessary for their survival. Our goal is to bring these vital life skills to folks who need them most, with an effort to make accessible events and safer spaces where participants can learn how to defend themselves in the ways that work best for them and their communities. 
 
-As we continue planning, we invite you to come by any of our free self-defense and de-escalation workshops around NYC (and surrounding areas)! Our workshops have been described as, "fun", "holistic" and "empowering", and for any questions, comments, or inquiries for future workshops for you or your organizations, email us at [info@popgym.org](mailto:info@popgym.org). Check our schedule for a workshop near you, or email us to set one up for your group/organization[.](http://gph.is/2HSDILA)
+We invite you to come by any of our free self-defense and de-escalation workshops! Our workshops have been described as, "fun", "holistic" and "empowering", and for any questions, comments, or inquiries for future workshops for you or your organizations, email us at [info@popgym.org](mailto:info@popgym.org). Check our schedule for a workshop near you, or email us to set one up for your group/organization[.](http://gph.is/2HSDILA)
 ## Values
 
 * [Mission](mission.md)

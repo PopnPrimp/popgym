@@ -18,4 +18,3 @@ If a participant acts in any of the above ways, they will be asked to leave. Thi
 
 If a participant has been previously asked to leave workshop, they may return only at our behest, depending on the severity of the act they have occured. We are always open to discuss a participant's return after a transgression, but we will first and foremost prioritize the needs of the folks affected by the transgression. If no redress can be made on behalf of the affected person(s), and/or if the transgressor is not willing to apologize for/understand how they have erred, they will be asked not to return to future Pop Gym events.
 
-Next: [Transparency](transparency.md)

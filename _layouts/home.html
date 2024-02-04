@@ -2,13 +2,6 @@
 layout: default
 ---
 
-<script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=1620725258225221";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="home">
 
@@ -16,10 +9,7 @@ layout: default
       <center>
  <hr/><br/><br/><br/>
       </center>
-  <div class="fb-embed">
-    <div class="fb-page" data-href="https://www.facebook.com/popgymbk/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/popgymbk/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/popgymbk/">POP Gym</a></blockquote></div>
-  </div>
-
+  
   <h1 class="page-heading">Latest Updates</h1>
   {% assign home_page_posts = site.posts | slice:0,4 %}
   {% include posts.html posts=home_page_posts %}

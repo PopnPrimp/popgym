@@ -4,7 +4,7 @@ permalink: "/resources/"
 layout: page
 ---
 
-<iframe src="https://giphy.com/embed/7L9FYvnh467YI" width="480" height="351" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-high-five-tail-7L9FYvnh467YI">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/ardUtH5FlenO8" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-laugh-haha-ardUtH5FlenO8">via GIPHY</a></p>
             
 # Self-Defense Resources
 

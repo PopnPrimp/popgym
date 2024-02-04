@@ -23,9 +23,19 @@ Get to know some folks on our list a bit better with these short, sweet intervie
  * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
  * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
 
-### Resource Lists (updated 2/03/2024)
+## Resource Lists (updated 2/03/2024)
 
-* [In-Person](resources/irl-self-defense-resource.md) - Check out some orgs/places you can go to get your self-defense up (NYC-Specific locations, check some of the links in the "Directories of Resources" for spots around the country!)
-* [Online](resources/online-self-defense-resource.md)- Rather stay in? We got you! 
+### Physical Self-Defense
+
+#### Programs
+
+* Spectrum Wrestling- Queer+ BJJ group, offering free intro classes weekly (message for deets!)
+* [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk
+* [Wickwood Aikikai](https://www.facebook.com/aikidoofwickwood/)- Aikido classes in Ridgewood Queens
+* [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes for Femme, Queer and/or Trans folk
+* [Chop & Chops MMA](https://www.chopandchopsmma.com/)- MMA school in Brooklyn with some programming for Femme/NB folk
+* [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up. 
+
+
 
 

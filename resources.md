@@ -27,16 +27,23 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 
 ### Physical Self-Defense
 
-#### Programs
+#### Programs (NYC-Based)
 
 * [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes and programs
-* Enough Self-Defense (@enough.selfdefense) holds intro to self-defense classes for Queer folks
-* Fearless Queers has a monthly, donation based self-defense class for Queer folks
-* Queer Fight School (@queerfightschool) holds Brazilian Jiu-Jitsu classes for Queer/Trans folk
+* Dragon Combat Club (@dragoncombatclub on Insta)- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
+* Enough Self-Defense (@enough.selfdefense on Insta)- Intro to self-defense classes for Queer folks
+* Fearless Queers (@selfdefenseisgay on Intsa)- Monthly, donation based self-defense class for Queer folks
+* [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section)- Introductory self-defense classes for people of all genders
+* [Harlem Free Fight](https://harlemfreefight.org/)- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19
+* Queer Fight School (@queerfightschool on Insta)- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk
 * Queer Wrestle Grapple- Queer+ BJJ group, offering free intro classes weekly (message for deets!)
-* Time We Get Back Home (Brooklyn, @timewegetbackhome) hosts self-defense trainings for Black Women and QTPOC
+* [Raising Health](https://www.raisinghealth.org/community-building)- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community
+* Sisters in Self-Defense (@sisters.in.self.defense on Insta)- "Asian American women united in self-defense training. We welcome elders and all ages of folx from our community to learn with us."
+* [Soar Over Hate](https://www.soaroverhate.org/)- Self-Defense and community events for AAPI community
+* [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks)- Hosts self-defense trainings for Black Women and QTPOC
 * [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk
-* [Wickwood Aikikai](https://www.facebook.com/aikidoofwickwood/)- Aikido classes in Ridgewood Queens
+* Women's Sparring NYC (@womenssparring on Insta)- Regular Muay-Thai sparring classes for women 
+
 
 #### Gyms We Like
 
@@ -45,17 +52,21 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 * [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up.
 * [Haven Boxing](https://havenboxing.com/) Queer gym with boxing and fitness classes for all levels
 * [Outbox](https://www.outboxgym.com/)- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes
+* [Wickwood Aikikai]([https://www.facebook.com/aikidoofwickwood/)](https://www.wickwoodaikido.com/)- Aikido classes in Bushwick
 
 **Manhatten**
 
 **Queens**
 
 #### Online Resources
-* Angry Asian Wxmn
-* Self-Defense Starter Kit
+* [Angry Asian Wxmn](https://linktr.ee/Angryasianwomxn)- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos
+            * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view)
+* [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view)
+            * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217)
 * Triangles Everywhere is an Queer, online BJJ community that sometimes holds events in NYC
 
 ### Bystander Intervention
+* [Right to Be](https://righttobe.org/bystander-intervention-training/)- Great resource for trainings on Bystander Intervention and De-Escalation strategies
 
 ### Other Resources
 

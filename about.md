@@ -16,7 +16,7 @@ We invite you to come by any of our free self-defense and de-escalation workshop
 * [Mission](mission.md)
 * [Saf(er) Spaces](safe-space.md)
 * [Accountability](accountability.md)
-* [Transparency](transparency.md)
+
 
 
 

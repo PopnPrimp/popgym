@@ -16,7 +16,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 ## Resources
 
 
-### Resource of the Month
+### Resource In-Depth
 
 Get to know some folks on our list a bit better with these short, sweet interviews!
  * [Devilfish](/resmonth/devilfish-may-2019.md)

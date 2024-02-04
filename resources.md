@@ -52,7 +52,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 * [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up.
 * [Haven Boxing](https://havenboxing.com/) Queer gym with boxing and fitness classes for all levels
 * [Outbox](https://www.outboxgym.com/)- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes
-* [Wickwood Aikikai]([https://www.facebook.com/aikidoofwickwood/)](https://www.wickwoodaikido.com/)- Aikido classes in Bushwick
+* [Wickwood Aikikai]](https://www.wickwoodaikido.com/)- Aikido classes in Bushwick
 
 **Manhatten**
 
@@ -60,9 +60,9 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 
 #### Online Resources
 * [Angry Asian Wxmn](https://linktr.ee/Angryasianwomxn)- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos
-            * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view)
+* * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view)
 * [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view)
-            * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217)
+  * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217)
 * Triangles Everywhere is an Queer, online BJJ community that sometimes holds events in NYC
 
 ### Bystander Intervention

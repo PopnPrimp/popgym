@@ -10,5 +10,3 @@ As we become more organized, Pop Gym will make an effort to be transparent about
 
 * [Pop Gym By-Laws](/assets/PopGymByLaws.pdf)- An early version of the doc that says how our officers should work with one another and the org. Preliminary and DEF subject to change
                                        
-
-For more on why we do the things we do see our [Glossary/Further Reading](glossary.md) section!

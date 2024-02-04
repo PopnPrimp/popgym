@@ -3,7 +3,6 @@ title: Zines
 permalink: "/zines/"
 layout: page
 ---
-<iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>
 
 Check out some of the things we published. Right click and choose Save Link As to download:
 

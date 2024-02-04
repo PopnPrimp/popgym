@@ -55,7 +55,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 * [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up.
 * [Haven Boxing](https://havenboxing.com/) Queer gym with boxing and fitness classes for all levels
 * [Outbox](https://www.outboxgym.com/)- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes
-* [Wickwood Aikikai]](https://www.wickwoodaikido.com/)- Aikido classes in Bushwick
+* [Wickwood Aikikai](https://www.wickwoodaikido.com/)- Aikido classes in Bushwick
 
 **Manhatten**
 

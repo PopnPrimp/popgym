@@ -7,8 +7,6 @@ layout: page
 <iframe src="https://giphy.com/embed/SAMnPt3h8rjAQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jem-and-the-holograms-SAMnPt3h8rjAQ">via GIPHY</a></p>
 Check out some kewl stuff we've been featured in!
 
-<iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>
-
 #### 20 Fitness Spaces Dedicated to Inclusivity That Are Changing Gym Culture for the Better
 [Good Housekeeping, October 6th, 2020](https://www.goodhousekeeping.com/health/fitness/g34205494/inclusive-gyms-fitness-spaces/)
 

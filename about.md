@@ -17,7 +17,3 @@ We invite you to come by any of our free self-defense and de-escalation workshop
 * [Saf(er) Spaces](safe-space.md)
 * [Accountability](accountability.md)
 
-
-
-
-<iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>

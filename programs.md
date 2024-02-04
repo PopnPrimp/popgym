@@ -13,4 +13,4 @@ We offer a variety of programming at little to no cost, both for the public and 
 
 Check out our Calendar for the most up-to-date info on our events!
 
-<iframe src="https://withfriends.co/pop_gym/embed/raw:kind=Join" width="306" height="64" frameborder="0"></iframe>
+

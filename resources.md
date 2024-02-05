@@ -10,11 +10,12 @@ layout: page
 
 A list some people and placs we think are super great!
 
+This list consists of programs, gyms, and resources that have been recommended by word-of-mouth or online reviews. We platform these groups in particular due to their prioritization of making space for those of historically marginalized identities (i.e. gender, race, sexuality etc.), their having members of those identities in positions of leadership (coaches, owners), and/or their having of a politic that inspires our work in creating space for those who have been traditionally pushed out of mainstream self-defense and martial arts spaces. 
+
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
 
 ## Resources
-
 
 ### Resource In-Depth
 

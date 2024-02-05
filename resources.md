@@ -23,7 +23,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
  * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
  * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
 
-## Resource Lists (updated 2/03/2024)
+## Resource Lists (updated 2/05/2024)
 
 ### Physical Self-Defense
 
@@ -36,7 +36,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section)- Introductory self-defense classes for people of all genders
 * [Harlem Free Fight](https://harlemfreefight.org/)- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19
 * [Malikah](https://www.malikah.org/self-defense)- Grassroots anti-violence and wellness organization with self-defense programming
-* Queer Fight School (@queerfightschool on Insta)- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk
+* Queer Fight School (@queerfightschool on Insta)- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk in Queens every first Sunday
 * Queer Wrestle Grapple- Queer+ BJJ group, offering free intro classes weekly (message for deets!)
 * [Raising Health](https://www.raisinghealth.org/community-building)- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community
 * [Self-Offense](https://www.self-offense.com/personal)- "Mother/daughter black belts & entrepeneurs leading workshops in personal protection, listening & boundaries and bullying & harassment prevention"
@@ -74,10 +74,11 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 * [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view)
   * [Malikah Self-Defense Videos for Muslim Women](https://youtu.be/W4ICeEc50fU?feature=shared)
   * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217)
+* [Southpaw Pod](https://www.southpawpod.com/)- Mixed martial arts and training podcast, featuring the [Liberation Martial Arts Online](https://www.patreon.com/posts/liberation-arts-72505630) curriculum.
 * The Traction Project Publications
   * [A Self Defense Study Guide for Trans Women and GNC/Nonbinary AMAB Folks](https://www.zeffy.com/en-US/ticketing/4ded495e-cb18-48d8-8e43-a981eeda9c7f)- created by Transfighters Oakland, 
   * [For BJJ Coaches of Transgender Students](https://traction-project.org/bjjcoaches/)- Written by Scout Tran
-* Triangles Everywhere is an Queer, online BJJ community that sometimes holds events in NYC
+* [Triangles Everywhere](https://www.facebook.com/groups/340494773494481)- Queer, online BJJ community that sometimes holds events in NYC and elsewhere
 
 ### Bystander Intervention
 * [Home Alive](https://www.teachhomealive.org/resources/)- Bystander Intervention handouts and tips

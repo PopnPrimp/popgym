@@ -50,6 +50,8 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 
 #### Gyms We Like
 
+**Bronx**
+
 **Brooklyn**
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/)- MMA school in Brooklyn with some programming for Femme/NB folk
 * [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up.
@@ -57,15 +59,19 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 * [Outbox](https://www.outboxgym.com/)- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes
 * [Wickwood Aikikai](https://www.wickwoodaikido.com/)- Aikido classes in Bushwick
 
+**Long Island**
+* [Sucker Free Jiu-Jitsu](https://suckerfreejiujitsu.com/)- Brazilian Jiu-Jitsu school with classes for kids and adults
+
 **Manhatten**
+* [The Wat](https://thewat.com/)- Muay Thai and conditioning classes for adults and kids.
+* [Zombie Muay Thai](https://www.zombiemuaythai.com/)- Muay Thai, BJJ, and conditioning classes
 
 **Queens**
+* [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/)- Muay Thai and BJJ classes for kids and adults
 
-**Bronx**
-
-**Long Island**
-
-**Jersey City**
+**Gyms Outside of NYC (U.S and International)**
+*[U.S. Gyms (by State)](
+*[International Gyms (by Country)](
 
 #### Online Resources
 * [Angry Asian Wxmn](https://linktr.ee/Angryasianwomxn)- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos

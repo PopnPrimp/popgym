@@ -75,7 +75,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 *[International Gyms (by Country)]
 
 #### Online Resources
-* [Angry Asian Wxmn](https://linktr.ee/Angryasianwomxn)- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos
+* [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn)- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos
   * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view)
 * [Home Alive Self-Defense Curriculum for Teacher](https://www.teachhomealive.org/curriculum/)- Self-defense workshop outline for those interested in leading self-defense classes
 * [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view)

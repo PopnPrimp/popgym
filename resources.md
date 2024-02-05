@@ -70,8 +70,8 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/)- Muay Thai and BJJ classes for kids and adults
 
 **Gyms Outside of NYC (U.S and International)**
-*[U.S. Gyms (by State)](
-*[International Gyms (by Country)](
+*[U.S. Gyms (by State)]
+*[International Gyms (by Country)]
 
 #### Online Resources
 * [Angry Asian Wxmn](https://linktr.ee/Angryasianwomxn)- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos

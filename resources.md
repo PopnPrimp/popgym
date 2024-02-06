@@ -70,7 +70,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 **Queens**
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/)- Muay Thai and BJJ classes for kids and adults
 
-**Gyms Outside of NYC (U.S and International)**
+**Gyms and Programs Outside of NYC (U.S and International)**
 *[U.S. Gyms (by State)]
 *[International Gyms (by Country)]
 

@@ -20,8 +20,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 ### Resource In-Depth
 
 Get to know some folks on our list a bit better with these short, sweet interviews!
- * [Devilfish](/resmonth/devilfish-may-2019.md)
- * [Nola Hanson of Trans Boxing](/resmonth/nola-hanson-trans-boxing-august-2019.md)
+
+
  * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
 
 ## Resource Lists (updated 2/05/2024)
@@ -44,8 +44,9 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 * [Soar Over Hate](https://www.soaroverhate.org/)- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/) on Insta
 * [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks)- Hosts self-defense trainings for Black Women and QTPOC; [@timewegetbackhome](https://www.instagram.com/timewegetbackhome/) on Insta
 * [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/) on Insta
-* Women's Sparring NYC (@womenssparring on Insta)- Regular Muay-Thai sparring classes for women
-* Women's Training Center (@womenstrainingcenter on Insta)- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
+  * Want to know more? [Check out our interview tih Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md) 
+* Women's Sparring NYC ([@womenssparring](https://www.instagram.com/womenssparring/) on Insta)- Regular Muay-Thai sparring classes for women
+* Women's Training Center ([@womenstrainingcenter](https://www.instagram.com/womenstrainingcenter/) on Insta)- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
 
 
 #### Gyms We Like
@@ -55,6 +56,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 **Brooklyn**
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/)- MMA school in Brooklyn with some programming for Femme/NB folk
 * [Devilfish](https://www.devilfishathletics.com/)- Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up.
+  * Want to know more? [Check out our interview with Devilfish here](/resmonth/devilfish-may-2019.md)
 * [Haven Boxing](https://havenboxing.com/) Queer gym with boxing and fitness classes for all levels
 * [Outbox](https://www.outboxgym.com/)- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes
 * [Wickwood Aikikai](https://www.wickwoodaikido.com/)- Aikido classes in Bushwick

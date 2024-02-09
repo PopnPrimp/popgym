@@ -44,7 +44,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 * [Soar Over Hate](https://www.soaroverhate.org/)- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/) on Insta
 * [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks)- Hosts self-defense trainings for Black Women and QTPOC; [@timewegetbackhome](https://www.instagram.com/timewegetbackhome/) on Insta
 * [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/) on Insta
-  * Want to know more? [Check out our interview tih Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md) 
+  * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md) 
 * Women's Sparring NYC ([@womenssparring](https://www.instagram.com/womenssparring/) on Insta)- Regular Muay-Thai sparring classes for women
 * Women's Training Center ([@womenstrainingcenter](https://www.instagram.com/womenstrainingcenter/) on Insta)- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
 

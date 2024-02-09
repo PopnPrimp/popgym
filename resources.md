@@ -31,7 +31,7 @@ Get to know some folks on our list a bit better with these short, sweet intervie
 #### Programs (NYC-Based)
 
 * [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes and programs
-* Dragon Combat Club (@dragoncombatclub on Insta)- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
+* Dragon Combat Club ([@dragoncombatclub](https://www.instagram.com/dragoncombatclub/) on Insta)- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
 * Enough Self-Defense (@enough.selfdefense on Insta)- Intro to self-defense classes for Queer folks
 * Fearless Queers (@selfdefenseisgay on Intsa)- Monthly, donation based self-defense class for Queer folks
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section)- Introductory self-defense classes for people of all genders

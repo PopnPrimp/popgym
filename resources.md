@@ -17,14 +17,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ## Resources
 
-### Resource In-Depth
-
-Get to know some folks on our list a bit better with these short, sweet interviews!
-
-
- * [QTStrength NYC](/resmonth/qtstrength-interview-september-2019.md)
-
-## Resource Lists (updated 2/05/2024)
+## Resource Lists (updated 2/11/2024)
 
 ### Physical Self-Defense
 

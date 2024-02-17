@@ -38,8 +38,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks)- Hosts self-defense trainings for Black Women and QTPOC; [@timewegetbackhome](https://www.instagram.com/timewegetbackhome/) on Insta
 * [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/) on Insta
   * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md) 
-* Women's Sparring NYC ([@womenssparring](https://www.instagram.com/womenssparring/) on Insta)- Regular Muay-Thai sparring classes for women
-* Women's Training Center ([@womenstrainingcenter](https://www.instagram.com/womenstrainingcenter/) on Insta)- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
+* [Women's Sparring NYC](https://www.instagram.com/womenssparring/)- Regular Muay-Thai sparring classes for women
+* [Women's Training Center](https://www.instagram.com/womenstrainingcenter/)- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
 
 
 ### Gyms We Like

@@ -16,6 +16,9 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ## Resource List (updated 2/17/2024)
 
+* [Programs (NYC-Based)](### Programs (NYC-Based))
+* 
+
 ### Physical Self-Defense
 
 #### Programs (NYC-Based)

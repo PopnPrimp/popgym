@@ -64,11 +64,11 @@ Note: While we do our best to fully check out each resource we have listed here,
 **Queens**
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/)- Muay Thai and BJJ classes for kids and adults
 
-**Gyms and Programs Outside of NYC (U.S and International)**
+### Gyms and Programs Outside of NYC (U.S and International)**
 * [U.S. Gyms (by State)](https://cryptpad.fr/pad/#/2/pad/view/GbmrASzSuzGWLkTffGF-zU5-Z4urVDiIuP-hYjCMN8Y/)
 * [International Gyms (by Country)]
 
-#### Online Resources
+### Online Resources
 * [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn)- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos
   * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view)
 * [Home Alive Self-Defense Curriculum for Teacher](https://www.teachhomealive.org/curriculum/)- Self-defense workshop outline for those interested in leading self-defense classes
@@ -82,7 +82,7 @@ Note: While we do our best to fully check out each resource we have listed here,
   * [For BJJ Coaches of Transgender Students](https://traction-project.org/bjjcoaches/)- Written by Scout Tran
 * [Triangles Everywhere](https://www.facebook.com/groups/340494773494481)- Queer, online BJJ community that sometimes holds events in NYC and elsewhere
 
-### Bystander Intervention
+#### Bystander Intervention
 * [Home Alive](https://www.teachhomealive.org/resources/)- Bystander Intervention handouts and tips
 * [Right to Be](https://righttobe.org/bystander-intervention-training/)- Great resource for trainings on Bystander Intervention and De-Escalation strategies
 

@@ -24,9 +24,9 @@ Note: While we do our best to fully check out each resource we have listed here,
 #### Programs (NYC-Based)
 
 * [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes and programs
-* Dragon Combat Club ([@dragoncombatclub](https://www.instagram.com/dragoncombatclub/) on Insta)- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
-* Enough Self-Defense ([@enough.selfdefense](https://www.instagram.com/enough.selfdefense/) on Insta)- Intro to self-defense classes for Queer folks
-* Fearless Queers ([@selfdefenseisgay](https://www.instagram.com/selfdefenseisgay/) on Insta)- Monthly, donation based self-defense class for Queer folks
+* [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/)- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
+* [Enough Self-Defense](https://www.instagram.com/enough.selfdefense/)- Intro to self-defense classes for Queer folks
+* [Fearless Queers](https://www.instagram.com/selfdefenseisgay/)- Monthly, donation based self-defense class for Queer folks
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section)- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/) on Insta
 * [Harlem Free Fight](https://harlemfreefight.org/)- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/) on Insta
 * [Malikah](https://www.malikah.org/self-defense)- Grassroots anti-violence and wellness organization with self-defense programming; [@wearemalikah](https://www.instagram.com/wearemalikah/) on Insta
@@ -42,7 +42,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * Women's Training Center ([@womenstrainingcenter](https://www.instagram.com/womenstrainingcenter/) on Insta)- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
 
 
-#### Gyms We Like
+### Gyms We Like
 
 **Bronx**
 
@@ -65,8 +65,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/)- Muay Thai and BJJ classes for kids and adults
 
 **Gyms and Programs Outside of NYC (U.S and International)**
-*[U.S. Gyms (by State)](https://cryptpad.fr/pad/#/2/pad/view/GbmrASzSuzGWLkTffGF-zU5-Z4urVDiIuP-hYjCMN8Y/)
-*[International Gyms (by Country)]
+* [U.S. Gyms (by State)](https://cryptpad.fr/pad/#/2/pad/view/GbmrASzSuzGWLkTffGF-zU5-Z4urVDiIuP-hYjCMN8Y/)
+* [International Gyms (by Country)]
 
 #### Online Resources
 * [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn)- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos

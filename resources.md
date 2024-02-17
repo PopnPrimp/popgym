@@ -17,7 +17,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ## Resources
 
-## Resource Lists (updated 2/11/2024)
+## Resource List (updated 2/17/2024)
 
 ### Physical Self-Defense
 

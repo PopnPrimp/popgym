@@ -65,7 +65,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/)- Muay Thai and BJJ classes for kids and adults
 
 **Gyms and Programs Outside of NYC (U.S and International)**
-*[U.S. Gyms (by State)]
+*[U.S. Gyms (by State)](https://cryptpad.fr/pad/#/2/pad/view/GbmrASzSuzGWLkTffGF-zU5-Z4urVDiIuP-hYjCMN8Y/)
 *[International Gyms (by Country)]
 
 #### Online Resources

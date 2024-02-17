@@ -21,22 +21,22 @@ Note: While we do our best to fully check out each resource we have listed here,
 #### Programs (NYC-Based)
 
 * [Center for Anti-Violence Education](https://caeny.org/){:target="_blank"}- Self-Defense and De-escalation classes and programs
-* [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/)- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
-* [Enough Self-Defense](https://www.instagram.com/enough.selfdefense/)- Intro to self-defense classes for Queer folks
-* [Fearless Queers](https://www.instagram.com/selfdefenseisgay/)- Monthly, donation based self-defense class for Queer folks
-* [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section)- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/) on Insta
-* [Harlem Free Fight](https://harlemfreefight.org/)- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/) on Insta
-* [Malikah](https://www.malikah.org/self-defense)- Grassroots anti-violence and wellness organization with self-defense programming; [@wearemalikah](https://www.instagram.com/wearemalikah/) on Insta
-* Queer Fight School ([@queerfightschool](https://www.instagram.com/queerfightschool/) on Insta)- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk in Queens every first Sunday
-* [Raising Health](https://www.raisinghealth.org/community-building)- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community; [@raisinghealthpartners](https://www.instagram.com/raisinghealthpartners/) on Insta
-* [Self-Offense](https://www.self-offense.com/personal)- "Mother/daughter black belts & entrepeneurs leading workshops in personal protection, listening & boundaries and bullying & harassment prevention"; [@self_offense](https://www.instagram.com/self_offense/) on Insta.
-* [Sisters in Self-Defense](https://www.instagram.com/sisters.in.self.defense/)- "Asian American women united in self-defense training. We welcome elders and all ages of folx from our community to learn with us."
-* [Soar Over Hate](https://www.soaroverhate.org/)- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/) on Insta
-* [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks)- Hosts self-defense trainings for Black Women and QTPOC; [@timewegetbackhome](https://www.instagram.com/timewegetbackhome/) on Insta
-* [Trans Boxing](https://www.transboxing.org/)- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/) on Insta
-  * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md) 
-* [Women's Sparring NYC](https://www.instagram.com/womenssparring/)- Regular Muay-Thai sparring classes for women
-* [Women's Training Center](https://www.instagram.com/womenstrainingcenter/)- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
+* [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/){:target="_blank"}- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
+* [Enough Self-Defense](https://www.instagram.com/enough.selfdefense/){:target="_blank"}- Intro to self-defense classes for Queer folks
+* [Fearless Queers](https://www.instagram.com/selfdefenseisgay/){:target="_blank"}- Monthly, donation based self-defense class for Queer folks
+* [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section){:target="_blank"}- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/){:target="_blank"} on Insta
+* [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
+* [Malikah](https://www.malikah.org/self-defense){:target="_blank"}- Grassroots anti-violence and wellness organization with self-defense programming; [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
+* [Queer Fight School](https://www.instagram.com/queerfightschool/){:target="_blank"}- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk in Queens every first Sunday
+* [Raising Health](https://www.raisinghealth.org/community-building){:target="_blank"}- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community; [@raisinghealthpartners](https://www.instagram.com/raisinghealthpartners/){:target="_blank"} on Insta
+* [Self-Offense](https://www.self-offense.com/personal){:target="_blank"}- "Mother/daughter black belts & entrepeneurs leading workshops in personal protection, listening & boundaries and bullying & harassment prevention"; [@self_offense](https://www.instagram.com/self_offense/){:target="_blank"} on Insta.
+* [Sisters in Self-Defense](https://www.instagram.com/sisters.in.self.defense/){:target="_blank"}- "Asian American women united in self-defense training. We welcome elders and all ages of folx from our community to learn with us."
+* [Soar Over Hate](https://www.soaroverhate.org/){:target="_blank"}- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/){:target="_blank"} on Insta
+* [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks){:target="_blank"}- Hosts self-defense trainings for Black Women and QTPOC; [@timewegetbackhome](https://www.instagram.com/timewegetbackhome/){:target="_blank"} on Insta
+* [Trans Boxing](https://www.transboxing.org/){:target="_blank"}- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/){:target="_blank"} on Insta
+  * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md){:target="_blank"} 
+* [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
+* [Women's Training Center](https://www.instagram.com/womenstrainingcenter/){:target="_blank"}- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
 
 
 ### Gyms We Like

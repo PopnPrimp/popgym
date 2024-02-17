@@ -61,9 +61,9 @@ Note: While we do our best to fully check out each resource we have listed here,
 **Queens**
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/)- Muay Thai and BJJ classes for kids and adults
 
-### Gyms and Programs Outside of NYC (U.S and International)**
+### Gyms and Programs Outside of NYC (U.S and International)
 * [U.S. Gyms (by State)](https://cryptpad.fr/pad/#/2/pad/view/GbmrASzSuzGWLkTffGF-zU5-Z4urVDiIuP-hYjCMN8Y/)
-* [International Gyms (by Country)]
+* [International Gyms (by Country)]()
 
 ### Online Resources
 * [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn)- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos

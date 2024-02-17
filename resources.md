@@ -16,14 +16,11 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ## Resource List (updated 2/17/2024)
 
-* [Programs (NYC-Based)](### Programs (NYC-Based))
-* 
-
 ### Physical Self-Defense
 
 #### Programs (NYC-Based)
 
-* [Center for Anti-Violence Education](https://caeny.org/)- Self-Defense and De-escalation classes and programs
+* [Center for Anti-Violence Education](https://caeny.org/){:target="_blank"}- Self-Defense and De-escalation classes and programs
 * [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/)- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
 * [Enough Self-Defense](https://www.instagram.com/enough.selfdefense/)- Intro to self-defense classes for Queer folks
 * [Fearless Queers](https://www.instagram.com/selfdefenseisgay/)- Monthly, donation based self-defense class for Queer folks

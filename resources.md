@@ -14,9 +14,6 @@ This list consists of programs, gyms, and resources that have been recommended b
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-
-## Resources
-
 ## Resource List (updated 2/17/2024)
 
 ### Physical Self-Defense

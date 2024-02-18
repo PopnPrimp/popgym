@@ -47,41 +47,41 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 * [Devilfish](https://www.devilfishathletics.com/){:target="_blank"} - Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up; [@devilfishathletics](https://www.instagram.com/devilfishathletics/){:target="_blank"} on Insta
   * Want to know more? [Check out our interview with Devilfish here](/resmonth/devilfish-may-2019.md)
-* [Haven Boxing](https://havenboxing.com/){:target="_blank"} Queer gym with boxing and fitness classes for all levels
-* [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes
-* [Wickwood Aikikai](https://www.wickwoodaikido.com/){:target="_blank"}- Aikido classes in Bushwick
+* [Haven Boxing](https://havenboxing.com/){:target="_blank"} Queer gym with boxing and fitness classes for all levels; [@havenboxing](https://www.instagram.com/havenboxing/){:target="_blank"} on Insta
+* [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
+* [Wickwood Aikikai](https://www.wickwoodaikido.com/){:target="_blank"}- Aikido classes in Bushwick; [@wickwoodaikido](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta
 
 **Long Island**
-* [Sucker Free Jiu-Jitsu](https://suckerfreejiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu school with classes for kids and adults
+* [Sucker Free Jiu-Jitsu](https://suckerfreejiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu school with classes for kids and adults; [@suckerfreenewyork](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta
 
 **Manhatten**
-* [The Wat](https://thewat.com/){:target="_blank"}- Muay Thai and conditioning classes for adults and kids.
-* [Zombie Muay Thai](https://www.zombiemuaythai.com/){:target="_blank"}- Muay Thai, BJJ, and conditioning classes
+* [The Wat](https://thewat.com/){:target="_blank"}- Muay Thai and conditioning classes for adults and kids; [@thewatnyc](https://www.instagram.com/thewatnyc/){:target="_blank"} on Insta
+* [Zombie Muay Thai](https://www.zombiemuaythai.com/){:target="_blank"}- Muay Thai, BJJ, and conditioning classes; [@zombiemuaythai](https://www.instagram.com/zombiemuaythai/){:target="_blank"} on Insta
 
 **Queens**
-* [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults
+* [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/) on Insta
 
 ### Gyms and Programs Outside of NYC (U.S and International)
 * [U.S. Gyms (by State)](https://cryptpad.fr/pad/#/2/pad/view/GbmrASzSuzGWLkTffGF-zU5-Z4urVDiIuP-hYjCMN8Y/){:target="_blank"}
 * [International Gyms (by Country)]()
 
 ### Online Resources
-* [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn){:target="_blank"}- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos
-  * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view)
+* [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn){:target="_blank"}- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos; [@angryasianwomxn](https://www.instagram.com/angryasianwomxn/){:target="_blank"} on Insta
+  * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view){:target="_blank"}
 * [Home Alive Self-Defense Curriculum for Teacher](https://www.teachhomealive.org/curriculum/){:target="_blank"}- Self-defense workshop outline for those interested in leading self-defense classes
-* [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view)
+* [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view); [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
   * [Malikah Self-Defense Videos for Muslim Women](https://youtu.be/W4ICeEc50fU?feature=shared){:target="_blank"}
   * [Malikah Studios](https://www.instagram.com/malikahstudios/){:target="_blank"}- Self defense videos
   * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217){:target="_blank"}
-* [Southpaw Pod](https://www.southpawpod.com/){:target="_blank"}- Mixed martial arts and training podcast, featuring the [Liberation Martial Arts Online](https://www.patreon.com/posts/liberation-arts-72505630){:target="_blank"} curriculum.
-* The Traction Project Publications
+* [Southpaw Pod](https://www.southpawpod.com/){:target="_blank"}- Mixed martial arts and training podcast, featuring the [Liberation Martial Arts Online](https://www.patreon.com/posts/liberation-arts-72505630){:target="_blank"} curriculum' [@southpawpod](https://www.instagram.com/southpawpod/){:target="_blank"} on Insta
+* [The Traction Project](https://traction-project.org/){:target="_blank"} Publications ([@tractionproject](https://www.instagram.com/tractionproject/){:target="_blank"} on Insta)- 
   * [A Self Defense Study Guide for Trans Women and GNC/Nonbinary AMAB Folks](https://www.zeffy.com/en-US/ticketing/4ded495e-cb18-48d8-8e43-a981eeda9c7f){:target="_blank"}- created by Transfighters Oakland, 
   * [For BJJ Coaches of Transgender Students](https://traction-project.org/bjjcoaches/){:target="_blank"}- Written by Scout Tran
-* [Triangles Everywhere](https://www.facebook.com/groups/340494773494481){:target="_blank"}- Queer, online BJJ community that sometimes holds events in NYC and elsewhere
+* [Triangles Everywhere](https://www.facebook.com/groups/340494773494481){:target="_blank"}- Queer, online BJJ community that sometimes holds events in NYC and elsewhere; [@triangles.everywhere.bjj](https://www.instagram.com/triangles.everywhere.bjj/){:target="_blank"} on Insta
 
 #### Bystander Intervention
 * [Home Alive](https://www.teachhomealive.org/resources/){:target="_blank"}- Bystander Intervention handouts and tips
-* [Right to Be](https://righttobe.org/bystander-intervention-training/){:target="_blank"}- Great resource for trainings on Bystander Intervention and De-Escalation strategies
+* [Right to Be](https://righttobe.org/bystander-intervention-training/){:target="_blank"}- Great resource for trainings on Bystander Intervention and De-Escalation strategies; [@righttobe](https://www.instagram.com/righttobeorg/){:target="_blank"} on Insta
 
 ### Other Resources
 

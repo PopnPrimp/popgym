@@ -8,13 +8,13 @@ layout: page
             
 # Self-Defense Resources
 
-A list some people and placs we think are super great!
+A list of some people and placs we think are super great!
 
-This list consists of programs, gyms, and resources that have been recommended by word-of-mouth or online reviews. We platform these groups in particular due to their prioritization of making space for those of historically marginalized identities (i.e. gender, race, sexuality etc.), their having members of those identities in positions of leadership (coaches, owners), and/or their having of a politic that inspires our work in creating space for those who have been traditionally pushed out of mainstream self-defense and martial arts spaces. 
+This list consists of programs, gyms, and resources that have been recommended by word-of-mouth and online reviews, or from list by groups whose work inspires our own (thanks to Triangles Everywhere, Southpaw Pod, Angry Asian Womxn, and QT Combat Arts for their resources lists which helped populate ours. See their work linked below). We platform these groups due to their prioritization and centering of historically marginalized identities (i.e. Femme, LGBTQAI+, POC, Disabled etc.), their having members of those identities in positions of leadership (coaches, owners), and/or their having of a politic that inspires our work in creating space for those who have been traditionally pushed out of mainstream self-defense and martial arts spaces. 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 2/17/2024)
+## Resource List (updated 2/20/2024)
 
 ### Physical Self-Defense
 
@@ -68,6 +68,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 ### Online Resources
 * [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn){:target="_blank"}- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos; [@angryasianwomxn](https://www.instagram.com/angryasianwomxn/){:target="_blank"} on Insta
   * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view){:target="_blank"}
+  * [Angry Asian Womxn Self-Defense Links](https://linktr.ee/Angryasianwomxn){:target="_blank"}
 * [Home Alive Self-Defense Curriculum for Teacher](https://www.teachhomealive.org/curriculum/){:target="_blank"}- Self-defense workshop outline for those interested in leading self-defense classes
 * [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view); [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
   * [Malikah Self-Defense Videos for Muslim Women](https://youtu.be/W4ICeEc50fU?feature=shared){:target="_blank"}
@@ -78,6 +79,7 @@ Note: While we do our best to fully check out each resource we have listed here,
   * [A Self Defense Study Guide for Trans Women and GNC/Nonbinary AMAB Folks](https://www.zeffy.com/en-US/ticketing/4ded495e-cb18-48d8-8e43-a981eeda9c7f){:target="_blank"}- created by Transfighters Oakland, 
   * [For BJJ Coaches of Transgender Students](https://traction-project.org/bjjcoaches/){:target="_blank"}- Written by Scout Tran
 * [Triangles Everywhere](https://www.facebook.com/groups/340494773494481){:target="_blank"}- Queer, online BJJ community that sometimes holds events in NYC and elsewhere; [@triangles.everywhere.bjj](https://www.instagram.com/triangles.everywhere.bjj/){:target="_blank"} on Insta
+  * [Triangles Everywhere Gym List](https://airtable.com/applzTxanGiotFnB2/shrZHMpcWpMzJCBg5/tblmP9k1N1TWUhq7A){:target="_blank"} 
 
 #### Bystander Intervention
 * [Home Alive](https://www.teachhomealive.org/resources/){:target="_blank"}- Bystander Intervention handouts and tips

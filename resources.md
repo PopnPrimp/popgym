@@ -8,7 +8,7 @@ layout: page
             
 # Self-Defense Resources
 
-A list of some people and placs we think are super great!
+### A list of some people and placs we think are super great!
 
 This list consists of programs, gyms, and resources that have been recommended by word-of-mouth and online reviews, or from list by groups whose work inspires our own (thanks to Triangles Everywhere, Southpaw Pod, Angry Asian Womxn, and QT Combat Arts for their resources lists which helped populate ours. See their work linked below). We platform these groups due to their prioritization and centering of historically marginalized identities (i.e. Femme, LGBTQAI+, POC, Disabled etc.), their having members of those identities in positions of leadership (coaches, owners), and/or their having of a politic that inspires our work in creating space for those who have been traditionally pushed out of mainstream self-defense and martial arts spaces. 
 

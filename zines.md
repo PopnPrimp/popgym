@@ -38,7 +38,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 
       </td>
       <td>
-         <img src="/assets/aafcae.png" alt="Stay Safe from Hate Zine" width="300" height="393"><br>
+         <img src="/assets/aafcae.png" alt="Stay Safe from Hate Zine" width="200" height="262"><br>
          
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE</a><br> 
    </td>

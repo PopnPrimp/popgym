@@ -13,14 +13,14 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <br>
 
-<a href="/assets/zinesitefinal1.pdf">Pop Gym Zine #1</a> 
+<a href="/assets/zinesitefinal1.pdf">{:target="_blank"} Pop Gym Zine #1</a> 
       </td>
    <td>
    <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center>
 
 <br>
 
-<a href="/assets/zinesiteedit2.pdf">Pop Gym Zine #2</a>
+<a href="/assets/zinesiteedit2.pdf">{:target="_blank"} Pop Gym Zine #2</a>
    </td>
 </tr>
 </table>
@@ -29,18 +29,18 @@ Check out some of the things we published. Right click and choose Save Link As t
       <td>
              <img src="/assets/thebody2.png" alt="Self Defense, The Zine"><br>
        
-<a href="https://qpocma.itch.io/the-body">The Body by QPOCMA</a><br>
+<a href="https://qpocma.itch.io/the-body">{:target="_blank"} The Body by QPOCMA</a><br>
       </td>
       <td>
              <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
        
-<a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk">Self Defense Zine</a><br>
-<a href="/assets/WSDZineFinal.pdf">Self Defense Zine for Print</a> 
+<a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk">{:target="_blank"} Self Defense Zine</a><br>
+<a href="/assets/WSDZineFinal.pdf">{:target="_blank"} Self Defense Zine for Print</a> 
       </td>
       <td>
          <img src="/assets/aafcae.png" alt="Stay Safe from Hate Zine"><br>
          
-<a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf">Stay Safe from Hate by AAF and CAE</a><br> 
+<a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf">{:target="_blank"} Stay Safe from Hate by AAF and CAE</a><br> 
    </td>
 <table>
    <tr> Some fun printables to share:

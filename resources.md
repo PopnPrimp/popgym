@@ -83,6 +83,7 @@ Note: While we do our best to fully check out each resource we have listed here,
   * [Triangles Everywhere Gym List](https://airtable.com/applzTxanGiotFnB2/shrZHMpcWpMzJCBg5/tblmP9k1N1TWUhq7A){:target="_blank"} 
 
 #### Bystander Intervention
+* [De-Escalation and Grounding for Activists Revolutionaries and Everyone](https://drive.google.com/file/d/1yhoWeGRkpL-AKsxr1F2MyHS3xr3t2cTj/view?usp=drive_link){:target="_blank"}- Zine with De-Escalation Tips by KC Van Der Zee and Kang Trevens
 * [Home Alive](https://www.teachhomealive.org/resources/){:target="_blank"}- Bystander Intervention handouts and tips
 * [Right to Be](https://righttobe.org/bystander-intervention-training/){:target="_blank"}- Great resource for trainings on Bystander Intervention and De-Escalation strategies; [@righttobe](https://www.instagram.com/righttobeorg/){:target="_blank"} on Insta
 
@@ -90,6 +91,9 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 #### Know Your Rights
 * [Know Your Rights for Protestors Zine by the National Lawyers Guild](https://www.nlg.org/know-your-rights/){:target="_blank"}- Zine in English, Spanish, Arabic, and Farsi
+
+#### Mental Health
+* [Mutual Aid, Trauma, and Resiliency](https://theanarchistlibrary.org/library/the-jane-addams-collective-mutual-aid-trauma-and-resiliency)- zine on communities building resiliency and addressing PTSD by the [Jane Adams Collective](https://janeaddamscollective.wordpress.com/){:target="_blank"}
 
 
 

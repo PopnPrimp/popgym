@@ -81,7 +81,8 @@ Note: While we do our best to fully check out each resource we have listed here,
   * [A Self Defense Study Guide for Trans Women and GNC/Nonbinary AMAB Folks](https://www.zeffy.com/en-US/ticketing/4ded495e-cb18-48d8-8e43-a981eeda9c7f){:target="_blank"}- created by Transfighters Oakland, 
   * [For BJJ Coaches of Transgender Students](https://traction-project.org/bjjcoaches/){:target="_blank"}- Written by Scout Tran
 * [Triangles Everywhere](https://www.facebook.com/groups/340494773494481){:target="_blank"}- Queer, online BJJ community that sometimes holds events in NYC and elsewhere; [@triangles.everywhere.bjj](https://www.instagram.com/triangles.everywhere.bjj/){:target="_blank"} on Insta
-  * [Triangles Everywhere Gym List](https://airtable.com/applzTxanGiotFnB2/shrZHMpcWpMzJCBg5/tblmP9k1N1TWUhq7A){:target="_blank"} 
+  * [Triangles Everywhere Gym List](https://airtable.com/applzTxanGiotFnB2/shrZHMpcWpMzJCBg5/tblmP9k1N1TWUhq7A){:target="_blank"}
+* [The Yellow Whitstle](https://www.theyellowwhistle.org/){:target="_blank"}- Providers of safety whistles; [@theyellowwhistle](https://www.instagram.com/theyellowwhistle/){:target="_blank"} on Insta
 
 #### Bystander Intervention
 * [De-Escalation and Grounding for Activists Revolutionaries and Everyone](https://drive.google.com/file/d/1yhoWeGRkpL-AKsxr1F2MyHS3xr3t2cTj/view?usp=drive_link){:target="_blank"}- Zine with De-Escalation Tips by KC Van Der Zee and Kang Trevens

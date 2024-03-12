@@ -49,11 +49,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
 * [Women's Training Center](https://www.instagram.com/womenstrainingcenter/){:target="_blank"}- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
 
-
-
-
-
-
 ### Gyms We Like
 
 **Brooklyn**
@@ -80,22 +75,31 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [International Gyms (by Country)]()
 
 ### Online Resources
-* [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn){:target="_blank"}- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources and How-Tos; [@angryasianwomxn](https://www.instagram.com/angryasianwomxn/){:target="_blank"} on Insta
+
+* [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn){:target="_blank"}- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources, How-Tos, events; [@angryasianwomxn](https://www.instagram.com/angryasianwomxn/){:target="_blank"} on Insta
   * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view){:target="_blank"}
   * [Angry Asian Womxn Self-Defense Links](https://linktr.ee/Angryasianwomxn){:target="_blank"}
+    
 * [Asian American Federation x Center for Anti-Violence Education Stay Safe from Hate](https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf)- Little booklet with de-escalation and self-defense tips
+  
 * [Home Alive Self-Defense Curriculum for Teacher](https://www.teachhomealive.org/curriculum/){:target="_blank"}- Self-defense workshop outline for those interested in leading self-defense classes
+  
 * [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view); [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
   * [Malikah Self-Defense Videos](https://www.malikah.org/self-defense/){:target="_blank"}
   * [Malikah Self-Defense Zine](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view){:target="_blank"}
   * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217){:target="_blank"}
+    
 * [Off The Zone](https://www.off-the-zone.com/){:target="_blank"}- Trauma-informed online martial arts coaching for students and teachers; [@off_the_zone](https://www.instagram.com/off_the_zone/){:target="_blank"} on Insta
+
 * [Southpaw Pod](https://www.southpawpod.com/){:target="_blank"}- Mixed martial arts and training podcast, featuring the [Liberation Martial Arts Online](https://www.patreon.com/posts/liberation-arts-72505630){:target="_blank"} curriculum' [@southpawpod](https://www.instagram.com/southpawpod/){:target="_blank"} on Insta
+  
 * [The Traction Project](https://traction-project.org/){:target="_blank"} Publications ([@tractionproject](https://www.instagram.com/tractionproject/){:target="_blank"} on Insta)- 
   * [A Self Defense Study Guide for Trans Women and GNC/Nonbinary AMAB Folks](https://www.zeffy.com/en-US/ticketing/4ded495e-cb18-48d8-8e43-a981eeda9c7f){:target="_blank"}- created by Transfighters Oakland, 
   * [For BJJ Coaches of Transgender Students](https://traction-project.org/bjjcoaches/){:target="_blank"}- Written by Scout Tran
+    
 * [Triangles Everywhere](https://www.facebook.com/groups/340494773494481){:target="_blank"}- Queer, online BJJ community that sometimes holds events in NYC and elsewhere; [@triangles.everywhere.bjj](https://www.instagram.com/triangles.everywhere.bjj/){:target="_blank"} on Insta
   * [Triangles Everywhere Gym List](https://airtable.com/applzTxanGiotFnB2/shrZHMpcWpMzJCBg5/tblmP9k1N1TWUhq7A){:target="_blank"}
+    
 * [The Yellow Whitstle](https://www.theyellowwhistle.org/){:target="_blank"}- Providers of safety whistles; [@theyellowwhistle](https://www.instagram.com/theyellowwhistle/){:target="_blank"} on Insta
 
 #### Bystander Intervention
@@ -105,11 +109,14 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ### Other Resources
 
+* ![Center for Anti-Violence Education Resource Guide](/assets/CAEResourceList2023.pdf)- featuring resources on mutual aid, food access, wellness, hotlines, mental health, violence and more.
+
 #### Know Your Rights
 * [Know Your Rights for Protestors Zine by the National Lawyers Guild](https://www.nlg.org/know-your-rights/){:target="_blank"}- Zine in English, Spanish, Arabic, and Farsi
 
 #### Mental Health
 * [Mutual Aid, Trauma, and Resiliency](https://theanarchistlibrary.org/library/the-jane-addams-collective-mutual-aid-trauma-and-resiliency)- zine on communities building resiliency and addressing PTSD by the [Jane Adams Collective](https://janeaddamscollective.wordpress.com/){:target="_blank"}
+
 
 
 

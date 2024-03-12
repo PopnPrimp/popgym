@@ -25,9 +25,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Soar Over Hate](https://www.soaroverhate.org/){:target="_blank"}- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/){:target="_blank"} on Insta
 * [They Cant Burn Us All](https://www.tcbua.org/ourwork){:target="_blank"}- "a collective focused on driving impact through direct action while building solidarity and community amongst marginalized communities."; featuring their BRAV3 self-defense program; [@tcbua](https://www.instagram.com/tcbua/){:target="_blank"} on Insta
 
-#### Brazilian Jiu-Jitsu
-* [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
-
 #### General Self-Defense
 * [Center for Anti-Violence Education](https://caeny.org/){:target="_blank"}- Self-Defense and De-escalation classes and programs for adults and youth
 * [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/){:target="_blank"}- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
@@ -44,7 +41,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Trans Boxing](https://www.transboxing.org/){:target="_blank"}- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/){:target="_blank"} on Insta
   * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md){:target="_blank"} 
 
-#### Muay Thai
+#### Martial Arts Programming
+* [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
 * [Metropolitan Anarchist Coordinating Committee (MACC)](https://macc.nyc/){:target="_blank"}- Monthly community care assembly at the P.I.T featuring Muay Thai for Self-Defense; [@macc_nyc](https://www.instagram.com/macc_nyc/){:target="_blank"} on Insta
 * [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
 * [Women's Training Center](https://www.instagram.com/womenstrainingcenter/){:target="_blank"}- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
@@ -109,7 +107,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ### Other Resources
 
-* [Center for Anti-Violence Education Resource Guide](/assets/CAEResourceList2023.pdf)- featuring resources on mutual aid, food access, wellness, hotlines, mental health, violence and more.
+* [Center for Anti-Violence Education Resource Guide](/assets/CAEResourceList2023.pdf){:target="_blank"}- featuring resources on mutual aid, food access, wellness, hotlines, mental health, violence and more.
 
 #### Know Your Rights
 * [Know Your Rights for Protestors Zine by the National Lawyers Guild](https://www.nlg.org/know-your-rights/){:target="_blank"}- Zine in English, Spanish, Arabic, and Farsi

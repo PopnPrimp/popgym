@@ -20,41 +20,59 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 #### AAPI Self-Defense
 * [Sisters in Self-Defense](https://www.instagram.com/sisters.in.self.defense/){:target="_blank"}- "Asian American women united in self-defense training. We welcome elders and all ages of folx from our community to learn with us."
+
 * [Soar Over Hate](https://www.soaroverhate.org/){:target="_blank"}- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/){:target="_blank"} on Insta
   * [Heal from Hate](https://www.soaroverhate.org/single-project)- providing up to 10 free therapy sessions for victims of anti-Asian violence  
+
 * [They Cant Burn Us All](https://www.tcbua.org/ourwork){:target="_blank"}- "a collective focused on driving impact through direct action while building solidarity and community amongst marginalized communities."; featuring their BRAV3 self-defense program; [@tcbua](https://www.instagram.com/tcbua/){:target="_blank"} on Insta
 
 #### General Self-Defense
 * [Center for Anti-Violence Education](https://caeny.org/){:target="_blank"}- Self-Defense and De-escalation classes and programs for adults and youth
+
 * [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/){:target="_blank"}- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section){:target="_blank"}- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/){:target="_blank"} on Insta
+
 * [Malikah](https://www.malikah.org/self-defense){:target="_blank"}- Grassroots anti-violence and wellness organization with self-defense programming; [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
+
 * [Raising Health](https://www.raisinghealth.org/community-building){:target="_blank"}- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community; [@raisinghealthpartners](https://www.instagram.com/raisinghealthpartners/){:target="_blank"} on Insta
+
 * [Self-Offense](https://www.self-offense.com/personal){:target="_blank"}- "Mother/daughter black belts & entrepeneurs leading workshops in personal protection, listening & boundaries and bullying & harassment prevention"; [@self_offense](https://www.instagram.com/self_offense/){:target="_blank"} on Insta.
 
 #### LGBTQ+ Self-Defense Programs
 * [Enough Self-Defense](https://www.instagram.com/enough.selfdefense/){:target="_blank"}- Intro to self-defense classes for Queer folks
+
 * [Fearless Queers](https://www.instagram.com/selfdefenseisgay/){:target="_blank"}- Monthly, donation based self-defense class for Queer folks
+
 * [Queer Fight School](https://www.instagram.com/queerfightschool/){:target="_blank"}- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk in Queens every first Sunday
+
 * [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks){:target="_blank"}- Hosts self-defense trainings for Black Women and QTPOC; [@timewegetbackhome](https://www.instagram.com/timewegetbackhome/){:target="_blank"} on Insta
+
 * [Trans Boxing](https://www.transboxing.org/){:target="_blank"}- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/){:target="_blank"} on Insta
   * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md){:target="_blank"} 
 
 #### Martial Arts Programming
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
+
 * [Metropolitan Anarchist Coordinating Committee (MACC)](https://macc.nyc/){:target="_blank"}- Monthly community care assembly at the P.I.T featuring Muay Thai for Self-Defense; [@macc_nyc](https://www.instagram.com/macc_nyc/){:target="_blank"} on Insta
+
 * [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
+
 * [Women's Training Center](https://www.instagram.com/womenstrainingcenter/){:target="_blank"}- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
 
 ### Gyms We Like
 
 **Brooklyn**
 * [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitness/){:target="_blank"} - Boxing classes for youth, teens, and adults
+
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
+
 * [Devilfish](https://www.devilfishathletics.com/){:target="_blank"} - Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up; [@devilfishathletics](https://www.instagram.com/devilfishathletics/){:target="_blank"} on Insta
   * Want to know more? [Check out our interview with Devilfish here](/resmonth/devilfish-may-2019.md)
+
 * [Haven Boxing](https://havenboxing.com/){:target="_blank"} Queer gym with boxing and fitness classes for all levels; [@havenboxing](https://www.instagram.com/havenboxing/){:target="_blank"} on Insta
+
 * [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
+
 * [Wickwood Aikikai](https://www.wickwoodaikido.com/){:target="_blank"}- Aikido classes in Bushwick; [@wickwoodaikido](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta
 
 **Long Island**
@@ -62,6 +80,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 **Manhatten**
 * [The Wat](https://thewat.com/){:target="_blank"}- Muay Thai and conditioning classes for adults and kids; [@thewatnyc](https://www.instagram.com/thewatnyc/){:target="_blank"} on Insta
+
 * [Zombie Muay Thai](https://www.zombiemuaythai.com/){:target="_blank"}- Muay Thai, BJJ, and conditioning classes; [@zombiemuaythai](https://www.instagram.com/zombiemuaythai/){:target="_blank"} on Insta
 
 **Queens**
@@ -69,6 +88,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ### Gyms and Programs Outside of NYC (U.S and International)
 * [U.S. Gyms (by State)](https://cryptpad.fr/pad/#/2/pad/view/GbmrASzSuzGWLkTffGF-zU5-Z4urVDiIuP-hYjCMN8Y/){:target="_blank"}
+
 * [International Gyms (by Country)]()
 
 ### Online Resources
@@ -91,20 +111,26 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn){:target="_blank"}- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources, How-Tos, events; [@angryasianwomxn](https://www.instagram.com/angryasianwomxn/){:target="_blank"} on Insta
   * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view){:target="_blank"}
   * [Angry Asian Womxn Self-Defense Links](https://linktr.ee/Angryasianwomxn){:target="_blank"}
+
 * [Asian American Federation x Center for Anti-Violence Education Stay Safe from Hate](https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf)- Little booklet with de-escalation and self-defense tips
+
 * [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view); [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
   * [Malikah Self-Defense Videos](https://www.malikah.org/self-defense/){:target="_blank"}
   * [Malikah Self-Defense Zine](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view){:target="_blank"}
   * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217){:target="_blank"}
+
 * [The Traction Project](https://traction-project.org/){:target="_blank"} Publications ([@tractionproject](https://www.instagram.com/tractionproject/){:target="_blank"} on Insta)- 
   * [A Self Defense Study Guide for Trans Women and GNC/Nonbinary AMAB Folks](https://www.zeffy.com/en-US/ticketing/4ded495e-cb18-48d8-8e43-a981eeda9c7f){:target="_blank"}- created by Transfighters Oakland, 
   * [For BJJ Coaches of Transgender Students](https://traction-project.org/bjjcoaches/){:target="_blank"}- Written by Scout Tran
+
 * [The Yellow Whitstle](https://www.theyellowwhistle.org/){:target="_blank"}- Providers of safety whistles; [@theyellowwhistle](https://www.instagram.com/theyellowwhistle/){:target="_blank"} on Insta
 
 
 #### Bystander Intervention
 * [De-Escalation and Grounding for Activists Revolutionaries and Everyone](https://drive.google.com/file/d/1yhoWeGRkpL-AKsxr1F2MyHS3xr3t2cTj/view?usp=drive_link){:target="_blank"}- Zine with De-Escalation Tips by KC Van Der Zee and Kang Trevens
+
 * [Home Alive](https://www.teachhomealive.org/resources/){:target="_blank"}- Bystander Intervention handouts and tips
+
 * [Right to Be](https://righttobe.org/bystander-intervention-training/){:target="_blank"}- Great resource for trainings on Bystander Intervention and De-Escalation strategies; [@righttobe](https://www.instagram.com/righttobeorg/){:target="_blank"} on Insta
 
 ### Other Resources

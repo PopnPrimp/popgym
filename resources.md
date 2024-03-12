@@ -44,7 +44,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Trans Boxing](https://www.transboxing.org/){:target="_blank"}- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/){:target="_blank"} on Insta
   * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md){:target="_blank"} 
 
-##### Muay Thai
+#### Muay Thai
 * [Metropolitan Anarchist Coordinating Committee (MACC)](https://macc.nyc/){:target="_blank"}- Monthly community care assembly at the P.I.T featuring Muay Thai for Self-Defense; [@macc_nyc](https://www.instagram.com/macc_nyc/){:target="_blank"} on Insta
 * [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
 * [Women's Training Center](https://www.instagram.com/womenstrainingcenter/){:target="_blank"}- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
@@ -109,7 +109,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ### Other Resources
 
-* ![Center for Anti-Violence Education Resource Guide](/assets/CAEResourceList2023.pdf)- featuring resources on mutual aid, food access, wellness, hotlines, mental health, violence and more.
+* [Center for Anti-Violence Education Resource Guide](/assets/CAEResourceList2023.pdf)- featuring resources on mutual aid, food access, wellness, hotlines, mental health, violence and more.
 
 #### Know Your Rights
 * [Know Your Rights for Protestors Zine by the National Lawyers Guild](https://www.nlg.org/know-your-rights/){:target="_blank"}- Zine in English, Spanish, Arabic, and Farsi

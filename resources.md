@@ -68,7 +68,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 
 * [Devilfish](https://www.devilfishathletics.com/){:target="_blank"} - Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up; [@devilfishathletics](https://www.instagram.com/devilfishathletics/){:target="_blank"} on Insta
-  * Want to know more? [Check out our interview with Devilfish here](/resmonth/devilfish-may-2019.md)
+  * Want to know more? [Check out our interview with Devilfish here](/resmonth/devilfish-may-2019.md) <br/> 
 
 * [Haven Boxing](https://havenboxing.com/){:target="_blank"} Queer gym with boxing and fitness classes for all levels; [@havenboxing](https://www.instagram.com/havenboxing/){:target="_blank"} on Insta
 
@@ -111,14 +111,14 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn){:target="_blank"}- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources, How-Tos, events; [@angryasianwomxn](https://www.instagram.com/angryasianwomxn/){:target="_blank"} on Insta
   * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view){:target="_blank"}
-  * [Angry Asian Womxn Self-Defense Links](https://linktr.ee/Angryasianwomxn){:target="_blank"}
+  * [Angry Asian Womxn Self-Defense Links](https://linktr.ee/Angryasianwomxn){:target="_blank"} <br/> 
 
 * [Asian American Federation x Center for Anti-Violence Education Stay Safe from Hate](https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf)- Little booklet with de-escalation and self-defense tips
 
 * [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view); [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
   * [Malikah Self-Defense Videos](https://www.malikah.org/self-defense/){:target="_blank"}
   * [Malikah Self-Defense Zine](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view){:target="_blank"}
-  * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217){:target="_blank"}
+  * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217){:target="_blank"} <br/> 
 
 * [The Traction Project](https://traction-project.org/){:target="_blank"} Publications ([@tractionproject](https://www.instagram.com/tractionproject/){:target="_blank"} on Insta)- 
   * [A Self Defense Study Guide for Trans Women and GNC/Nonbinary AMAB Folks](https://www.zeffy.com/en-US/ticketing/4ded495e-cb18-48d8-8e43-a981eeda9c7f){:target="_blank"}- created by Transfighters Oakland, 

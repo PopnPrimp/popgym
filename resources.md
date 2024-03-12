@@ -22,7 +22,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Sisters in Self-Defense](https://www.instagram.com/sisters.in.self.defense/){:target="_blank"}- "Asian American women united in self-defense training. We welcome elders and all ages of folx from our community to learn with us."
 
 * [Soar Over Hate](https://www.soaroverhate.org/){:target="_blank"}- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/){:target="_blank"} on Insta
-  * [Heal from Hate](https://www.soaroverhate.org/single-project)- providing up to 10 free therapy sessions for victims of anti-Asian violence  
+  * [Heal from Hate](https://www.soaroverhate.org/single-project)- providing up to 10 free therapy sessions for victims of anti-Asian violence
 
 * [They Cant Burn Us All](https://www.tcbua.org/ourwork){:target="_blank"}- "a collective focused on driving impact through direct action while building solidarity and community amongst marginalized communities."; featuring their BRAV3 self-defense program; [@tcbua](https://www.instagram.com/tcbua/){:target="_blank"} on Insta
 
@@ -30,6 +30,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Center for Anti-Violence Education](https://caeny.org/){:target="_blank"}- Self-Defense and De-escalation classes and programs for adults and youth
 
 * [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/){:target="_blank"}- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
+  
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section){:target="_blank"}- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/){:target="_blank"} on Insta
 
 * [Malikah](https://www.malikah.org/self-defense){:target="_blank"}- Grassroots anti-violence and wellness organization with self-defense programming; [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta

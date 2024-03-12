@@ -22,7 +22,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Sisters in Self-Defense](https://www.instagram.com/sisters.in.self.defense/){:target="_blank"}- "Asian American women united in self-defense training. We welcome elders and all ages of folx from our community to learn with us."
 
 * [Soar Over Hate](https://www.soaroverhate.org/){:target="_blank"}- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/){:target="_blank"} on Insta
-  * [Heal from Hate](https://www.soaroverhate.org/single-project)- providing up to 10 free therapy sessions for victims of anti-Asian violence <br/> 
+  * [Heal from Hate](https://www.soaroverhate.org/single-project)- providing up to 10 free therapy sessions for victims of anti-Asian violence
+ 
 
 * [They Cant Burn Us All](https://www.tcbua.org/ourwork){:target="_blank"}- "a collective focused on driving impact through direct action while building solidarity and community amongst marginalized communities."; featuring their BRAV3 self-defense program; [@tcbua](https://www.instagram.com/tcbua/){:target="_blank"} on Insta
 
@@ -69,6 +70,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Devilfish](https://www.devilfishathletics.com/){:target="_blank"} - Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up; [@devilfishathletics](https://www.instagram.com/devilfishathletics/){:target="_blank"} on Insta
   * Want to know more? [Check out our interview with Devilfish here](/resmonth/devilfish-may-2019.md) <br/> 
+
+
 
 * [Haven Boxing](https://havenboxing.com/){:target="_blank"} Queer gym with boxing and fitness classes for all levels; [@havenboxing](https://www.instagram.com/havenboxing/){:target="_blank"} on Insta
 

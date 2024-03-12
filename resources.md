@@ -16,9 +16,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ## Resource List (updated 3/11/2024)
 
-### Physical Self-Defense
-
-### Programs (NYC-Based)
+### Physical Self-Defense Programs (NYC-Based)
 
 #### AAPI Self-Defense
 * [Sisters in Self-Defense](https://www.instagram.com/sisters.in.self.defense/){:target="_blank"}- "Asian American women united in self-defense training. We welcome elders and all ages of folx from our community to learn with us."

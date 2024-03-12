@@ -18,17 +18,17 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ### Physical Self-Defense
 
-#### Programs (NYC-Based)
+### Programs (NYC-Based)
 
-##### AAPI Self-Defense
+#### AAPI Self-Defense
 * [Sisters in Self-Defense](https://www.instagram.com/sisters.in.self.defense/){:target="_blank"}- "Asian American women united in self-defense training. We welcome elders and all ages of folx from our community to learn with us."
 * [Soar Over Hate](https://www.soaroverhate.org/){:target="_blank"}- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/){:target="_blank"} on Insta
 * [They Cant Burn Us All](https://www.tcbua.org/ourwork){:target="_blank"}- "a collective focused on driving impact through direct action while building solidarity and community amongst marginalized communities."; featuring their BRAV3 self-defense program; [@tcbua](https://www.instagram.com/tcbua/){:target="_blank"} on Insta
 
-##### Brazilian Jiu-Jitsu
+#### Brazilian Jiu-Jitsu
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
 
-##### General Self-Defense
+#### General Self-Defense
 * [Center for Anti-Violence Education](https://caeny.org/){:target="_blank"}- Self-Defense and De-escalation classes and programs for adults and youth
 * [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/){:target="_blank"}- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section){:target="_blank"}- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/){:target="_blank"} on Insta
@@ -36,7 +36,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Raising Health](https://www.raisinghealth.org/community-building){:target="_blank"}- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community; [@raisinghealthpartners](https://www.instagram.com/raisinghealthpartners/){:target="_blank"} on Insta
 * [Self-Offense](https://www.self-offense.com/personal){:target="_blank"}- "Mother/daughter black belts & entrepeneurs leading workshops in personal protection, listening & boundaries and bullying & harassment prevention"; [@self_offense](https://www.instagram.com/self_offense/){:target="_blank"} on Insta.
 
-##### LGBTQ+ Self-Defense Programs
+#### LGBTQ+ Self-Defense Programs
 * [Enough Self-Defense](https://www.instagram.com/enough.selfdefense/){:target="_blank"}- Intro to self-defense classes for Queer folks
 * [Fearless Queers](https://www.instagram.com/selfdefenseisgay/){:target="_blank"}- Monthly, donation based self-defense class for Queer folks
 * [Queer Fight School](https://www.instagram.com/queerfightschool/){:target="_blank"}- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk in Queens every first Sunday

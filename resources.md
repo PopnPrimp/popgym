@@ -71,8 +71,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Devilfish](https://www.devilfishathletics.com/){:target="_blank"} - Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up; [@devilfishathletics](https://www.instagram.com/devilfishathletics/){:target="_blank"} on Insta
   * Want to know more? [Check out our interview with Devilfish here](/resmonth/devilfish-may-2019.md) <br/> 
 
-
-
 * [Haven Boxing](https://havenboxing.com/){:target="_blank"} Queer gym with boxing and fitness classes for all levels; [@havenboxing](https://www.instagram.com/havenboxing/){:target="_blank"} on Insta
 
 * [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
@@ -109,6 +107,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Off The Zone](https://www.off-the-zone.com/){:target="_blank"}- Trauma-informed online martial arts coaching for students and teachers; [@off_the_zone](https://www.instagram.com/off_the_zone/){:target="_blank"} on Insta
 
 * [Southpaw Pod](https://www.southpawpod.com/){:target="_blank"}- Mixed martial arts and training podcast, featuring the [Liberation Martial Arts Online](https://www.patreon.com/posts/liberation-arts-72505630){:target="_blank"} curriculum' [@southpawpod](https://www.instagram.com/southpawpod/){:target="_blank"} on Insta
+
+* [Women Empowered GJJ](https://www.gracieuniversity.com/Pages/Public/Course?enc=2Wpye7aCW%2fzTwyl3Hu8Kaw%3d%3d){:target="_blank"}- BJJ self-defense online course for women
 
 #### Self-Defense Guides and Equipment
 

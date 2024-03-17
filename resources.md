@@ -53,6 +53,8 @@ Note: While we do our best to fully check out each resource we have listed here,
   * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md){:target="_blank"} 
 
 #### Martial Arts Programming
+* [Black Men Build NYC Boxing Club](https://linktr.ee/bmbnyc){:target="_blank"}- "All ages welcome! Free for all registered participants. Gear will be provided, or bring your own. BMB NYC hosts our free community boxing program every 2nd and last Wednesday of the month at The Black Men Build NYC Hub."; [@blackmenbuildnyc](https://www.instagram.com/blackmenbuildnyc/){:target="_blank"} on Insta
+
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
 
 * [Metropolitan Anarchist Coordinating Committee (MACC)](https://macc.nyc/){:target="_blank"}- Monthly community care assembly at the P.I.T featuring Muay Thai for Self-Defense; [@macc_nyc](https://www.instagram.com/macc_nyc/){:target="_blank"} on Insta

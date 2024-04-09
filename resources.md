@@ -92,7 +92,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/) on Insta
 
 ### Gyms and Programs Outside of NYC (U.S and International)
-* [U.S. Gyms (by State)](https://cryptpad.fr/pad/#/2/pad/view/GbmrASzSuzGWLkTffGF-zU5-Z4urVDiIuP-hYjCMN8Y/){:target="_blank"}
+* [U.S. Gyms (by State)]()
 
 * [International Gyms (by Country)]()
 

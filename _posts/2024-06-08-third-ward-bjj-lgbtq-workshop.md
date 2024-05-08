@@ -4,7 +4,7 @@ date: 2024-06-08 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Third Ward BJJ (in collaboration with Pop Gym) will be hosting a LGBTQ Self-Defense workshop at Outbox
+subtitle: Third Ward BJJ, in collaboration with Pop Gym, will be hosting a LGBTQ Self-Defense workshop at Outbox
 ---
 
 ![Third Ward BJJ at outbox](/assets/ThirdWardOutboxFlyer.png)

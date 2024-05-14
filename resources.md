@@ -23,6 +23,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Soar Over Hate](https://www.soaroverhate.org/){:target="_blank"}- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/){:target="_blank"} on Insta
   * [Heal from Hate](https://www.soaroverhate.org/single-project)- providing up to 10 free therapy sessions for victims of anti-Asian violence
+  * [Intro to Self-Defense Zine](https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=sharing)- Printable version. See instructions on how to assemble [here](https://drive.google.com/file/d/1_qDYg0gzuhucGsC7Uo2WQGb3bo7Y7-Cy/view?usp=sharing)
   * [Partner with Soar Over Hate for a Workshop](https://docs.google.com/forms/d/e/1FAIpQLSf2nA23M4VmVoWMnbkFfheRAKTkh8rtJEG5jx745ToaKT27pw/viewform){:target="_blank"}- Sign up form for organizations interested in setting up a workshop
  
 
@@ -120,6 +121,8 @@ Note: While we do our best to fully check out each resource we have listed here,
   * [Malikah Self-Defense Videos](https://www.malikah.org/self-defense/){:target="_blank"}
   * [Malikah Self-Defense Zine](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view){:target="_blank"}
   * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217){:target="_blank"} <br/> 
+
+* [Soar Over Hate Intro to Self-Defense Zine](https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=sharing)- Printable version. See instructions on how to assemble [here](https://drive.google.com/file/d/1_qDYg0gzuhucGsC7Uo2WQGb3bo7Y7-Cy/view?usp=sharing)
 
 * [The Traction Project](https://traction-project.org/){:target="_blank"} Publications ([@tractionproject](https://www.instagram.com/tractionproject/){:target="_blank"} on Insta)- 
   * [A Self Defense Study Guide for Trans Women and GNC/Nonbinary AMAB Folks](https://www.zeffy.com/en-US/ticketing/4ded495e-cb18-48d8-8e43-a981eeda9c7f){:target="_blank"}- created by Transfighters Oakland, 

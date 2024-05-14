@@ -91,11 +91,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 **Queens**
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/) on Insta
 
-### Gyms and Programs Outside of NYC (U.S and International)
-* [U.S. Gyms (by State)]()
-
-* [International Gyms (by Country)]()
-
 ### Online Resources
 
 #### Community

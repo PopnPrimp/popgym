@@ -7,7 +7,7 @@ layout: post
 subtitle: We'll be tabeling at two great events in early June!
 ---
 
-![Haven Anniverary](/assets/ThirdWardOutboxFlyer.png)![Punk Island 2024](/assets/ThirdWardOutboxFlyer.png)
+![Haven Anniverary](/assets/HavenAnniverary.png)![Punk Island 2024](/assets/PunkIsland2024ZineFest.png)
 
 Hey!
 

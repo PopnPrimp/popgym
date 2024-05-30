@@ -79,6 +79,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Jao Maa Brazilian Jiu-Jitsu](https://www.jao-maa.com/){:target="_blank"}- Brazilian Jiu-Jitsu, classes for kids and adults; [@jmabkny](https://www.instagram.com/jmabkny/){:target="_blank"}
 
+* [Jade Fortress](https://www.jfma.space/){:target="_blank"}- Brazilian Jiu-Jistu classes; [@jadefortress](https://www.instagram.com/jadefortress/){:target="_blank"} on Insta
+
 * [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
 
 * [Wickwood Aikikai](https://www.wickwoodaikido.com/){:target="_blank"}- Aikido classes in Bushwick; [@wickwoodaikido](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta

@@ -58,7 +58,7 @@ Check out some of the things we published. Right click and choose Save Link As t
  <td>
          <img src="/assets/SOHlogo.png" alt="Angry Asian Womxn Logo" width="200" height="200"><br>
 
-<a href="https://linktr.ee/aawsubwayguide" target="_blank" rel="noopener noreferrer">Angy Asian Womxn Zine (English, Arabic, Bengali, Chinese, Hindi, Punjabi, Urdu</a><br> 
+<a href="https://linktr.ee/aawsubwayguide" target="_blank" rel="noopener noreferrer">Angy Asian Womxn Zine (English, Arabic, Bengali, Chinese, Hindi, Punjabi, Urdu)</a><br> 
    </td>
 
    <td>

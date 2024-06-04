@@ -60,6 +60,12 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <a href="https://linktr.ee/aawsubwayguide" target="_blank" rel="noopener noreferrer">Angy Asian Womxn Zine (English, Arabic, Bengali, Chinese, Hindi, Punjabi, Urdu</a><br> 
    </td>
+
+    <td>
+         <img src="/assets/SOHlogo.png" alt="Angry Asian Womxn Logo" width="200" height="200"><br>
+
+<a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-screen-reading.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club</a><br> 
+   </td>
    
 <table>
    <tr> Some fun printables to share:

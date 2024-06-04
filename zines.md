@@ -16,7 +16,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
       </td>
    <td>
-   <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center>
+   <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center> 
 
 <br>
 
@@ -53,6 +53,12 @@ Check out some of the things we published. Right click and choose Save Link As t
          <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="200" height="200"><br>
 
 <a href="https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Soar Over Hate Zine</a><br> 
+   </td>
+
+ <td>
+         <img src="/assets/SOHlogo.png" alt="Angry Asian Womxn Logo" width="200" height="200"><br>
+
+<a href="https://linktr.ee/aawsubwayguide" target="_blank" rel="noopener noreferrer">Angy Asian Womxn Zine (English, Arabic, Bengali, Chinese, Hindi, Punjabi, Urdu</a><br> 
    </td>
    
 <table>

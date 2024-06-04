@@ -42,9 +42,6 @@ Check out some of the things we published. Right click and choose Save Link As t
          
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE</a><br> 
    </td>
-   
-<a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE</a><br> 
-   </td>
 
 <a href="[https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view?usp=sharing)" target="_blank" rel="noopener noreferrer">MALIKAH Self-Defense Zine</a><br> 
    </td>

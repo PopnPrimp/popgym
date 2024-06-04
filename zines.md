@@ -48,6 +48,12 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <a href="https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view?usp=sharing" target="_blank" rel="noopener noreferrer">MALIKAH Self-Defense Zine</a><br> 
    </td>
+
+ <td>
+         <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="200" height="200"><br>
+
+<a href="https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Soar Over Hate Zine</a><br> 
+   </td>
    
 <table>
    <tr> Some fun printables to share:

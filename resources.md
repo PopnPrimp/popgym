@@ -116,10 +116,10 @@ Note: While we do our best to fully check out each resource we have listed here,
 #### Self-Defense Guides and Equipment
 
 * [Angry Asian Womxn](https://linktr.ee/Angryasianwomxn){:target="_blank"}- Safety, wellness + community 4 Asian Pacific Islander and Arab women, femmes and gender expansive folks. See link for great self-defense resources, How-Tos, events; [@angryasianwomxn](https://www.instagram.com/angryasianwomxn/){:target="_blank"} on Insta
-  * [NYC Subway Safety Guide](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view){:target="_blank"}
+  * [NYC Subway Safety Guide (English, Arabic, Bengali, Chinese, Hindi, Punjabi, Urdu)](https://drive.google.com/file/d/1CIpU1G02Nt8pPznWIL65kuo-MwmJSRbl/view){:target="_blank"}
   * [Angry Asian Womxn Self-Defense Links](https://linktr.ee/Angryasianwomxn){:target="_blank"} <br/> 
 
-* [Asian American Federation x Center for Anti-Violence Education Stay Safe from Hate](https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf)- Little booklet with de-escalation and self-defense tips
+* [Asian American Federation x Center for Anti-Violence Education Stay Safe from Hate (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)](https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf)- Little booklet with de-escalation and self-defense tips
 
 * [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view); [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
   * [Malikah Self-Defense Videos](https://www.malikah.org/self-defense/){:target="_blank"}

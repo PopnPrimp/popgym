@@ -37,15 +37,15 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk" target="_blank" rel="noopener noreferrer">Self Defense Zine</a><br>
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 
       </td>
-</table>
-<table>
       <td>
          <img src="/assets/aafcae.png" alt="Stay Safe from Hate Zine" width="200" height="262"><br>
-
 
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)</a><br> 
    </td>
 
+</table>
+<table>
+   
  <td>
          <img src="/assets/MalikahLogo.png" alt="Malikah Logo" width="200" height="200"><br>
 

@@ -77,7 +77,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Haven Boxing](https://havenboxing.com/){:target="_blank"} Queer gym with boxing and fitness classes for all levels; [@havenboxing](https://www.instagram.com/havenboxing/){:target="_blank"} on Insta
 
-* [Jao Maa Brazilian Jiu-Jitsu](https://www.jao-maa.com/){:target="_blank"}- Brazilian Jiu-Jitsu, classes for kids and adults; [@jmabkny](https://www.instagram.com/jmabkny/){:target="_blank"}
+* [Jao Maa Brazilian Jiu-Jitsu](https://www.jao-maa.com/){:target="_blank"}- Brazilian Jiu-Jitsu, classes for kids and adults; [@jmabkny](https://www.instagram.com/jmabkny/){:target="_blank"} on Insta
 
 * [Jade Fortress](https://www.jfma.space/){:target="_blank"}- Brazilian Jiu-Jistu classes; [@jadefortress](https://www.instagram.com/jadefortress/){:target="_blank"} on Insta
 

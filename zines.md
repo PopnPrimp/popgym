@@ -32,7 +32,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://qpocma.itch.io/the-body" target="_blank" rel="noopener noreferrer">The Body by QPOCMA</a><br>
       </td>
       <td>
-             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine"><br>
+             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="250" height="200">><br>
        
 <a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk" target="_blank" rel="noopener noreferrer">Self Defense Zine</a><br>
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 
@@ -47,13 +47,13 @@ Check out some of the things we published. Right click and choose Save Link As t
 <table>
    
  <td>
-         <img src="/assets/MalikahLogo.png" alt="Malikah Logo" width="250" height="200"><br>
+         <img src="/assets/MalikahLogo.png" alt="Malikah Logo" width="300" height="200"><br>
 
 <a href="https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view?usp=sharing" target="_blank" rel="noopener noreferrer">MALIKAH Self-Defense Zine</a><br> 
    </td>
 
  <td>
-         <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="220" height="220"><br>
+         <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="300" height="220"><br>
 
 <a href="https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Soar Over Hate Zine</a><br> 
    </td>

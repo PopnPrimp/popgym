@@ -39,7 +39,9 @@ Check out some of the things we published. Right click and choose Save Link As t
       </td>
       <td>
          <img src="/assets/aafcae.png" alt="Stay Safe from Hate Zine" width="200" height="262"><br>
-         
+
+</table>
+<table>
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)</a><br> 
    </td>
 
@@ -64,10 +66,13 @@ Check out some of the things we published. Right click and choose Save Link As t
    <td>
          <img src="/assets/SOHlogo.png" alt="Angry Asian Womxn Logo" width="200" height="200"><br>
 
+</table>
+
+<table>
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-screen-reading.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club</a><br> 
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club Printable</a><br> 
    </td>
-   
+</table>table>
 <table>
    <tr> Some fun printables to share:
       <td>

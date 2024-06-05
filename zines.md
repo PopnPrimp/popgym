@@ -68,7 +68,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <table>
    <td>
-         <img src="/assets/balagoonzinelogo.png" alt="Balagoon Boxing Club Logo" width="200" height="200"><br>
+         <img src="/assets/balagoonzinelogo.png" alt="Balagoon Boxing Club Logo" width="200" height="250"><br>
 
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-screen-reading.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club</a><br> 
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club Printable</a><br> 

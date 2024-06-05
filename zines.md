@@ -65,6 +65,7 @@ Check out some of the things we published. Right click and choose Save Link As t
          <img src="/assets/SOHlogo.png" alt="Angry Asian Womxn Logo" width="200" height="200"><br>
 
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-screen-reading.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club</a><br> 
+<a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club Printable</a><br> 
    </td>
    
 <table>
@@ -84,7 +85,5 @@ Check out some of the things we published. Right click and choose Save Link As t
    </tr>
 </table>
 
-
-</p>
 
 

@@ -47,7 +47,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <table>
    
  <td>
-         <img src="/assets/MalikahLogo.png" alt="Malikah Logo" width="220" height="200"><br>
+         <img src="/assets/MalikahLogo.png" alt="Malikah Logo" width="250" height="200"><br>
 
 <a href="https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view?usp=sharing" target="_blank" rel="noopener noreferrer">MALIKAH Self-Defense Zine</a><br> 
    </td>

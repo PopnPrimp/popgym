@@ -53,7 +53,7 @@ Check out some of the things we published. Right click and choose Save Link As t
    </td>
 
  <td>
-         <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="250" height="250"><br>
+         <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="220" height="220"><br>
 
 <a href="https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Soar Over Hate Zine</a><br> 
    </td>

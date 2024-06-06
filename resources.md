@@ -47,7 +47,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Fearless Queers](https://www.instagram.com/selfdefenseisgay/){:target="_blank"}- Monthly, donation based self-defense class for Queer folks
 
-* [Queer Fight School](https://www.instagram.com/queerfightschool/){:target="_blank"}- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk in Queens every first Sunday
+* [Queer Fight School](https://www.instagram.com/queerfightschool/){:target="_blank"}- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk
 
 * [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks){:target="_blank"}- Hosts self-defense trainings for Black Women and QTPOC; [@timewegetbackhome](https://www.instagram.com/timewegetbackhome/){:target="_blank"} on Insta
 

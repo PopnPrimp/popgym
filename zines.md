@@ -73,6 +73,12 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-screen-reading.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club</a><br> 
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club Printable</a><br> 
    </td>
+   <td>
+         <img src="/assets/dcclogo.png" alt="DCC Logo" width="200" height="250"><br>
+
+<a href="/assets/DCC-Leaflet.pdf" target="_blank" rel="noopener noreferrer">Dragon Combat Club Zine</a><br> 
+
+   </td>
 </table>
 <table>
    <tr> Some fun printables to share:

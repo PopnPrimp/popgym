@@ -71,10 +71,9 @@ Note: While we do our best to fully check out each resource we have listed here,
 **Brooklyn**
 * [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitness/){:target="_blank"} - Boxing classes for youth, teens, and adults
 
-* [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
+* [Big Bear Muay Thai](https://www.instagram.com/bigbearmuaythai/){:target="_blank"}- Muay Thai classes in Bed-Stuy
 
-* [Devilfish](https://www.devilfishathletics.com/){:target="_blank"} - Muay Thai classes available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up; [@devilfishathletics](https://www.instagram.com/devilfishathletics/){:target="_blank"} on Insta
-  * Want to know more? [Check out our interview with Devilfish here](/resmonth/devilfish-may-2019.md) <br/> 
+* [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 
 * [Haven Boxing](https://havenboxing.com/){:target="_blank"} Queer gym with boxing and fitness classes for all levels; [@havenboxing](https://www.instagram.com/havenboxing/){:target="_blank"} on Insta
 

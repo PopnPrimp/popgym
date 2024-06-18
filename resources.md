@@ -108,7 +108,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 #### Curriculum
 
-* Balagon Boxing Club- Reflections and curriculum for starting a grassroots Muay Thai program
+* Balagoon Boxing Club- Reflections and curriculum for starting a grassroots Muay Thai program
    * [Readable Version](https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-screen-reading.pdf){:target="_blank"}
    * [Printable Version](https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf){:target="_blank"}
 

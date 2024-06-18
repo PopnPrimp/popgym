@@ -153,11 +153,12 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Center for Anti-Violence Education Resource Guide](/assets/CAEResourceList2023.pdf){:target="_blank"}- featuring resources on mutual aid, food access, wellness, hotlines, mental health, violence and more.
 
-* [NYC Domestice and Gender-Based Violence Support](https://www.nyc.gov/site/hra/help/domestic-violence-support.page)- Resources for victims of human trafficking, survivors of sexual violence, LGBTQ+ and teens.
-
 * [Know Your Rights for Protestors Zine by the National Lawyers Guild](https://www.nlg.org/know-your-rights/){:target="_blank"}- Zine in English, Spanish, Arabic, and Farsi
 
 * [Mutual Aid, Trauma, and Resiliency](https://theanarchistlibrary.org/library/the-jane-addams-collective-mutual-aid-trauma-and-resiliency)- zine on communities building resiliency and addressing PTSD by the [Jane Adams Collective](https://janeaddamscollective.wordpress.com/){:target="_blank"}
+
+* [NYC Domestic and Gender-Based Violence Support](https://www.nyc.gov/site/hra/help/domestic-violence-support.page)- Resources for victims of human trafficking, survivors of sexual violence, LGBTQ+ and teens.
+
 
 
 

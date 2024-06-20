@@ -9,7 +9,7 @@ subtitle: Catch us for a table and workshop at Purgatory on 6/22
 
 ![Purgatory Street Day](/assets/PURGRIDEFINALPOSTER.jpg)
 
-Come out to Purgatory's Big Queer Street Day for a ton of event, including a self-defense workshop from us at 2 PM!
+Come out to Purgatory's Big Queer Street Day for a ton of event, including a self-defense workshop from us at 6 PM!
 
 Plus we'll be tabeling all day and handing out self-defense resources
 

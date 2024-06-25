@@ -33,7 +33,12 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Center for Anti-Violence Education](https://caeny.org/){:target="_blank"}- Self-Defense and De-escalation classes and programs for adults and youth
 
 * [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/){:target="_blank"}- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
-    * <a href="/assets/DCC-LEAFLET.pdf" target="_blank" rel="noopener noreferrer">Check out their self-defense zine here </a><br> 
+    * <a href="/assets/DCCBilingualLEAFLETv2.pdf" target="_blank" rel="noopener noreferrer">Check out their self-defense zine here </a><br>
+    * <a href="https://youtu.be/Kbu94pawEAA?feature=shared" target="_blank" rel="noopener noreferrer">Drawing Self-Defense Tools Instructional </a><br>
+    * <a href="https://youtu.be/Vdj5w32ezC4?feature=shared" target="_blank" rel="noopener noreferrer">Pepper Spray Instructional </a><br>
+     * <a href="/assets/https://youtu.be/JW-Wo7DE4RE?feature=shared" target="_blank" rel="noopener noreferrer">Reflex Game</a><br>
+  
+    
   
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section){:target="_blank"}- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/){:target="_blank"} on Insta
 

@@ -36,7 +36,7 @@ Note: While we do our best to fully check out each resource we have listed here,
     * <a href="/assets/DCCBilingualLEAFLETv2.pdf" target="_blank" rel="noopener noreferrer">Check out their self-defense zine here </a><br>
     * <a href="https://youtu.be/Kbu94pawEAA?feature=shared" target="_blank" rel="noopener noreferrer">Drawing Self-Defense Tools Instructional </a><br>
     * <a href="https://youtu.be/Vdj5w32ezC4?feature=shared" target="_blank" rel="noopener noreferrer">Pepper Spray Instructional </a><br>
-     * <a href="/assets/https://youtu.be/JW-Wo7DE4RE?feature=shared" target="_blank" rel="noopener noreferrer">Reflex Game</a><br>
+     * <a href="https://youtu.be/JW-Wo7DE4RE?feature=shared" target="_blank" rel="noopener noreferrer">Reflex Game</a><br>
   
     
   

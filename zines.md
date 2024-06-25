@@ -76,7 +76,7 @@ Check out some of the things we published. Right click and choose Save Link As t
    <td>
          <img src="/assets/dcclogo.png" alt="DCC Logo" width="250" height="250"><br>
 
-<a href="/assets/DCC-LEAFLET.pdf" target="_blank" rel="noopener noreferrer">Dragon Combat Club Zine</a><br> 
+<a href="/assets/DCCBilingualLEAFLETv2.pdf" target="_blank" rel="noopener noreferrer">Dragon Combat Club Zine</a><br> 
 
    </td>
 </table>

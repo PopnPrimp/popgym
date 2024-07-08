@@ -125,8 +125,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [The Traction Project](https://traction-project.org/){:target="_blank"} Publications ([@tractionproject](https://www.instagram.com/tractionproject/){:target="_blank"} on Insta)- 
   * [For BJJ Coaches of Transgender Students](https://traction-project.org/bjjcoaches/){:target="_blank"}- Written by Scout Tran
-  * [Running Your Own Classes]([https://traction-project.org/bjjcoaches/](https://traction-project.org/training-protocol-class-management/)){:target="_blank"}
-  * [Self-Defense Curriculum & Class Guides]([https://traction-project.org/bjjcoaches/](https://traction-project.org/self-defense-curriculum-glass-guide/)){:target="_blank"}
+  * [Running Your Own Classes](https://traction-project.org/training-protocol-class-management/){:target="_blank"}
+  * [Self-Defense Curriculum & Class Guides](https://traction-project.org/self-defense-curriculum-glass-guide/){:target="_blank"}
   
 * [Women Empowered BJJ](https://www.gracieuniversity.com/Pages/Public/Course?enc=2Wpye7aCW%2fzTwyl3Hu8Kaw%3d%3d){:target="_blank"}- BJJ self-defense online course for women
 

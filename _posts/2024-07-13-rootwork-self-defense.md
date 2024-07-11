@@ -11,4 +11,8 @@ subtitle: Free Pop-Up self-defense workshops for kids and adults at Rootwork wit
 
 We'll be joining the Crown Heights Care Collective for TWO workshops (one for kids one for adults) as part of their Rootwork Series on 7/13 from 1-4 PM!
 
+Adult Workshop: 1-2 PM
+
+Teen Workshop: 2:30-3:30 PM
+
 Join our instructors Carlos (Enough Self-Defense) and Rich (Harlem Free Fight) for two workshops geared toward beginners who want to UP their self-defense game.

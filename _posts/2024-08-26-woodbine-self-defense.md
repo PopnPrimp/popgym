@@ -1,10 +1,10 @@
 ---
-title: Woodbine Strenght Presents: Free Self-Defense Workshop
+title: Woodbine Strength present Free Self-Defense Workshop
 date: 2024-08-05 00:00:00 Z
 categories:
 - update
 layout: post
-subtitle: Free Pop Up Workshop on 8/26 at Woodbine!
+subtitle: Free Pop Up Workshop on 8/5 at Woodbine!
 ---
 
 ![Woodbine Strenght Workshop](/assets/PopGymxWoodbine.png)

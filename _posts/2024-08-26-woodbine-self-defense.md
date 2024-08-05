@@ -9,6 +9,8 @@ subtitle: Free Pop Up Workshop on 8/26 at Woodbine!
 
 ![Woodbine Strenght Workshop](/assets/PopGymxWoodbine.png)
 
+Note: Participants are asked to mask for this event.
+
 Join us for a free intro self-defense workshop at Woodbine
 
 We’ll be covering the basics: stretching, conditioning, technique, and theory, with the hope that participants will leave with some super useful foundations that will aid them in the day-to-day.

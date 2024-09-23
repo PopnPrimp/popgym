@@ -76,7 +76,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 **Brooklyn**
 * [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitness/){:target="_blank"} - Boxing classes for youth, teens, and adults
 
-* [Big Bear Muay Thai](https://www.instagram.com/bigbearmuaythai/){:target="_blank"}- Muay Thai classes in Bed-Stuy
+* [Big Bear Muay Thai](https://www.instagram.com/bigbearmuaythai/){:target="_blank"}- Muay Thai classes in Bed-Stuy. Connected to Vagabond BJJ
 
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 
@@ -92,6 +92,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
 
 *  [UMA Brooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"}- BJJ, Muay Thai, Boxing, Jeet Kun Do, Capoiera and other martial arts classes for adults and kids; [@umabrooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"} on Insta
+
+*  [Vagabond BJJ](https://www.vagabondbjjbrooklyn.com/){:target="_blank"}- BJJ classes in Bedstuy. Connected to Big Bear Muay Thai; [@vagabondbjjbrooklyn](https://www.instagram.com/vagabondbjjbrooklyn/){:target="_blank"} on Insta
 
 * [Wickwood Aikikai](https://www.wickwoodaikido.com/){:target="_blank"}- Aikido classes in Bushwick; [@wickwoodaikido](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta
 

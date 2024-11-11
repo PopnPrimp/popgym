@@ -55,6 +55,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Queer Fight School](https://www.instagram.com/queerfightschool/){:target="_blank"}- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk
 
+* [Queer Martial Arts](https://www.instagram.com/queermartialarts/){:target="_blank"}- Pencak Silat classes for queers at the Brooklyn Community Pride Center, Tuesdays 6 - 7:30pm
+
 * [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks){:target="_blank"}- Hosts self-defense trainings for Black Women and QTPOC; [@timewegetbackhome](https://www.instagram.com/timewegetbackhome/){:target="_blank"} on Insta
 
 * [Trans Boxing](https://www.transboxing.org/){:target="_blank"}- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/){:target="_blank"} on Insta

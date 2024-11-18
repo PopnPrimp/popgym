@@ -108,8 +108,11 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Zombie Muay Thai](https://www.zombiemuaythai.com/){:target="_blank"}- Muay Thai, BJJ, and conditioning classes; [@zombiemuaythai](https://www.instagram.com/zombiemuaythai/){:target="_blank"} on Insta
 
 **Queens**
-* [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/) on Insta
+* [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/){:target="_blank"} on Insta
 
+* [Team Savage MMA](https://teamsavagemma.com/){:target="_blank"}- MMA School with LGBTQ BJJ classes every week; [@teamsavage_mma](https://www.instagram.com/teamsavage_mma/){:target="_blank"} on Insta
+  
+  
 ### Online Resources
 
 #### Community

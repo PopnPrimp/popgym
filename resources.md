@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 6/05/2024)
+## Resource List (updated 12/02/2024)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -42,6 +42,8 @@ Note: While we do our best to fully check out each resource we have listed here,
   
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section){:target="_blank"}- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/){:target="_blank"} on Insta
 
+* [HighKick LLC](https://www.instagram.com/highkickllc/){:target="_blank"}- Self-defense classes for beginners and martial artists
+
 * [Malikah](https://www.malikah.org/self-defense){:target="_blank"}- Grassroots anti-violence and wellness organization with self-defense programming; [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
 
 * [Raising Health](https://www.raisinghealth.org/community-building){:target="_blank"}- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community; [@raisinghealthpartners](https://www.instagram.com/raisinghealthpartners/){:target="_blank"} on Insta
@@ -49,7 +51,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Self-Offense](https://www.self-offense.com/personal){:target="_blank"}- "Mother/daughter black belts & entrepeneurs leading workshops in personal protection, listening & boundaries and bullying & harassment prevention"; [@self_offense](https://www.instagram.com/self_offense/){:target="_blank"} on Insta.
 
 #### LGBTQ+ Self-Defense Programs
-* [Enough Self-Defense](https://www.instagram.com/enough.selfdefense/){:target="_blank"}- Intro to self-defense classes for Queer folks
 
 * [Fearless Queers](https://www.instagram.com/selfdefenseisgay/){:target="_blank"}- Monthly, donation based self-defense class for Queer folks
 
@@ -67,8 +68,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
 
-* [Metropolitan Anarchist Coordinating Committee (MACC)](https://macc.nyc/){:target="_blank"}- Monthly community care assembly at the P.I.T featuring Muay Thai for Self-Defense; [@macc_nyc](https://www.instagram.com/macc_nyc/){:target="_blank"} on Insta
-
 * [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
 
 * [Women's Training Center](https://www.instagram.com/womenstrainingcenter/){:target="_blank"}- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
@@ -83,7 +82,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 
 * [Devilfish](https://www.devilfishathletics.com/){:target="_blank"} - Fitness boxing available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up; [@devilfishathletics](https://www.instagram.com/devilfishathletics/){:target="_blank"} on Insta
-  * Want to know more? [Check out our interview with Devilfish here](/resmonth/devilfish-may-2019.md) <br/> 
 
 * [Haven Boxing](https://havenboxing.com/){:target="_blank"} Queer gym with boxing and fitness classes for all levels; [@havenboxing](https://www.instagram.com/havenboxing/){:target="_blank"} on Insta
 

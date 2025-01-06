@@ -108,6 +108,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 **Queens**
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/){:target="_blank"} on Insta
 
+* [Queens Jiu-Jitsu](https://queensjiujitsu.com/getstarted/){:target="_blank"}- Classes for Adults and kids, with classes specifcially for Women, and some special open mat programming for Women and Non Binary folks; [queensjiujitsu](https://www.instagram.com/queensjiujitsu/) on Insta
+
 * [Team Savage MMA](https://teamsavagemma.com/){:target="_blank"}- MMA School with LGBTQ BJJ classes every week; [@teamsavage_mma](https://www.instagram.com/teamsavage_mma/){:target="_blank"} on Insta
   
   

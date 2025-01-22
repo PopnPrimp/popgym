@@ -9,7 +9,7 @@ subtitle: Free Pop Up Workshop at the Crown Heights Community Care Day on 1/25!
 
 ![Care Day workshop](/assets/CHCommunityDay.png)
 
-HIS WEEK! Crown Heights Care Collective and Crown Heights Mutual Aid are teaming up for a day of fun, food, creativity, and community childcare at Historic First Church on Saturday, January 25th. From 12-5pm:
+THIS WEEK! Crown Heights Care Collective and Crown Heights Mutual Aid are teaming up for a day of fun, food, creativity, and community childcare at Historic First Church on Saturday, January 25th. From 12-5pm:
 
 🧣 Pick up winter wardrobe essentials at the Free Store
 🎨 Let your kids get creative with arts and crafts that invite them to build the village of their dreams

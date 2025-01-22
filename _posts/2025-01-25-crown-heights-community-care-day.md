@@ -1,6 +1,6 @@
 ---
 title: Crown Heights Community Day
-date: 2025-01-25 00:00:00 Z
+date: 2025-01-22 00:00:00 Z
 categories:
 - update
 layout: post

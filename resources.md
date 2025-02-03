@@ -101,6 +101,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Sucker Free Jiu-Jitsu](https://suckerfreejiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu school with classes for kids and adults; [@suckerfreenewyork](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta
 
 **Manhatten**
+* [Unity Jiu Jitsu](https://unityjiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu classes for kids and adults, featuring adaptive BJJ and self-defense classes for physically and visually impaired; [@unityjiujitsu](https://www.instagram.com/unityjiujitsu/){:target="_blank"} on Insta
+
 * [The Wat](https://thewat.com/){:target="_blank"}- Muay Thai and conditioning classes for adults and kids; [@thewatnyc](https://www.instagram.com/thewatnyc/){:target="_blank"} on Insta
 
 * [Zombie Muay Thai](https://www.zombiemuaythai.com/){:target="_blank"}- Muay Thai, BJJ, and conditioning classes; [@zombiemuaythai](https://www.instagram.com/zombiemuaythai/){:target="_blank"} on Insta

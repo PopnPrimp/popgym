@@ -24,7 +24,7 @@ Check out some of the things we published. Right click and choose Save Link As t
    </td>
 </tr>
 </table>
-<table>
+<table> 
    <tr> Some other Kewl Zines We Like:
       <td>
              <img src="/assets/thebody2.png" alt="Self Defense, The Zine"><br>
@@ -79,7 +79,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="/assets/DCCBilingualLEAFLETv2.pdf" target="_blank" rel="noopener noreferrer">Dragon Combat Club Zine</a><br> 
 
    </td>
-</table>
 <table>
    <tr> Some fun printables to share:
       <td>

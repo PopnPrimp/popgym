@@ -10,10 +10,10 @@ Excited to give us some funds? We are too! If you got a little extra chingle in 
 
 Venmo: @popgym 
 
-[venmo qr code](../assets/QRCodeVenmo.png)
+[venmo qr code](/assets/QRCodeVenmo.png)
 
 
 PayPal: Pop Gym (email: info@popgym.org)
 
-[qrcodepay](../assets/qrcodepay.png)
+[qrcodepay](/assets/qrcodepay.png)
 :)

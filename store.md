@@ -1,8 +1,3 @@
----
-title: Store
-permalink: "../https://popgym-store.square.site"
-layout: page
----
 
 
 

@@ -23,7 +23,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
    </td>
 </tr>
-</table>
 <table> 
    <tr> Some other Kewl Zines We Like:
       <td>

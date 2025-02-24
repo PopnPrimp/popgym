@@ -7,7 +7,7 @@ layout: post
 subtitle: Upcoming Intro to Self-Defense Workshop this winter in NYC
 ---
 
-![Cwinter workshops](/assets/UpdatedPopGymWinterWorkshops.jpg.jpg)
+![winter workshops](/assets/UpdatedPopGymWinterWorkshops.jpg)
 
 Check out our upcoming Intro to Self-Defense workshops, including
 * [February 22nd at Wonderville (21+) from 2-4 PM](https://www.wonderville.nyc/events/intro-to-self-defense-workshop){:target="_blank"}

@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 02/03/2025)
+## Resource List (updated 03/03/2025)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -57,8 +57,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Queer Fight School](https://www.instagram.com/queerfightschool/){:target="_blank"}- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk
 
 * [Queer Martial Arts](https://www.instagram.com/queermartialarts/){:target="_blank"}- Pencak Silat classes for queers at the Brooklyn Community Pride Center, Tuesdays 6 - 7:30pm
-
-* [Time We Get Back Home](https://www.kearmonie.com/twgbhlinks){:target="_blank"}- Hosts self-defense trainings for Black Women and QTPOC; [@timewegetbackhome](https://www.instagram.com/timewegetbackhome/){:target="_blank"} on Insta
 
 * [Trans Boxing](https://www.transboxing.org/){:target="_blank"}- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/){:target="_blank"} on Insta
   * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md){:target="_blank"} 

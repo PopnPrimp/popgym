@@ -105,6 +105,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [The Wat](https://thewat.com/){:target="_blank"}- Muay Thai and conditioning classes for adults and kids; [@thewatnyc](https://www.instagram.com/thewatnyc/){:target="_blank"} on Insta
 
+* [Womens World of Boxing](https://wwbox.nyc/wwb-press)- Boxing classes centering women; [wwboxnyc](https://www.instagram.com/wwboxnyc/) on Insta
+
 * [Zombie Muay Thai](https://www.zombiemuaythai.com/){:target="_blank"}- Muay Thai, BJJ, and conditioning classes; [@zombiemuaythai](https://www.instagram.com/zombiemuaythai/){:target="_blank"} on Insta
 
 **Queens**

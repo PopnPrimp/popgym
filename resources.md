@@ -96,6 +96,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Wickwood Aikikai](https://www.wickwoodaikido.com/){:target="_blank"}- Aikido classes in Bushwick; [@wickwoodaikido](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta
 
+*  [The Wat](https://thewat.com/){:target="_blank"}- Online and in-person classes at Fort Green Park; [@thewatnyc](https://www.instagram.com/thewatnyc/){:target="_blank"} on Insta
+
 **Long Island**
 * [Sucker Free Jiu-Jitsu](https://suckerfreejiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu school with classes for kids and adults; [@suckerfreenewyork](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta
 
@@ -104,8 +106,6 @@ Note: While we do our best to fully check out each resource we have listed here,
    * [NYC ParaJiujitsu]([https://www.soaroverhate.org/single-project](https://www.instagram.com/nycparajiujitsu/)- account for adaptive BJJ at Unity Jiu Jitsu, free adaptive BJJ classes every Sunday at 1 PM
 
 * [Two Bridges Muay Thai](https://www.twobridgesmuaythai.com/){:target="_blank"}- Muay Thai School; [@twobridgesmuaythai](https://www.instagram.com/twobridgesmuaythai/) on Insta
-
-* [The Wat](https://thewat.com/){:target="_blank"}- Muay Thai and conditioning classes for adults and kids; [@thewatnyc](https://www.instagram.com/thewatnyc/){:target="_blank"} on Insta
 
 * [Womens World of Boxing](https://wwbox.nyc/wwb-press)- Boxing classes centering women; [wwboxnyc](https://www.instagram.com/wwboxnyc/) on Insta
 

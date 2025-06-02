@@ -54,7 +54,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Fearless Queers](https://www.instagram.com/selfdefenseisgay/){:target="_blank"}- Monthly, donation based self-defense class for Queer folks
 
-* [Queer Fight School](https://www.instagram.com/queerfightschool/){:target="_blank"}- Holds monthly intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk
+* [Queer Fight School](https://www.instagram.com/queerfightschool/){:target="_blank"}- Holds intro Brazilian Jiu-Jitsu classes for Trans/NB folks, as well as a Jiu-Jitsu open mat for LGBTQAI+ folk
 
 * [Queer Martial Arts](https://www.instagram.com/queermartialarts/){:target="_blank"}- Pencak Silat classes for queers at the Brooklyn Community Pride Center, Tuesdays 6 - 7:30pm
 
@@ -102,6 +102,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 **Manhatten**
 * [Unity Jiu Jitsu](https://unityjiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu classes for kids and adults, featuring adaptive BJJ and self-defense classes for physically and visually impaired; [@unityjiujitsu](https://www.instagram.com/unityjiujitsu/){:target="_blank"} on Insta
+   * [NYC ParaJiujitsu]([https://www.soaroverhate.org/single-project](https://www.instagram.com/nycparajiujitsu/)- account for adaptive BJJ at Unity Jiu Jitsu, free adaptive BJJ classes every Sunday at 1 PM
 
 * [The Wat](https://thewat.com/){:target="_blank"}- Muay Thai and conditioning classes for adults and kids; [@thewatnyc](https://www.instagram.com/thewatnyc/){:target="_blank"} on Insta
 

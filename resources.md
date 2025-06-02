@@ -44,7 +44,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [HighKick LLC](https://www.instagram.com/highkickllc/){:target="_blank"}- Self-defense classes for beginners and martial artists
 
-* [Malikah](https://www.malikah.org/self-defense){:target="_blank"}- Grassroots anti-violence and wellness organization with self-defense programming; [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
+* [Malikah](https://www.malikah.org/programs){:target="_blank"}- Grassroots anti-violence and wellness organization with self-defense programming; [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
 
 * [Raising Health](https://www.raisinghealth.org/community-building){:target="_blank"}- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community; [@raisinghealthpartners](https://www.instagram.com/raisinghealthpartners/){:target="_blank"} on Insta
 

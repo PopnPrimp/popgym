@@ -39,7 +39,6 @@ Note: While we do our best to fully check out each resource we have listed here,
      * <a href="https://youtu.be/JW-Wo7DE4RE?feature=shared" target="_blank" rel="noopener noreferrer">Reflex Game</a><br>
   
     
-  
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section){:target="_blank"}- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/){:target="_blank"} on Insta
 
 * [HighKick LLC](https://www.instagram.com/highkickllc/){:target="_blank"}- Self-defense classes for beginners and martial artists
@@ -66,7 +65,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
 
-* * Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly
+* Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly
 
 * [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
 

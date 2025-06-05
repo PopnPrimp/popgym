@@ -86,8 +86,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Jao Maa Brazilian Jiu-Jitsu](https://www.jao-maa.com/){:target="_blank"}- Brazilian Jiu-Jitsu, classes for kids and adults; [@jmabkny](https://www.instagram.com/jmabkny/){:target="_blank"} on Insta
 
-* [Jade Fortress](https://www.jfma.space/){:target="_blank"}- Brazilian Jiu-Jistu classes; [@jadefortress](https://www.instagram.com/jadefortress/){:target="_blank"} on Insta
-
 * [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
 
 *  [UMA Brooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"}- BJJ, Muay Thai, Boxing, Jeet Kun Do, Capoiera and other martial arts classes for adults and kids; [@umabrooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"} on Insta

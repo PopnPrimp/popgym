@@ -1,6 +1,6 @@
 ---
-title: Donate
-permalink: "/donate/"
+title: Merch 
+permalink: "/merch/"
 layout: page
 ---
 

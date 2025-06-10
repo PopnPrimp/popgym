@@ -14,7 +14,7 @@ Edit these files to add content to the site:
 * [Fundraising](fundraising.md)
 * [Zines](zines.md)
 * [Resources](resources.md)
-* [Donate](donate.md)
+* [Merch](merch.md)
 
 Look for the pencil in the upper right of the file to edit it.
 Whenever you save a file the new content will be automatically published!

@@ -175,9 +175,11 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Know Your Rights for Protestors Zine by the National Lawyers Guild](https://www.nlg.org/know-your-rights/){:target="_blank"}- Zine in English, Spanish, Arabic, and Farsi
 
-* [Mutual Aid, Trauma, and Resiliency](https://theanarchistlibrary.org/library/the-jane-addams-collective-mutual-aid-trauma-and-resiliency)- zine on communities building resiliency and addressing PTSD by the [Jane Adams Collective](https://janeaddamscollective.wordpress.com/){:target="_blank"}
+* [Mutual Aid, Trauma, and Resiliency](https://theanarchistlibrary.org/library/the-jane-addams-collective-mutual-aid-trauma-and-resiliency){:target="_blank"}- zine on communities building resiliency and addressing PTSD by the [Jane Adams Collective](https://janeaddamscollective.wordpress.com/){:target="_blank"}
 
-* [NYC Domestic and Gender-Based Violence Support](https://www.nyc.gov/site/hra/help/domestic-violence-support.page)- Resources for victims of human trafficking, survivors of sexual violence, LGBTQ+ and teens.
+* [NYC Domestic and Gender-Based Violence Support](https://www.nyc.gov/site/hra/help/domestic-violence-support.page){:target="_blank"}- Resources for victims of human trafficking, survivors of sexual violence, LGBTQ+ and teens.
+
+* [OutSmart NYC](https://www.outsmartnyc.org/){:target="_blank"}- Anti-Sexual violence group supporting safer spaces in NYC nightlife. Check out their trainings and their insta for events [@outsmartnyc](https://www.instagram.com/outsmartnyc/).
 
 
 

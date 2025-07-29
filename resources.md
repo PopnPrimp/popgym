@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 06/02/2025)
+## Resource List (updated 07/29/2025)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -27,23 +27,12 @@ Note: While we do our best to fully check out each resource we have listed here,
   * [Partner with Soar Over Hate for a Workshop](https://docs.google.com/forms/d/e/1FAIpQLSf2nA23M4VmVoWMnbkFfheRAKTkh8rtJEG5jx745ToaKT27pw/viewform){:target="_blank"}- Sign up form for organizations interested in setting up a workshop
  
 
-* [They Cant Burn Us All](https://www.tcbua.org/ourwork){:target="_blank"}- "a collective focused on driving impact through direct action while building solidarity and community amongst marginalized communities."; featuring their BRAV3 self-defense program; [@tcbua](https://www.instagram.com/tcbua/){:target="_blank"} on Insta
-
 #### General Self-Defense
 * [Center for Anti-Violence Education](https://caeny.org/){:target="_blank"}- Self-Defense and De-escalation classes and programs for adults and youth
-
-* [Dragon Combat Club](https://www.instagram.com/dragoncombatclub/){:target="_blank"}- Clinch & Weapons Sparring Group, volunteer initiative for community self-defense
-    * <a href="/assets/DCCBilingualLEAFLETv2.pdf" target="_blank" rel="noopener noreferrer">Check out their self-defense zine here </a><br>
-    * <a href="https://youtu.be/Kbu94pawEAA?feature=shared" target="_blank" rel="noopener noreferrer">Drawing Self-Defense Tools Instructional </a><br>
-    * <a href="https://youtu.be/Vdj5w32ezC4?feature=shared" target="_blank" rel="noopener noreferrer">Pepper Spray Instructional </a><br>
-     * <a href="https://youtu.be/JW-Wo7DE4RE?feature=shared" target="_blank" rel="noopener noreferrer">Reflex Game</a><br>
-  
     
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section){:target="_blank"}- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/){:target="_blank"} on Insta
 
 * [HighKick LLC](https://www.instagram.com/highkickllc/){:target="_blank"}- Self-defense classes for beginners and martial artists
-
-* [Malikah](https://www.malikah.org/programs){:target="_blank"}- Grassroots anti-violence and wellness organization with self-defense programming; [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
 
 * [Raising Health](https://www.raisinghealth.org/community-building){:target="_blank"}- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community; [@raisinghealthpartners](https://www.instagram.com/raisinghealthpartners/){:target="_blank"} on Insta
 
@@ -148,11 +137,6 @@ Note: While we do our best to fully check out each resource we have listed here,
   * [Angry Asian Womxn Self-Defense Links](https://linktr.ee/Angryasianwomxn){:target="_blank"} <br/> 
 
 * [Asian American Federation x Center for Anti-Violence Education Stay Safe from Hate (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)](https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf)- Little booklet with de-escalation and self-defense tips
-
-* [Malikah Self-Defense Starter Kit](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view); [@wearemalikah](https://www.instagram.com/wearemalikah/){:target="_blank"} on Insta
-  * [Malikah Self-Defense Videos](https://www.malikah.org/self-defense/){:target="_blank"}
-  * [Malikah Self-Defense Zine](https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view){:target="_blank"}
-  * [Self-Defense Starter Kit Videos](https://www.youtube.com/@selfdefensestarterkit8217){:target="_blank"} <br/> 
 
 * [Soar Over Hate Intro to Self-Defense Zine](https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=sharing){:target="_blank"} - Printable version. See instructions on how to assemble [here](https://drive.google.com/file/d/1_qDYg0gzuhucGsC7Uo2WQGb3bo7Y7-Cy/view?usp=sharing)
 

@@ -12,15 +12,14 @@ subtitle: Upcoming Intro to Self-Defense Workshop this summer in NYC
 ![summer workshops](/assets/summerworkshopseptember.png)
 
 Check out our upcoming Intro to Self-Defense workshops, including
-* 7/8 De-escalation workshop @ riis beach, 3 pm
-* 7/20 - another world, 11:30 AM
+* 7/8 De-escalation workshop @ Riis Beach, 3 pm
+* 7/20 - Another World, 11:30 AM
 * 7/24- King’s Highway library, 3 pm 
-* 7/31 - Brooklyn Pride center, 6 pm 
-* 8/9- bushwick city farm, 3 pm
-* 8/16- G-Rebels Workshop, 4 PM Brooklyn Public library, Grand army Plaza 
+* 8/9- Bushwick City Farm, 3 pm
+* 8/16- G-Rebels Workshop, 4 PM Brooklyn Public library, Grand Army Plaza 
 * 8/17 - PIT, 3 PM 
-* 8/23 - wonderville, 3 pm
-* 9/5- Washington square park mutual aid, 6 PM  
-* 9/13 - NYC Anarchist bookf fair, 3 pm
-* 9/30 - interference archive, 6 PM
+* 8/23 - [Wonderville](https://www.wonderville.nyc/events/self-defense-workshop-8-23-2025), 3 pm
+* 9/5- Washington Square Park Mutual Aid, 6 PM  
+* 9/13 - NYC Anarchist Book Fair, 3 pm
+* 9/30 - Interference Archive, 6 PM
 

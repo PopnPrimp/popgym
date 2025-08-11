@@ -1,5 +1,5 @@
 ---
-title: Pop Gym Spring Workshops
+title: Pop Gym Summer Workshops
 date: 2025-08-11 00:00:00 Z
 categories:
 - update

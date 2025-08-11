@@ -14,17 +14,15 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 07/29/2025)
+## Resource List (updated 08/11/2025)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
 #### AAPI Self-Defense
-* [Sisters in Self-Defense](https://www.instagram.com/sisters.in.self.defense/){:target="_blank"}- "Asian American women united in self-defense training. We welcome elders and all ages of folx from our community to learn with us."
 
 * [Soar Over Hate](https://www.soaroverhate.org/){:target="_blank"}- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/){:target="_blank"} on Insta
   * [Heal from Hate](https://www.soaroverhate.org/single-project)- providing up to 10 free therapy sessions for victims of anti-Asian violence
   * [Intro to Self-Defense Zine](https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=sharing){:target="_blank"} - Printable version. See instructions on how to assemble [here](https://drive.google.com/file/d/1_qDYg0gzuhucGsC7Uo2WQGb3bo7Y7-Cy/view?usp=sharing)
-  * [Partner with Soar Over Hate for a Workshop](https://docs.google.com/forms/d/e/1FAIpQLSf2nA23M4VmVoWMnbkFfheRAKTkh8rtJEG5jx745ToaKT27pw/viewform){:target="_blank"}- Sign up form for organizations interested in setting up a workshop
  
 
 #### General Self-Defense

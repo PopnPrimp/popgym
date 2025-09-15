@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 08/11/2025)
+## Resource List (updated 09/15/2025)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -54,9 +54,13 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly
 
+* [Metamorphosis Movement](https://www.metamove.love/){:target="_blank"}- Muay Thai classes for kids and adults with ckasses at Sisters Uptown Bookstore in Harlem; [metamorphosis.move](https://www.instagram.com/metamorphosis.move/){:target="_blank"} on Insta
+
 * [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
 
 * [Women's Training Center](https://www.instagram.com/womenstrainingcenter/){:target="_blank"}- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
+
+* [Women's Workshop](https://www.instagram.com/womensworkshop.muaythai/){:target="_blank"}- Muay Thai Classes for Women at Two Bridges Muay Thai
 
 ### Gyms We Like
 

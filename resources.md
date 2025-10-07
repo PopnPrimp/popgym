@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 09/15/2025)
+## Resource List (updated 10/06/2025)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -67,13 +67,15 @@ Note: While we do our best to fully check out each resource we have listed here,
 **Brooklyn**
 * [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitness/){:target="_blank"} - Boxing classes for youth, teens, and adults
 
-* [Big Bear Muay Thai](https://www.instagram.com/bigbearmuaythai/){:target="_blank"}- Muay Thai classes in Bed-Stuy. Connected to Vagabond BJJ
+* [Big Bear Muay Thai](https://www.instagram.com/bigbearmuaythai/){:target="_blank"}- Muay Thai classes 
 
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 
 * [Devilfish](https://www.devilfishathletics.com/){:target="_blank"} - Fitness boxing available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up; [@devilfishathletics](https://www.instagram.com/devilfishathletics/){:target="_blank"} on Insta
 
 * [Jao Maa Brazilian Jiu-Jitsu](https://www.jao-maa.com/){:target="_blank"}- Brazilian Jiu-Jitsu, classes for kids and adults; [@jmabkny](https://www.instagram.com/jmabkny/){:target="_blank"} on Insta
+
+* [Jiu Jitsu Lounge](https://www.thejiujitsulounge.com/){:target="_blank"}- BJJ school; [@thejiujtisulounge](https://www.instagram.com/thejiujitsulounge/){:target="_blank"}
 
 * [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
 

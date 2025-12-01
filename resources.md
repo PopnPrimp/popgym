@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 10/06/2025)
+## Resource List (updated 12/01/2025)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -66,8 +66,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 **Brooklyn**
 * [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitness/){:target="_blank"} - Boxing classes for youth, teens, and adults
-
-* [Big Bear Muay Thai](https://www.instagram.com/bigbearmuaythai/){:target="_blank"}- Muay Thai classes 
 
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 

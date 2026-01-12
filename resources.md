@@ -79,7 +79,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 *  [UMA Brooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"}- BJJ, Muay Thai, Boxing, Jeet Kun Do, Capoiera and other martial arts classes for adults and kids; [@umabrooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"} on Insta
 
-*  [Vagabond BJJ](https://www.vagabondbjjbrooklyn.com/){:target="_blank"}- BJJ classes in Bedstuy. Connected to Big Bear Muay Thai; [@vagabondbjjbrooklyn](https://www.instagram.com/vagabondbjjbrooklyn/){:target="_blank"} on Insta
+*  [Vagabond BJJ](https://www.vagabondbjjbrooklyn.com/){:target="_blank"}- BJJ classes in Bedstuy [@vagabondbjjbrooklyn](https://www.instagram.com/vagabondbjjbrooklyn/){:target="_blank"} on Insta
 
 * [Wickwood Aikikai](https://www.wickwoodaikido.com/){:target="_blank"}- Aikido classes in Bushwick; [@wickwoodaikido](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta
 

@@ -14,16 +14,9 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 12/01/2025)
+## Resource List (updated 03/17/2026)
 
 ### Physical Self-Defense Programs (NYC-Based)
-
-#### AAPI Self-Defense
-
-* [Soar Over Hate](https://www.soaroverhate.org/){:target="_blank"}- Self-Defense and community events for AAPI community; [@soaroverhate](https://www.instagram.com/soaroverhate/){:target="_blank"} on Insta
-  * [Heal from Hate](https://www.soaroverhate.org/single-project)- providing up to 10 free therapy sessions for victims of anti-Asian violence
-  * [Intro to Self-Defense Zine](https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=sharing){:target="_blank"} - Printable version. See instructions on how to assemble [here](https://drive.google.com/file/d/1_qDYg0gzuhucGsC7Uo2WQGb3bo7Y7-Cy/view?usp=sharing)
- 
 
 #### General Self-Defense
 * [Center for Anti-Violence Education](https://caeny.org/){:target="_blank"}- Self-Defense and De-escalation classes and programs for adults and youth
@@ -31,8 +24,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Feminist Self-Defense](https://www.feministselfdefense.com/#self-defense-section){:target="_blank"}- Introductory self-defense classes for people of all genders; [@feministselfdefense](https://www.instagram.com/feministselfdefense/){:target="_blank"} on Insta
 
 * [HighKick LLC](https://www.instagram.com/highkickllc/){:target="_blank"}- Self-defense classes for beginners and martial artists
-
-* [Raising Health](https://www.raisinghealth.org/community-building){:target="_blank"}- Self-defense, de-escalation, community safety and health resources for the Sunset Park Community; [@raisinghealthpartners](https://www.instagram.com/raisinghealthpartners/){:target="_blank"} on Insta
 
 * [Self-Offense](https://www.self-offense.com/personal){:target="_blank"}- "Mother/daughter black belts & entrepeneurs leading workshops in personal protection, listening & boundaries and bullying & harassment prevention"; [@self_offense](https://www.instagram.com/self_offense/){:target="_blank"} on Insta.
 
@@ -48,7 +39,6 @@ Note: While we do our best to fully check out each resource we have listed here,
   * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md){:target="_blank"} 
 
 #### Martial Arts Programming
-* [Black Men Build NYC Boxing Club](https://linktr.ee/bmbnyc){:target="_blank"}- "All ages welcome! Free for all registered participants. Gear will be provided, or bring your own. BMB NYC hosts our free community boxing program every 2nd and last Wednesday of the month at The Black Men Build NYC Hub."; [@blackmenbuildnyc](https://www.instagram.com/blackmenbuildnyc/){:target="_blank"} on Insta
 
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
 
@@ -69,9 +59,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 
-* [Devilfish](https://www.devilfishathletics.com/){:target="_blank"} - Fitness boxing available in Red Hook at 17 Caroll St. Classes are open to all levels; beginners are welcome. 18 years and up; [@devilfishathletics](https://www.instagram.com/devilfishathletics/){:target="_blank"} on Insta
-
-* [Jao Maa Brazilian Jiu-Jitsu](https://www.jao-maa.com/){:target="_blank"}- Brazilian Jiu-Jitsu, classes for kids and adults; [@jmabkny](https://www.instagram.com/jmabkny/){:target="_blank"} on Insta
+* [Jao Maa Brazilian Jiu-Jitsu](https://jmabkny.com/){:target="_blank"}- Brazilian Jiu-Jitsu, classes for kids and adults; [@jmabkny](https://www.instagram.com/jmabkny/){:target="_blank"} on Insta
 
 * [Jiu Jitsu Lounge](https://www.thejiujitsulounge.com/){:target="_blank"}- BJJ school; [@thejiujtisulounge](https://www.instagram.com/thejiujitsulounge/){:target="_blank"}
 
@@ -90,13 +78,11 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 **Manhatten**
 * [Unity Jiu Jitsu](https://unityjiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu classes for kids and adults, featuring adaptive BJJ and self-defense classes for physically and visually impaired; [@unityjiujitsu](https://www.instagram.com/unityjiujitsu/){:target="_blank"} on Insta
-   * [NYC ParaJiujitsu]([https://www.soaroverhate.org/single-project](https://www.instagram.com/nycparajiujitsu/)- account for adaptive BJJ at Unity Jiu Jitsu, free adaptive BJJ classes every Sunday at 1 PM
+   * [NYC ParaJiujitsu](https://www.instagram.com/nycparajiujitsu/)- account for adaptive BJJ at Unity Jiu Jitsu, free adaptive BJJ classes every Sunday at 1 PM
 
 * [Two Bridges Muay Thai](https://www.twobridgesmuaythai.com/){:target="_blank"}- Muay Thai School; [@twobridgesmuaythai](https://www.instagram.com/twobridgesmuaythai/) on Insta
 
 * [Womens World of Boxing](https://wwbox.nyc/wwb-press)- Boxing classes centering women; [wwboxnyc](https://www.instagram.com/wwboxnyc/) on Insta
-
-* [Zombie Muay Thai](https://www.zombiemuaythai.com/){:target="_blank"}- Muay Thai, BJJ, and conditioning classes; [@zombiemuaythai](https://www.instagram.com/zombiemuaythai/){:target="_blank"} on Insta
 
 **Queens**
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/){:target="_blank"} on Insta

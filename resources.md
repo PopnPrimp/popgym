@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 03/17/2026)
+## Resource List (updated 03/26/2026)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -70,8 +70,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 *  [Vagabond BJJ](https://www.vagabondbjjbrooklyn.com/){:target="_blank"}- BJJ classes in Bedstuy [@vagabondbjjbrooklyn](https://www.instagram.com/vagabondbjjbrooklyn/){:target="_blank"} on Insta
 
 * [Wickwood Aikikai](https://www.wickwoodaikido.com/){:target="_blank"}- Aikido classes in Bushwick; [@wickwoodaikido](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta
-
-*  [The Wat](https://thewat.com/){:target="_blank"}- Online and in-person classes at Fort Green Park; [@thewatnyc](https://www.instagram.com/thewatnyc/){:target="_blank"} on Insta
 
 **Long Island**
 * [Sucker Free Jiu-Jitsu](https://suckerfreejiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu school with classes for kids and adults; [@suckerfreenewyork](https://www.instagram.com/wickwoodaikido/){:target="_blank"} on Insta

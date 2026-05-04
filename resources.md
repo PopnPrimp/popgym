@@ -40,17 +40,23 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 #### Martial Arts Programming
 
+* [Come Forever Self-Defense Class](https://www.instagram.com/p/DXrWQXwDuOA/?img_index=1){:target="_blank"}- Mask-required weekly Saturday self-defense class with no-contact sparring
+
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
 
-* Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly
+* Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly as well as [in the Bronx](https://www.instagram.com/lefthooknyc_bx/){:target="_blank"}
 
 * [Metamorphosis Movement](https://www.metamove.love/){:target="_blank"}- Muay Thai classes for kids and adults with ckasses at Sisters Uptown Bookstore in Harlem; [metamorphosis.move](https://www.instagram.com/metamorphosis.move/){:target="_blank"} on Insta
-
+  
+  
 * [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
 
 * [Women's Training Center](https://www.instagram.com/womenstrainingcenter/){:target="_blank"}- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
 
+* [Women's Sparring @ Hinds Combat Sports](https://hindscombatsports.com/){:target="_blank"}- Weekly women's sparring cours; [@hindscombartsports](https://www.instagram.com/hindscombatsports/){:target="_blank"} on Insta
+ 
 * [Women's Workshop](https://www.instagram.com/womensworkshop.muaythai/){:target="_blank"}- Muay Thai Classes for Women at Two Bridges Muay Thai
+
 
 ### Gyms We Like
 
@@ -62,6 +68,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Jao Maa Brazilian Jiu-Jitsu](https://jmabkny.com/){:target="_blank"}- Brazilian Jiu-Jitsu, classes for kids and adults; [@jmabkny](https://www.instagram.com/jmabkny/){:target="_blank"} on Insta
 
 * [Jiu Jitsu Lounge](https://www.thejiujitsulounge.com/){:target="_blank"}- BJJ school; [@thejiujtisulounge](https://www.instagram.com/thejiujitsulounge/){:target="_blank"}
+
+* [Muse Movement Arts](https://www.instagram.com/p/DXkjvR8DtQn/){:target="_blank"}- This is a private study space in Brooklyn dedicated to the training, education and support of NYC's trans, queer, and SWer communities. Vetting is required to become a Muse. 
 
 * [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
 
@@ -85,9 +93,13 @@ Note: While we do our best to fully check out each resource we have listed here,
 **Queens**
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/){:target="_blank"} on Insta
 
+* [Hinds Combat Sports](https://hindscombatsports.com/){:target="_blank"}- Muay Thai, Kickboxing, Brazilian JiuJitsu and Group Fitness Classes in Long Island City; [@hindscombatsports](https://www.instagram.com/hindscombatsports/){:target="_blank"} on Insta
+
 * [Queens Jiu-Jitsu](https://queensjiujitsu.com/getstarted/){:target="_blank"}- Classes for Adults and kids, with classes specifcially for Women, and some special open mat programming for Women and Non Binary folks; [queensjiujitsu](https://www.instagram.com/queensjiujitsu/) on Insta
 
 * [Team Savage MMA](https://teamsavagemma.com/){:target="_blank"}- MMA School with LGBTQ BJJ classes every week; [@teamsavage_mma](https://www.instagram.com/teamsavage_mma/){:target="_blank"} on Insta
+
+
   
   
 ### Online Resources

@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 06/15/2026)
+## Resource List (updated 07/06/2026)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -73,6 +73,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Muse Movement Arts](https://www.instagram.com/p/DXkjvR8DtQn/){:target="_blank"}- This is a private study space in Brooklyn dedicated to the training, education and support of NYC's trans, queer, and SWer communities. Vetting is required to become a Muse. 
 
 * [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
+
+* [The Dojo](https://www.thedojonyc.com/){:target="_blank"}- Monthly women's grappling events. [@thedojonyc(https://www.instagram.com/thedojonyc/){:target="_blank"} on Insta
 
 *  [UMA Brooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"}- BJJ, Muay Thai, Boxing, Jeet Kun Do, Capoiera and other martial arts classes for adults and kids; [@umabrooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"} on Insta
 

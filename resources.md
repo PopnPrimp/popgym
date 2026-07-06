@@ -74,7 +74,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
 
-* [The Dojo](https://www.thedojonyc.com/){:target="_blank"}- Monthly women's grappling events. [@thedojonyc(https://www.instagram.com/thedojonyc/){:target="_blank"} on Insta
+* [The Dojo](https://www.thedojonyc.com/){:target="_blank"}- Monthly women's grappling events. [@thedojonyc](https://www.instagram.com/thedojonyc/){:target="_blank"} on Insta
 
 *  [UMA Brooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"}- BJJ, Muay Thai, Boxing, Jeet Kun Do, Capoiera and other martial arts classes for adults and kids; [@umabrooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"} on Insta
 

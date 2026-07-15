@@ -42,13 +42,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)</a><br> 
    </td>
 <table>
-   
- <td>
-         <img src="/assets/MalikahLogo.png" alt="Malikah Logo" width="300" height="200"><br>
-
-<a href="https://drive.google.com/file/d/1beqKWa3Ftt3a7BQIKq5MblDBTuOZBCPN/view?usp=sharing" target="_blank" rel="noopener noreferrer">MALIKAH Self-Defense Zine</a><br> 
-   </td>
-
  <td>
          <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="300" height="220"><br>
 
@@ -70,25 +63,9 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-screen-reading.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club</a><br> 
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club Printable</a><br> 
    </td>
-   <td>
-         <img src="/assets/dcclogo.png" alt="DCC Logo" width="250" height="250"><br>
 
-<a href="/assets/DCCBilingualLEAFLETv2.pdf" target="_blank" rel="noopener noreferrer">Dragon Combat Club Zine</a><br> 
-
-   </td>
 <table>
-   <tr> Some fun printables to share:
-      <td>
-             <img src="/assets/CardA.png" alt="Cards Against Street Harassment"><br>
-       
-<a href="/assets/Mix.pdf" target="_blank" rel="noopener noreferrer">Mixed Cards Pack</a> <br>
-<a href="/assets/Mix2.pdf" target="_blank" rel="noopener noreferrer">Mixed Cards Pack 2</a> <br>
-<a href="/assets/slutwalk.pdf" target="_blank" rel="noopener noreferrer">Slutwalk Pack</a> <br>
-<a href="/assets/spanish.pdf" target="_blank" rel="noopener noreferrer">Spanish Pack</a> 
-      </td>
-      <td>
-         <img src="/assets/CCC.png" alt="Catcall Citation Cards"><br>
-        <a href="/assets/CCC.pdf" target="_blank" rel="noopener noreferrer">Catcall Citation Cards</a>           
+        
       </td>
    </tr>
 </table>

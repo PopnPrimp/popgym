@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 07/06/2026)
+## Resource List (updated 07/15/2026)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -143,8 +143,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [The Traction Project](https://traction-project.org/){:target="_blank"} Publications ([@tractionproject](https://www.instagram.com/tractionproject/){:target="_blank"} on Insta)- 
   * [A Self Defense Study Guide for Trans Women and GNC/Nonbinary AMAB Folks](https://www.zeffy.com/en-US/ticketing/4ded495e-cb18-48d8-8e43-a981eeda9c7f){:target="_blank"}- created by Transfighters Oakland, 
-
-* [The Yellow Whitstle](https://www.theyellowwhistle.org/){:target="_blank"}- Providers of safety whistles; [@theyellowwhistle](https://www.instagram.com/theyellowwhistle/){:target="_blank"} on Insta
 
 
 #### Bystander Intervention

@@ -94,6 +94,9 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Womens World of Boxing](https://wwbox.nyc/wwb-press)- Boxing classes centering women; [wwboxnyc](https://www.instagram.com/wwboxnyc/) on Insta
 
 **Queens**
+
+* [34th St Saturday Kickboxing]- SUMMER of 2026, every Saturday morning at 34th ave and 93rd St at 9 AM in Jackson Heights
+
 * [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/){:target="_blank"} on Insta
 
 * [Hinds Combat Sports](https://hindscombatsports.com/){:target="_blank"}- Muay Thai, Kickboxing, Brazilian JiuJitsu and Group Fitness Classes in Long Island City; [@hindscombatsports](https://www.instagram.com/hindscombatsports/){:target="_blank"} on Insta

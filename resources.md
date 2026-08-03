@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 07/15/2026)
+## Resource List (updated 08/03/2026)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -51,8 +51,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Misandry Commitee](https://www.instagram.com/themisandrycommittee/){:target="_blank"}- Boxing classes every week at MayDay Space, Wednesdays at 7
   
 * [Women's Sparring NYC](https://www.instagram.com/womenssparring/){:target="_blank"}- Regular Muay-Thai sparring classes for women
-
-* [Women's Training Center](https://www.instagram.com/womenstrainingcenter/){:target="_blank"}- Muay Thai classes for Women and NB folk at Cornerstone Muay Thai in Flushing, Queens
 
 * [Women's Sparring @ Hinds Combat Sports](https://hindscombatsports.com/){:target="_blank"}- Weekly women's sparring cours; [@hindscombartsports](https://www.instagram.com/hindscombatsports/){:target="_blank"} on Insta
  
@@ -96,8 +94,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 **Queens**
 
 * [34th St Saturday Kickboxing]- SUMMER of 2026, every Saturday morning at 34th ave and 93rd St at 9 AM in Jackson Heights
-
-* [Cornerstone Muay Thai](https://www.cornerstonethaiboxing.com/){:target="_blank"}- Muay Thai and BJJ classes for kids and adults; [@cornerstone_thai_boxing](https://www.instagram.com/cornerstone_thai_boxing/){:target="_blank"} on Insta
 
 * [Hinds Combat Sports](https://hindscombatsports.com/){:target="_blank"}- Muay Thai, Kickboxing, Brazilian JiuJitsu and Group Fitness Classes in Long Island City; [@hindscombatsports](https://www.instagram.com/hindscombatsports/){:target="_blank"} on Insta
 

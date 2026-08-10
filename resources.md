@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 08/03/2026)
+## Resource List (updated 08/10/2026)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -45,6 +45,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
 
 * Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly as well as [in the Bronx](https://www.instagram.com/lefthooknyc_bx/){:target="_blank"}
+
+* [Leoa Jiu-Jitsu](https://www.instagram.com/leoajiujitsu/){:target="_blank"}- Womens BJJ classes, operating out of Kawabonsai (https://www.instagram.com/kawabonsai/){:target="_blank"} in Greenpoint
 
 * [Metamorphosis Movement](https://www.metamove.love/){:target="_blank"}- Muay Thai classes for kids and adults with ckasses at Sisters Uptown Bookstore in Harlem; [metamorphosis.move](https://www.instagram.com/metamorphosis.move/){:target="_blank"} on Insta
 
@@ -118,6 +120,8 @@ Note: While we do our best to fully check out each resource we have listed here,
    * [Printable Version](https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf){:target="_blank"}
 
 * [Home Alive Self-Defense Curriculum for Teacher](https://www.teachhomealive.org/curriculum/){:target="_blank"}- Self-defense workshop outline for those interested in leading self-defense classes
+
+* [Medusa Combat Club](https://www.medusacombatclub.com/beginnerslanding){:target="_blank"}- Online MMA curriculum and support, great for beginners; [@medusacombatclub](https://www.medusacombatclub.com/beginnerslanding){:target="_blank"} on Insta
     
 * [Off The Zone](https://www.off-the-zone.com/){:target="_blank"}- Trauma-informed online martial arts coaching for students and teachers; [@off_the_zone](https://www.instagram.com/off_the_zone/){:target="_blank"} on Insta
 

@@ -46,7 +46,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly as well as [in the Bronx](https://www.instagram.com/lefthooknyc_bx/){:target="_blank"}
 
-* [Leoa Jiu-Jitsu](https://www.instagram.com/leoajiujitsu/){:target="_blank"}- Womens BJJ classes, operating out of Kawabonsai (https://www.instagram.com/kawabonsai/){:target="_blank"} in Greenpoint
+* [Leoa Jiu-Jitsu](https://www.instagram.com/leoajiujitsu/){:target="_blank"}- Womens BJJ classes, operating out of [Kawabonsai](https://www.instagram.com/kawabonsai/){:target="_blank"} in Greenpoint
 
 * [Metamorphosis Movement](https://www.metamove.love/){:target="_blank"}- Muay Thai classes for kids and adults with ckasses at Sisters Uptown Bookstore in Harlem; [metamorphosis.move](https://www.instagram.com/metamorphosis.move/){:target="_blank"} on Insta
 

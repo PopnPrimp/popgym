@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 08/10/2026)
+## Resource List (updated 10/05/2026)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -43,6 +43,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Come Forever Self-Defense Class](https://www.instagram.com/p/DXrWQXwDuOA/?img_index=1){:target="_blank"}- Mask-required weekly Saturday self-defense class with no-contact sparring
 
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
+
+* [Hood School](https://www.instagram.com/hoodschoolnyc/){:target="_blank"}- Self-Defense programming in Harlem and other locations in NYC
 
 * Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly as well as [in the Bronx](https://www.instagram.com/lefthooknyc_bx/){:target="_blank"}
 

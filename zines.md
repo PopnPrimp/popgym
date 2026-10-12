@@ -6,7 +6,7 @@ layout: page
 
 Check out some of the things we published. Right click and choose Save Link As to download
 
-Practical Self-Defense
+<h1>Practical Self-Defense</h1>
 <table>
 <tr> 
  <td>

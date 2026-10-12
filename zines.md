@@ -65,22 +65,13 @@ Essays on Self-Defense
 Self-Defense Curriculum
 
 <table>
-   <tr>
-   <td>
-   <img src="/assets/zine.png" alt="Zine Volume 1i">
+     <td>
+         <img src="/assets/balagoonzinelogo.png" alt="Balagoon Boxing Club Logo" width="200" height="250"><br>
 
-<br>
-
-<a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
-      </td>
-   <td>
-   <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center> 
-
-<br>
-
-<a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
+<a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-screen-reading.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club</a><br> 
+<a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club Printable</a><br> 
    </td>
-</tr>
+
 
 De-Escalation
 
@@ -128,12 +119,7 @@ Know Your Rights
 </table>
 
 <table>
-   <td>
-         <img src="/assets/balagoonzinelogo.png" alt="Balagoon Boxing Club Logo" width="200" height="250"><br>
 
-<a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-screen-reading.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club</a><br> 
-<a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club Printable</a><br> 
-   </td>
 
 
 

@@ -4,7 +4,89 @@ permalink: "/zines/"
 layout: page
 ---
 
-Check out some of the things we published. Right click and choose Save Link As to download:
+Check out some of the things we published. Right click and choose Save Link As to download
+
+Practical Self-Defense
+
+<table>
+   <tr>
+   <td>
+   <img src="/assets/zine.png" alt="Zine Volume 1i">
+
+<br>
+
+<a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
+      </td>
+   <td>
+   <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center> 
+
+<br>
+
+<a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
+   </td>
+</tr>
+
+Essays on Self-Defense
+
+<table>
+   <tr>
+   <td>
+   <img src="/assets/zine.png" alt="Zine Volume 1i">
+
+<br>
+
+<a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
+      </td>
+   <td>
+   <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center> 
+
+<br>
+
+<a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
+   </td>
+</tr>
+
+Self-Defense Curriculum
+
+<table>
+   <tr>
+   <td>
+   <img src="/assets/zine.png" alt="Zine Volume 1i">
+
+<br>
+
+<a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
+      </td>
+   <td>
+   <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center> 
+
+<br>
+
+<a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
+   </td>
+</tr>
+
+De-Escalation
+
+<table>
+   <tr>
+   <td>
+   <img src="/assets/zine.png" alt="Zine Volume 1i">
+
+<br>
+
+<a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
+      </td>
+   <td>
+   <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center> 
+
+<br>
+
+<a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
+   </td>
+</tr>
+
+Know Your Rights
 
 <table>
    <tr>

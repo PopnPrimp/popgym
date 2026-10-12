@@ -14,6 +14,7 @@ Practical Self-Defense
 
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)</a><br> 
    </td>
+ </table>
 <table>
  <td>
          <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="300" height="220"><br>
@@ -27,14 +28,13 @@ Practical Self-Defense
 <a href="https://linktr.ee/aawsubwayguide" target="_blank" rel="noopener noreferrer">Angy Asian Womxn Zine (English, Arabic, Bengali, Chinese, Hindi, Punjabi, Urdu)</a><br>
 
 </td>
-
+<table>
 <td>
              <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="250" height="200">><br>
        
 <a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk" target="_blank" rel="noopener noreferrer">Self Defense Zine</a><br>
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 
       </td>
-   </td>
 </table>
 
 <table>

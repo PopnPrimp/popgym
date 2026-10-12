@@ -24,9 +24,11 @@ Practical Self-Defense
  <td>
          <img src="/assets/aawzinelogo.png" alt="Angry Asian Womxn Logo" width="200" height="250"><br>
 
-<a href="https://linktr.ee/aawsubwayguide" target="_blank" rel="noopener noreferrer">Angy Asian Womxn Zine (English, Arabic, Bengali, Chinese, Hindi, Punjabi, Urdu)</a><br></td>
+<a href="https://linktr.ee/aawsubwayguide" target="_blank" rel="noopener noreferrer">Angy Asian Womxn Zine (English, Arabic, Bengali, Chinese, Hindi, Punjabi, Urdu)</a><br>
 
-      <td>
+</td>
+
+<td>
              <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="250" height="200">><br>
        
 <a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk" target="_blank" rel="noopener noreferrer">Self Defense Zine</a><br>
@@ -71,7 +73,14 @@ Essays on Self-Defense
 
 <a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
    </td>
+     <td>
+             <img src="/assets/thebody2.png" alt="Self Defense, The Zine"><br>
+       
+<a href="https://qpocma.itch.io/the-body" target="_blank" rel="noopener noreferrer">The Body by QPOCMA</a><br>
+      </td>
+
 </tr>
+</table>
 
 Self-Defense Curriculum
 
@@ -134,12 +143,7 @@ Know Your Rights
 </tr>
 <table> 
    <tr> Some other Kewl Zines We Like:
-      <td>
-             <img src="/assets/thebody2.png" alt="Self Defense, The Zine"><br>
-       
-<a href="https://qpocma.itch.io/the-body" target="_blank" rel="noopener noreferrer">The Body by QPOCMA</a><br>
-      </td>
-
+ 
      
 </table>
 

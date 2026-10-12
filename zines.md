@@ -114,9 +114,17 @@ Check out some of the things we published. Right click and choose Save Link As t
    </td>
 </tr>
 </table>
-<table> 
    <tr> Some other Kewl Zines We Like:
- 
+ <table>
+   <tr>
+   <td>
+   <img src="/assets/zine.png" alt="Zine Volume 1i">
+
+<br>
+
+<a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
+      </td>
+   <td>
      
 </table>
 

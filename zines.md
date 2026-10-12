@@ -35,7 +35,7 @@ Check out some of the things we published. Right click and choose Save Link As t
       </td>
 </table>
 
-Essays on Self-Defense
+<h1>Essays on Self-Defense</h1>
 
 <table>
    <tr>
@@ -62,7 +62,7 @@ Essays on Self-Defense
 </tr>
 </table>
 
-Self-Defense Curriculum
+<h1>Self-Defense Curriculum</h1> 
 
 <table>
      <td>
@@ -73,7 +73,7 @@ Self-Defense Curriculum
    </td>
 </table>
 
-De-Escalation
+<h1>De-Escalation</h1>
 
 <table>
    <tr>
@@ -94,7 +94,7 @@ De-Escalation
 </tr>
 </table>
 
-Know Your Rights
+<h1>Know Your Rights</h1>
 
 <table>
    <tr>
@@ -120,7 +120,6 @@ Know Your Rights
      
 </table>
 
-<table>
 
 
 

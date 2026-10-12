@@ -28,7 +28,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 </td>
 <table>
 <td>
-             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="200" height="400"><br>
+             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="150" height="300"><br>
        
 <a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk" target="_blank" rel="noopener noreferrer">Self Defense Zine</a><br>
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 

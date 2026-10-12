@@ -114,7 +114,7 @@ Check out some of the things we published. Right click and choose Save Link As t
    </td>
 </tr>
 </table>
-   <tr> Some other Kewl Zines We Like:
+   <tr> <h1>Some other Kewl Zines We Like:</h1>
  <table>
    <tr>
    <td>

@@ -92,6 +92,7 @@ De-Escalation
 <a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
    </td>
 </tr>
+</table>
 
 Know Your Rights
 

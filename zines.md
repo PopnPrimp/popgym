@@ -28,30 +28,12 @@ Practical Self-Defense
 </td>
 <table>
 <td>
-             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="200" height="200"><br>
+             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="180" height="200"><br>
        
 <a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk" target="_blank" rel="noopener noreferrer">Self Defense Zine</a><br>
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 
       </td>
 </table>
-
-<table>
-   <tr>
-   <td>
-   <img src="/assets/zine.png" alt="Zine Volume 1i">
-
-<br>
-
-<a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
-      </td>
-   <td>
-   <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center> 
-
-<br>
-
-<a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
-   </td>
-</tr>
 
 Essays on Self-Defense
 

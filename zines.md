@@ -28,7 +28,7 @@ Practical Self-Defense
 </td>
 <table>
 <td>
-             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="100" height="200"><br>
+             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="200" height="400"><br>
        
 <a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk" target="_blank" rel="noopener noreferrer">Self Defense Zine</a><br>
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 

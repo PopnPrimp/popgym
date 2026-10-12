@@ -20,7 +20,6 @@ Practical Self-Defense
          <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="300" height="220"><br>
 
 <a href="https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Soar Over Hate Zine</a><br> 
-   </td>
 
  <td>
          <img src="/assets/aawzinelogo.png" alt="Angry Asian Womxn Logo" width="200" height="250"><br>

@@ -16,7 +16,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)</a><br> 
    </td>
  <td>
-         <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="200" height="170"><br>
+         <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="300" height="170"><br>
 
 <a href="https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Soar Over Hate Zine</a><br> 
 
@@ -27,7 +27,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 </td>
 <td>
-             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="170" height="300"><br>
+             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="200" height="300"><br>
        
 <a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk" target="_blank" rel="noopener noreferrer">Self Defense Zine</a><br>
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 
@@ -74,19 +74,19 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club Printable</a><br> 
    </td>
      <td>
-         <img src="/assets/sweetscience.png" alt="Sweet Science Cover" width="400" height="500"><br>
+         <img src="/assets/sweetscience.png" alt="Sweet Science Cover" width="200" height="250"><br>
 
 <a href="https://archive.org/details/how-to-build-martial-arts-and-community-defense-training-programs-online-reading-version" target="_blank" rel="noopener noreferrer">How To Build Martial Arts And Community Defense Training Programs</a><br> 
 <a href="https://archive.org/details/how-to-build-martial-arts-and-community-defense-training-programs-imposed" target="_blank" rel="noopener noreferrer">How To Build Martial Arts And Community Defense Training Programs Printable</a><br> 
    </td>
     <td>
-         <img src="/assets/Traction.png" alt="Traction Project" width="400" height="500"><br>
+         <img src="/assets/Traction.png" alt="Traction Project" width="200" height="250"><br>
 
 <a href="https://degenderettes.org/pdfs/Self-Defense-Curriculum-Reading.pdf" target="_blank" rel="noopener noreferrer">Traction Project Self-Defense Curriculum</a><br> 
 <a href="https://degenderettes.org/pdfs/Self-Defense-Curriculum-Printing.pdf" target="_blank" rel="noopener noreferrer">Traction Project Self-Defense Curriculum Printable</a><br> 
    </td>
       <td>
-         <img src="/assets/Traction2.png" alt="Traction Project" width="400" height="500"><br>
+         <img src="/assets/Traction2.png" alt="Traction Project" width="200" height="250"><br>
 
 <a href="https://degenderettes.org/pdfs/Training-Protocol-and-Class-Management-Reading.pdf" target="_blank" rel="noopener noreferrer">Traction Project Protocols and Class Management</a><br> 
 <a href="https://degenderettes.org/pdfs/Training-Protocols-and-Class-Management-Printing.pdf" target="_blank" rel="noopener noreferrer">Traction Project Self-Defense Curriculum Printable</a><br> 

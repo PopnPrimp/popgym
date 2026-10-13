@@ -111,7 +111,11 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <table>
    <tr>
-  </td>
+      <td>
+         <img src="/assets/NLG.png" alt="NLG" width="200" height="250"><br>
+
+<a href="https://www.nlg.org/kyr-booklet/" target="_blank" rel="noopener noreferrer">Know Your Rights</a><br> 
+</td>
         <td>
          <img src="/assets/ICE.png" alt="ICE" width="200" height="250"><br>
 

@@ -111,20 +111,13 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <table>
    <tr>
-   <td>
-   <img src="/assets/zine.png" alt="Zine Volume 1i">
+  </td>
+        <td>
+         <img src="/assets/ICE.png" alt="ICE" width="200" height="250"><br>
 
-<br>
-
-<a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
-      </td>
-   <td>
-   <center><img src="/assets/zine2image.png" alt="Zine Volume 2"></center> 
-
-<br>
-
-<a href="/assets/zinesiteedit2.pdf" target="_blank" rel="noopener noreferrer"> Pop Gym Zine #2</a>
-   </td>
+<a href="https://www.immigrantdefenseproject.org/know-your-rights-with-ice/" target="_blank" rel="noopener noreferrer">Know Your Rights with ICE (English, Spanish, Arabic, Bangla, more languages) </a><br> 
+</td>
+   
 </tr>
 </table>
    <tr> <h1>Some other Kewl Zines We Like:</h1>

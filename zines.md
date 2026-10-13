@@ -14,7 +14,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)</a><br> 
    </td>
-<table>
  <td>
          <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="200" height="170"><br>
 
@@ -26,7 +25,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://linktr.ee/aawsubwayguide" target="_blank" rel="noopener noreferrer">Angy Asian Womxn Zine (English, Arabic, Bengali, Chinese, Hindi, Punjabi, Urdu)</a><br>
 
 </td>
-<table>
 <td>
              <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="170" height="300"><br>
        

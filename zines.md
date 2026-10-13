@@ -124,16 +124,14 @@ Check out some of the things we published. Right click and choose Save Link As t
    
 </tr>
 </table>
-   <tr> <h1>Some other Kewl Zines We Like:</h1>
+<h1>Some other Kewl Zines We Like:</h1>
  <table>
    <tr>
-   <td>
-   <img src="/assets/zine.png" alt="Zine Volume 1i">
+    <td>
+         <img src="/assets/jane.png" alt="Jane Adams" width="200" height="250"><br>
 
-<br>
-
-<a href="/assets/zinesitefinal1.pdf" target="_blank" rel="noopener noreferrer">Pop Gym Zine #1</a> 
-      </td>
+<a href="https://mutualaiddisasterrelief.org/wp-content/uploads/2020/04/Mutual-Aid-Trauma-Resiliency-Jane-Addams-Collective-Printing-Version.pdf" target="_blank" rel="noopener noreferrer">Mutual Aid, Trauma, and Resiliency </a><br> 
+</td>
      
 </table>
 

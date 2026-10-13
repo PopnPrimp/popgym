@@ -8,7 +8,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <h1>Practical Self-Defense</h1>
 
-<table>
+<table><
 <tr> 
  <td>
          <img src="/assets/aafcae.png" alt="Stay Safe from Hate Zine" width="200" height="262"><br>
@@ -33,8 +33,9 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 
       </td>
 
-  </tr>
+</tr>
 </table>
+
 
 <h1>Essays on Self-Defense</h1>
 

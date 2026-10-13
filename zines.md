@@ -15,7 +15,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)</a><br> 
    </td>
  <td>
-         <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="300" height="170"><br>
+         <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="400" height="170"><br>
 
 <a href="https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Soar Over Hate Zine</a><br> 
 
@@ -26,7 +26,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 </td>
 <td>
-             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="200" height="300"><br>
+             <img src="/assets/wsdzine.png" alt="Self Defense, The Zine" width="300" height="300"><br>
        
 <a href="https://ln.sync.com/dl/b3d9079c0/9r4ijtth-vaip6fr3-8egk3mte-giq697xk" target="_blank" rel="noopener noreferrer">Self Defense Zine</a><br>
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 
@@ -116,12 +116,11 @@ Check out some of the things we published. Right click and choose Save Link As t
          <img src="/assets/ICE.png" alt="ICE" width="200" height="250"><br>
 
 <a href="https://www.immigrantdefenseproject.org/know-your-rights-with-ice/" target="_blank" rel="noopener noreferrer">Know Your Rights with ICE (English, Spanish, Arabic, Bangla, more languages) </a><br> 
-</td>
+ </td>
 </table>
 
 <h1>Some other Kewl Zines We Like:</h1>
- <table>
-   <tr>
+<table>
     <td>
          <img src="/assets/Jane.png" alt="Jane Adams" width="200" height="250"><br>
 

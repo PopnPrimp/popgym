@@ -13,12 +13,12 @@ Check out some of the things we published. Right click and choose Save Link As t
          <img src="/assets/aafcae.png" alt="Stay Safe from Hate Zine" width="200" height="262"><br>
 
 <a href="https://www.aafederation.org/wp-content/uploads/2022/11/Stay-Safe-from-Hate-booklet.pdf" target="_blank" rel="noopener noreferrer">Stay Safe from Hate by AAF and CAE (English, Chinese, Japanese, Korean, Tagalog, Vietnamese)</a><br> 
-   </td>
+ </td>
  <td>
          <img src="/assets/SOHlogo.png" alt="Soar Over Hate Logo" width="400" height="170"><br>
 
 <a href="https://drive.google.com/file/d/16RoymwB5_Pk89kiaMYGoVuZ7s12BXQGP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Soar Over Hate Zine</a><br> 
-
+ </td>
  <td>
          <img src="/assets/aawzinelogo.png" alt="Angry Asian Womxn Logo" width="200" height="250"><br>
 

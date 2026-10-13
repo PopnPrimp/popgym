@@ -83,6 +83,12 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://degenderettes.org/pdfs/Self-Defense-Curriculum-Reading.pdf" target="_blank" rel="noopener noreferrer">Traction Project Self-Defense Curriculum</a><br> 
 <a href="https://degenderettes.org/pdfs/Self-Defense-Curriculum-Printing.pdf" target="_blank" rel="noopener noreferrer">Traction Project Self-Defense Curriculum Printable</a><br> 
    </td>
+      <td>
+         <img src="/assets/Traction2.png" alt="Traction Project" width="400" height="500"><br>
+
+<a href="https://degenderettes.org/pdfs/Training-Protocol-and-Class-Management-Reading.pdf" target="_blank" rel="noopener noreferrer">Traction Project Protocols and Class Management</a><br> 
+<a href="https://degenderettes.org/pdfs/Training-Protocols-and-Class-Management-Printing.pdf" target="_blank" rel="noopener noreferrer">Traction Project Self-Defense Curriculum Printable</a><br> 
+   </td>
 </table>
 
 <h1>De-Escalation</h1>

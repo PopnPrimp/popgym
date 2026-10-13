@@ -97,7 +97,13 @@ Check out some of the things we published. Right click and choose Save Link As t
         <td>
          <img src="/assets/deescalate.png" alt="de-escalatae" width="200" height="250"><br>
 
-<a href="https://www.scribd.com/document/849870952/DeEscalation-and-Grounding-zine-1" target="_blank" rel="noopener noreferrer">DeEscalation and Grounding Skills</a><br> 
+<a href="https://www.scribd.com/document/849870952/DeEscalation-and-Grounding-zine-1" target="_blank" rel="noopener noreferrer">De-Escalation and Grounding Skills</a><br> 
+</td>
+        <td>
+         <img src="/assets/harm.png" alt="harm" width="200" height="250"><br>
+
+<a href="https://f12network.wordpress.com/wp-content/uploads/2017/03/f12whattodowhenharmoccurs_onesheet.pdf" target="_blank" rel="noopener noreferrer">What to do When Harm Occurs</a><br> 
+</td>
 </tr>
 </table>
 

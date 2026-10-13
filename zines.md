@@ -95,7 +95,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <table>
         <td>
-         <img src="/assets/deescalate.png" alt="de-escalatae" width="400" height="500"><br>
+         <img src="/assets/deescalate.png" alt="de-escalatae" width="200" height="250"><br>
 
 <a href="https://www.scribd.com/document/849870952/DeEscalation-and-Grounding-zine-1" target="_blank" rel="noopener noreferrer">DeEscalation and Grounding Skills</a><br> 
 </tr>

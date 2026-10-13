@@ -78,7 +78,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://archive.org/details/how-to-build-martial-arts-and-community-defense-training-programs-imposed" target="_blank" rel="noopener noreferrer">How To Build Martial Arts And Community Defense Training Programs Printable</a><br> 
    </td>
     <td>
-         <img src="/assets/traction.png" alt="Traction Project" width="400" height="500"><br>
+         <img src="/assets/Traction.png" alt="Traction Project" width="400" height="500"><br>
 
 <a href="https://degenderettes.org/pdfs/Self-Defense-Curriculum-Reading.pdf" target="_blank" rel="noopener noreferrer">Traction Project Self-Defense Curriculum</a><br> 
 <a href="https://degenderettes.org/pdfs/Self-Defense-Curriculum-Printing.pdf" target="_blank" rel="noopener noreferrer">Traction Project Self-Defense Curriculum Printable</a><br> 

@@ -72,7 +72,7 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://phlanticap.noblogs.org/files/2024/04/balagoon-boxing-club-zine-imposed-copy.pdf" target="_blank" rel="noopener noreferrer">Balagoon Boxing Club Printable</a><br> 
    </td>
      <td>
-         <img src="/assets/balagoonzinelogo.png" alt="Balagoon Boxing Club Logo" width="200" height="250"><br>
+         <img src="/assets/sweetscience.png" alt="Sweet Science Cover" width="200" height="250"><br>
 
 <a href="https://archive.org/details/how-to-build-martial-arts-and-community-defense-training-programs-online-reading-version" target="_blank" rel="noopener noreferrer">How To Build Martial Arts And Community Defense Training Programs</a><br> 
 <a href="https://archive.org/details/how-to-build-martial-arts-and-community-defense-training-programs-imposed" target="_blank" rel="noopener noreferrer">How To Build Martial Arts And Community Defense Training Programs Printable</a><br> 

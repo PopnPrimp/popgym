@@ -107,7 +107,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 <h1>Know Your Rights</h1>
 
 <table>
-   <tr>
       <td>
          <img src="/assets/NLG.png" alt="NLG" width="200" height="250"><br>
 
@@ -118,9 +117,8 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <a href="https://www.immigrantdefenseproject.org/know-your-rights-with-ice/" target="_blank" rel="noopener noreferrer">Know Your Rights with ICE (English, Spanish, Arabic, Bangla, more languages) </a><br> 
 </td>
-   
-</tr>
 </table>
+
 <h1>Some other Kewl Zines We Like:</h1>
  <table>
    <tr>
@@ -128,8 +126,8 @@ Check out some of the things we published. Right click and choose Save Link As t
          <img src="/assets/Jane.png" alt="Jane Adams" width="200" height="250"><br>
 
 <a href="https://mutualaiddisasterrelief.org/wp-content/uploads/2020/04/Mutual-Aid-Trauma-Resiliency-Jane-Addams-Collective-Printing-Version.pdf" target="_blank" rel="noopener noreferrer">Mutual Aid, Trauma, and Resiliency </a><br> 
-</td>
-     
+
+</td>  
 </table>
 
 

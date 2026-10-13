@@ -77,6 +77,12 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://archive.org/details/how-to-build-martial-arts-and-community-defense-training-programs-online-reading-version" target="_blank" rel="noopener noreferrer">How To Build Martial Arts And Community Defense Training Programs</a><br> 
 <a href="https://archive.org/details/how-to-build-martial-arts-and-community-defense-training-programs-imposed" target="_blank" rel="noopener noreferrer">How To Build Martial Arts And Community Defense Training Programs Printable</a><br> 
    </td>
+    <td>
+         <img src="/assets/sweetscience.png" alt="Sweet Science Cover" width="400" height="500"><br>
+
+<a href="https://archive.org/details/how-to-build-martial-arts-and-community-defense-training-programs-online-reading-version" target="_blank" rel="noopener noreferrer">How To Build Martial Arts And Community Defense Training Programs</a><br> 
+<a href="https://archive.org/details/how-to-build-martial-arts-and-community-defense-training-programs-imposed" target="_blank" rel="noopener noreferrer">How To Build Martial Arts And Community Defense Training Programs Printable</a><br> 
+   </td>
 </table>
 
 <h1>De-Escalation</h1>

@@ -9,7 +9,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 <h1>Practical Self-Defense</h1>
 
 <table>
-<tr> 
  <td>
          <img src="/assets/aafcae.png" alt="Stay Safe from Hate Zine" width="200" height="262"><br>
 
@@ -33,14 +32,12 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="/assets/WSDZineFinal.pdf" target="_blank" rel="noopener noreferrer">Self Defense Zine for Print</a> 
       </td>
 
-</tr>
 </table>
 
 
 <h1>Essays on Self-Defense</h1>
 
 <table>
-   <tr>
    <td>
    <img src="/assets/zine.png" alt="Zine Volume 1i">
 
@@ -61,7 +58,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 <a href="https://qpocma.itch.io/the-body" target="_blank" rel="noopener noreferrer">The Body by QPOCMA</a><br>
       </td>
 
-</tr>
 </table>
 
 <h1>Self-Defense Curriculum</h1> 
@@ -106,7 +102,6 @@ Check out some of the things we published. Right click and choose Save Link As t
 
 <a href="https://f12network.wordpress.com/wp-content/uploads/2017/03/f12whattodowhenharmoccurs_onesheet.pdf" target="_blank" rel="noopener noreferrer">What to do When Harm Occurs</a><br> 
 </td>
-</tr>
 </table>
 
 <h1>Know Your Rights</h1>

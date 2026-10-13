@@ -130,7 +130,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Southpaw Pod](https://www.southpawpod.com/){:target="_blank"}- Mixed martial arts and training podcast, featuring the [Liberation Martial Arts Online](https://www.patreon.com/posts/liberation-arts-72505630){:target="_blank"} curriculum' [@southpawpod](https://www.instagram.com/southpawpod/){:target="_blank"} on Insta
 
 * [The Traction Project](https://traction-project.org/){:target="_blank"} Publications ([@tractionproject](https://www.instagram.com/tractionproject/){:target="_blank"} on Insta)- 
-  * [For BJJ Coaches of Transgender Students]([https://traction-project.org/bjjcoaches/](https://degenderettes.org/bjjcoaches)){:target="_blank"}- Written by Scout Tran
+  * [For BJJ Coaches of Transgender Students](https://degenderettes.org/bjjcoaches){:target="_blank"}- Written by Scout Tran
   * [Running Your Own Classes](https://degenderettes.org/teachingguide){:target="_blank"}
   * [Self-Defense Curriculum & Class Guides](https://degenderettes.org/curriculum){:target="_blank"}
   

@@ -4,7 +4,9 @@ permalink: "/zines/"
 layout: page
 ---
 
-Check out some of the things we published. Right click and choose Save Link As to download
+<iframe src="https://giphy.com/embed/NFA61GS9qKZ68" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reading-dot-strategies-NFA61GS9qKZ68">via GIPHY</a></p>
+
+Check out some of the things we published, plus some other kewl self-defense zines from groups we like. Click through the links to get the downloads!
 
 <h1>Practical Self-Defense</h1>
 

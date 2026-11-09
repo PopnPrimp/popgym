@@ -14,7 +14,7 @@ PLEASE READ: This list consists of programs, gyms, and resources that have been 
 
 Note: While we do our best to fully check out each resource we have listed here, situations may change without our knowing (i.e. problematic behavior might occur, a location might close, etc.). If you have any great resources to add (or any information on current resources we have listed), please feel free to email us at info@popgym.org, so that we work together to make a resource list that is beneficial to the community at large.
 
-## Resource List (updated 10/05/2026)
+## Resource List (updated 11/09/2026)
 
 ### Physical Self-Defense Programs (NYC-Based)
 
@@ -38,15 +38,26 @@ Note: While we do our best to fully check out each resource we have listed here,
 * [Trans Boxing](https://www.transboxing.org/){:target="_blank"}- Boxing classes and resources for Trans and NB folk; [@transboxing](https://www.instagram.com/transboxing/){:target="_blank"} on Insta
   * Want to know more? [Check out our interview with Nola Hanson of Trans Boxing here](/resmonth/nola-hanson-trans-boxing-august-2019.md){:target="_blank"} 
 
+### Kids/Teens Programming
+
+** [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitnessc/){:target="_blank"} - Boxing classes for youth, teens, and adults
+
+* [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
+
+* [For Our Liberation Youth MMA]([https://harlemfreefight.org/](https://www.instagram.com/p/DfFoR_wAVmN/?img_index=1){:target="_blank"}- Weekly MMA classes at St. John's Park from 12-2:30 PM for youth of color ages 13-18
+
+* [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing, Muay Thai and Brazilian jiu jitsu to teens 15-22; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
+
+* Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly as well as [in the Bronx](https://www.instagram.com/lefthooknyc_bx/){:target="_blank"}
+
+* [Unity Jiu Jitsu](https://unityjiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu classes for kids and adults, featuring adaptive BJJ and self-defense classes for physically and visually impaired; [@unityjiujitsu](https://www.instagram.com/unityjiujitsu/){:target="_blank"} on Insta
+
+
 #### Martial Arts Programming
 
 * [Come Forever Self-Defense Class](https://www.instagram.com/p/DXrWQXwDuOA/?img_index=1){:target="_blank"}- Mask-required weekly Saturday self-defense class with no-contact sparring
 
-* [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing and Brazilian jiu jitsu to teens 13-19; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
-
 * [Hood School](https://www.instagram.com/hoodschoolnyc/){:target="_blank"}- Self-Defense programming in Harlem and other locations in NYC
-
-* Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly as well as [in the Bronx](https://www.instagram.com/lefthooknyc_bx/){:target="_blank"}
 
 * [Leoa Jiu-Jitsu](https://www.instagram.com/leoajiujitsu/){:target="_blank"}- Womens BJJ classes, operating out of [Kawabonsai](https://www.instagram.com/kawabonsai/){:target="_blank"} in Greenpoint
 
@@ -64,17 +75,13 @@ Note: While we do our best to fully check out each resource we have listed here,
 ### Gyms We Like
 
 **Brooklyn**
-* [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitness/){:target="_blank"} - Boxing classes for youth, teens, and adults
+* [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitnessc/){:target="_blank"} - Boxing classes for youth, teens, and adults
 
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 
-* [Jao Maa Brazilian Jiu-Jitsu](https://jmabkny.com/){:target="_blank"}- Brazilian Jiu-Jitsu, classes for kids and adults; [@jmabkny](https://www.instagram.com/jmabkny/){:target="_blank"} on Insta
-
 * [Jiu Jitsu Lounge](https://www.thejiujitsulounge.com/){:target="_blank"}- BJJ school; [@thejiujtisulounge](https://www.instagram.com/thejiujitsulounge/){:target="_blank"}
 
-* [Muse Movement Arts](https://www.instagram.com/p/DXkjvR8DtQn/){:target="_blank"}- This is a private study space in Brooklyn dedicated to the training, education and support of NYC's trans, queer, and SWer communities. Vetting is required to become a Muse. 
-
-* [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym, featuring beginner and intermdiate classses along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
+* [Outbox](https://www.outboxgym.com/){:target="_blank"}- Queer/Trans boxing gym with Muay Thai classes, featuring beginner and intermediate classes along with athletic classes; [@outboxnyc](https://www.instagram.com/outboxnyc/){:target="_blank"} on Insta
 
 * [The Dojo](https://www.thedojonyc.com/){:target="_blank"}- Monthly women's grappling events. [@thedojonyc](https://www.instagram.com/thedojonyc/){:target="_blank"} on Insta
 
@@ -97,7 +104,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 **Queens**
 
-* [34th St Saturday Kickboxing]- SUMMER of 2026, every Saturday morning at 34th ave and 93rd St at 9 AM in Jackson Heights
 
 * [Hinds Combat Sports](https://hindscombatsports.com/){:target="_blank"}- Muay Thai, Kickboxing, Brazilian JiuJitsu and Group Fitness Classes in Long Island City; [@hindscombatsports](https://www.instagram.com/hindscombatsports/){:target="_blank"} on Insta
 
@@ -105,8 +111,6 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Team Savage MMA](https://teamsavagemma.com/){:target="_blank"}- MMA School with LGBTQ BJJ classes every week; [@teamsavage_mma](https://www.instagram.com/teamsavage_mma/){:target="_blank"} on Insta
 
-
-  
   
 ### Online Resources
 

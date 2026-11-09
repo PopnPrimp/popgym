@@ -40,7 +40,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 ### Kids/Teens Programming
 
-** [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitnessc/){:target="_blank"} - Boxing classes for youth, teens, and adults
+* [Alchemist Boxing Fitness Club](https://www.instagram.com/alchemistboxingfitnessc/){:target="_blank"} - Boxing classes for youth, teens, and adults
 
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 

@@ -54,6 +54,8 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Queens Jiu-Jitsu](https://queensjiujitsu.com/getstarted/){:target="_blank"}- Classes for Adults and kids, with classes specifcially for Women, and some special open mat programming for Women and Non Binary folks; [queensjiujitsu](https://www.instagram.com/queensjiujitsu/) on Insta
 
+* [UMA Brooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"}- BJJ, Muay Thai, Boxing, Jeet Kun Do, Capoiera and other martial arts classes for adults and kids; [@umabrooklyn](https://www.instagram.com/umabrooklyn/){:target="_blank"} on Insta
+
 * [Unity Jiu Jitsu](https://unityjiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu classes for kids and adults, featuring adaptive BJJ and self-defense classes for physically and visually impaired; [@unityjiujitsu](https://www.instagram.com/unityjiujitsu/){:target="_blank"} on Insta
 
 

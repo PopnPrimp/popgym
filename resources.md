@@ -50,6 +50,10 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * Left Hook Boxing- Youth boxing program that meets at MayDay Space in Bushwick weekly as well as [in the Bronx](https://www.instagram.com/lefthooknyc_bx/){:target="_blank"}
 
+* [Metamorphosis Movement](https://www.metamove.love/){:target="_blank"}- Muay Thai classes for kids and adults with ckasses at Sisters Uptown Bookstore in Harlem; [metamorphosis.move](https://www.instagram.com/metamorphosis.move/){:target="_blank"} on Insta
+
+* [Queens Jiu-Jitsu](https://queensjiujitsu.com/getstarted/){:target="_blank"}- Classes for Adults and kids, with classes specifcially for Women, and some special open mat programming for Women and Non Binary folks; [queensjiujitsu](https://www.instagram.com/queensjiujitsu/) on Insta
+
 * [Unity Jiu Jitsu](https://unityjiujitsu.com/){:target="_blank"}- Brazilian Jiu-Jitsu classes for kids and adults, featuring adaptive BJJ and self-defense classes for physically and visually impaired; [@unityjiujitsu](https://www.instagram.com/unityjiujitsu/){:target="_blank"} on Insta
 
 

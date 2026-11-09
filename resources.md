@@ -44,7 +44,7 @@ Note: While we do our best to fully check out each resource we have listed here,
 
 * [Chop & Chops MMA](https://www.chopandchopsmma.com/){:target="_blank"} - MMA school in Brooklyn with some programming for Femme/NB folk; [@chopandchopsmma](https://www.instagram.com/chopandchopsmma/){:target="_blank"} on Insta
 
-* [For Our Liberation Youth MMA]([https://harlemfreefight.org/](https://www.instagram.com/p/DfFoR_wAVmN/?img_index=1){:target="_blank"}- Weekly MMA classes at St. John's Park from 12-2:30 PM for youth of color ages 13-18
+* [For Our Liberation Youth MMA](https://www.instagram.com/p/DfFoR_wAVmN/?img_index=1){:target="_blank"}- Weekly MMA classes at St. John's Park from 12-2:30 PM for youth of color ages 13-18
 
 * [Harlem Free Fight](https://harlemfreefight.org/){:target="_blank"}- Nonprofit teaching free boxing, Muay Thai and Brazilian jiu jitsu to teens 15-22; [@harlemfreefight](https://www.instagram.com/harlemfreefight/){:target="_blank"} on Insta
 
